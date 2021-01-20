@@ -1,0 +1,16 @@
+/home/capstone/autoware.ai/install/waypoint_maker/lib/pkgconfig/waypoint_maker.pc
+/home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/cmake/waypoint_makerConfig.cmake
+/home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/cmake/waypoint_makerConfig-version.cmake
+/home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/package.xml
+/home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_loader
+/home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_replanner
+/home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_saver
+/home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_clicker
+/home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_marker_publisher
+/home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_velocity_visualizer
+/home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_extractor
+/home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_creator
+/home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/launch/waypoint_velocity_visualizer.launch
+/home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/launch/waypoint_saver.launch
+/home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/launch/waypoint_loader.launch
+/home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/launch/waypoint_creator.launch

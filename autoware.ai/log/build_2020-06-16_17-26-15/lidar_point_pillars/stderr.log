@@ -1,0 +1,11 @@
+[0.165s] CMake Warning at /home/capstone/autoware.ai/install/autoware_build_flags/share/autoware_build_flags/cmake/autoware_build_flags-extras.cmake:36 (message):
+[0.165s]   CUDA support is disabled.  Set the AUTOWARE_COMPILE_WITH_CUDA environment
+[0.165s]   variable and recompile to enable it
+[0.165s] Call Stack (most recent call first):
+[0.165s]   CMakeLists.txt:9 (AW_CHECK_CUDA)
+[0.165s] 
+[0.165s] 
+[0.165s] CUDA NOT FOUND OR INCOMPATIBLE CMAKE VERSION FOUND
+[0.170s] TensorRT is NOT Available
+[0.194s] CUDNN is NOT Available
+[1.520s] PointPillars won't be built, CUDA and/or TensorRT were not found.

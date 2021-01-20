@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/as/lib/pkgconfig/as.pc
+/home/capstone/autoware.ai/install/as/share/as/cmake/asConfig.cmake
+/home/capstone/autoware.ai/install/as/share/as/cmake/asConfig-version.cmake
+/home/capstone/autoware.ai/install/as/share/as/package.xml
+/home/capstone/autoware.ai/install/as/lib/as/ssc_interface
+/home/capstone/autoware.ai/install/as/share/as/launch/ssc_interface.launch

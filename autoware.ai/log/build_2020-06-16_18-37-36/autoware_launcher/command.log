@@ -1,0 +1,6 @@
+[0.116s] Invoking command in '/home/capstone/autoware.ai/build/autoware_launcher': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_launcher -- -j12 -l12
+[0.580s] Invoked command in '/home/capstone/autoware.ai/build/autoware_launcher' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_launcher -- -j12 -l12
+[1.346s] Invoking command in '/home/capstone/autoware.ai/build/autoware_launcher': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_launcher --target tests -- -j12 -l12
+[2.329s] Invoked command in '/home/capstone/autoware.ai/build/autoware_launcher' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_launcher --target tests -- -j12 -l12
+[3.118s] Invoking command in '/home/capstone/autoware.ai/build/autoware_launcher': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_launcher --target install -- -j12 -l12
+[3.795s] Invoked command in '/home/capstone/autoware.ai/build/autoware_launcher' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_launcher --target install -- -j12 -l12

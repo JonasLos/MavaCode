@@ -1,0 +1,18 @@
+[0.067s] Invoking command in '/home/capstone/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu -- -j12 -l12
+[0.453s] [100%] Built target vg440_node
+[0.525s] Invoked command in '/home/capstone/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu -- -j12 -l12
+[1.132s] Invoking command in '/home/capstone/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target tests -- -j12 -l12
+[1.627s] Built target tests
+[1.802s] Invoked command in '/home/capstone/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target tests -- -j12 -l12
+[2.453s] Invoking command in '/home/capstone/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target install -- -j12 -l12
+[2.831s] [100%] Built target vg440_node
+[2.965s] [36mInstall the project...[0m
+[3.023s] -- Install configuration: "Release"
+[3.023s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/lib/pkgconfig/memsic_imu.pc
+[3.023s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig.cmake
+[3.024s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig-version.cmake
+[3.024s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/package.xml
+[3.024s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/lib/memsic_imu/vg440_node
+[3.024s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/launch
+[3.025s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/launch/vg440.launch
+[3.030s] Invoked command in '/home/capstone/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target install -- -j12 -l12

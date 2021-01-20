@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/gnss/lib/pkgconfig/gnss.pc
+/home/capstone/autoware.ai/install/gnss/share/gnss/cmake/gnssConfig.cmake
+/home/capstone/autoware.ai/install/gnss/share/gnss/cmake/gnssConfig-version.cmake
+/home/capstone/autoware.ai/install/gnss/share/gnss/package.xml
+/home/capstone/autoware.ai/install/gnss/include/gnss/geo_pos_conv.hpp
+/home/capstone/autoware.ai/install/gnss/lib/libgnss.so

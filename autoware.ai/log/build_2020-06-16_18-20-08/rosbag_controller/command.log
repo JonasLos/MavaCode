@@ -1,0 +1,6 @@
+[0.063s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller -- -j12 -l12
+[0.589s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller -- -j12 -l12
+[1.447s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target tests -- -j12 -l12
+[1.978s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target tests -- -j12 -l12
+[2.835s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target install -- -j12 -l12
+[3.465s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target install -- -j12 -l12

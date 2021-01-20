@@ -1,0 +1,7 @@
+[0.732s] Built target tests
+[1.194s] [36mInstall the project...[0m
+[1.237s] -- Install configuration: "Release"
+[1.237s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/lib/pkgconfig/lidar_point_pillars.pc
+[1.237s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/share/lidar_point_pillars/cmake/lidar_point_pillarsConfig.cmake
+[1.238s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/share/lidar_point_pillars/cmake/lidar_point_pillarsConfig-version.cmake
+[1.238s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/share/lidar_point_pillars/package.xml

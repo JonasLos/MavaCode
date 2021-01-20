@@ -1,0 +1,15 @@
+[0.325s] Invoking command in '/home/capstone/autoware.ai/build/gazebo_camera_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_camera_description -- -j12 -l12
+[1.192s] Invoked command in '/home/capstone/autoware.ai/build/gazebo_camera_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_camera_description -- -j12 -l12
+[2.050s] Invoking command in '/home/capstone/autoware.ai/build/gazebo_camera_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_camera_description --target tests -- -j12 -l12
+[3.209s] Built target tests
+[3.316s] Invoked command in '/home/capstone/autoware.ai/build/gazebo_camera_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_camera_description --target tests -- -j12 -l12
+[4.285s] Invoking command in '/home/capstone/autoware.ai/build/gazebo_camera_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_camera_description --target install -- -j12 -l12
+[5.036s] [36mInstall the project...[0m
+[5.142s] -- Install configuration: "Release"
+[5.144s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/lib/pkgconfig/gazebo_camera_description.pc
+[5.144s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/share/gazebo_camera_description/cmake/gazebo_camera_descriptionConfig.cmake
+[5.144s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/share/gazebo_camera_description/cmake/gazebo_camera_descriptionConfig-version.cmake
+[5.144s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/share/gazebo_camera_description/package.xml
+[5.145s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/share/gazebo_camera_description/urdf
+[5.145s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/share/gazebo_camera_description/urdf/monocular_camera.xacro
+[5.190s] Invoked command in '/home/capstone/autoware.ai/build/gazebo_camera_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_camera_description --target install -- -j12 -l12

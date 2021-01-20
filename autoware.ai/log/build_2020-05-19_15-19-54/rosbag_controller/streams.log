@@ -1,0 +1,87 @@
+[0.069s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/utilities/rosbag_controller -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/rosbag_controller
+[0.377s] -- The C compiler identification is GNU 7.5.0
+[0.635s] -- The CXX compiler identification is GNU 7.5.0
+[0.655s] -- Check for working C compiler: /usr/bin/cc
+[1.000s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.002s] -- Detecting C compiler ABI info
+[1.375s] -- Detecting C compiler ABI info - done
+[1.400s] -- Detecting C compile features
+[2.726s] -- Detecting C compile features - done
+[2.740s] -- Check for working CXX compiler: /usr/bin/c++
+[3.121s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.122s] -- Detecting CXX compiler ABI info
+[3.527s] -- Detecting CXX compiler ABI info - done
+[3.545s] -- Detecting CXX compile features
+[5.511s] -- Detecting CXX compile features - done
+[5.534s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/rosbag_controller/devel
+[5.535s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[5.548s] -- This workspace overlays: /home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[5.625s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[5.625s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[5.625s] -- Using Debian Python package layout
+[5.628s] -- Using empy: /usr/bin/empy
+[6.029s] -- Using CATKIN_ENABLE_TESTING: ON
+[6.031s] -- Call enable_testing()
+[6.047s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/rosbag_controller/test_results
+[6.144s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[6.144s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[6.242s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[6.245s] -- Looking for pthread.h
+[6.638s] -- Looking for pthread.h - found
+[6.640s] -- Looking for pthread_create
+[7.085s] -- Looking for pthread_create - not found
+[7.085s] -- Looking for pthread_create in pthreads
+[7.469s] -- Looking for pthread_create in pthreads - not found
+[7.470s] -- Looking for pthread_create in pthread
+[7.908s] -- Looking for pthread_create in pthread - found
+[7.911s] -- Found Threads: TRUE  
+[7.923s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[8.112s] -- catkin 0.7.23
+[8.114s] -- BUILD_SHARED_LIBS is on
+[9.816s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[10.756s] -- Using Qt5 based on the rviz_QT_VERSION: 5.9.5
+[11.404s] -- Boost version: 1.65.1
+[11.404s] -- Found the following Boost libraries:
+[11.405s] --   date_time
+[11.405s] --   filesystem
+[11.405s] --   program_options
+[11.405s] --   regex
+[11.405s] --   thread
+[11.406s] --   system
+[11.406s] --   chrono
+[11.406s] --   atomic
+[11.434s] -- Found BZip2: /usr/lib/x86_64-linux-gnu/libbz2.so (found version "1.0.6") 
+[11.436s] -- Looking for BZ2_bzCompressInit
+[11.924s] -- Looking for BZ2_bzCompressInit - found
+[12.615s] -- Checking to see if CXX compiler accepts flag -Wl,--version-script,"/home/capstone/autoware.ai/build/rosbag_controller/class_loader_hide_library_symbols__rosbag_controller.script"
+[13.121s] -- Checking to see if CXX compiler accepts flag -Wl,--version-script,"/home/capstone/autoware.ai/build/rosbag_controller/class_loader_hide_library_symbols__rosbag_controller.script" - yes
+[13.128s] -- Configuring done
+[13.326s] -- Generating done
+[13.382s] -- Build files have been written to: /home/capstone/autoware.ai/build/rosbag_controller
+[13.399s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/utilities/rosbag_controller -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/rosbag_controller
+[13.401s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller -- -j12 -l12
+[13.719s] [ 16%] [34m[1mGenerating ui_autoware_rosbag_plugin.h[0m
+[13.797s] [ 33%] [34m[1mGenerating src/moc_autoware_rosbag_plugin.cpp[0m
+[15.655s] [35m[1mScanning dependencies of target rosbag_controller[0m
+[15.990s] [ 50%] [32mBuilding CXX object CMakeFiles/rosbag_controller.dir/src/moc_autoware_rosbag_plugin.cpp.o[0m
+[30.513s] [ 66%] [32mBuilding CXX object CMakeFiles/rosbag_controller.dir/src/autoware_rosbag_plugin.cpp.o[0m
+[49.676s] [ 83%] [32mBuilding CXX object CMakeFiles/rosbag_controller.dir/src/core/recorder.cpp.o[0m
+[69.980s] [100%] [32m[1mLinking CXX shared library devel/lib/librosbag_controller.so[0m
+[71.334s] [100%] Built target rosbag_controller
+[71.395s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller -- -j12 -l12
+[73.443s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target tests -- -j12 -l12
+[73.800s] [35m[1mScanning dependencies of target tests[0m
+[73.911s] Built target tests
+[73.963s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target tests -- -j12 -l12
+[76.102s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target install -- -j12 -l12
+[76.546s] [100%] Built target rosbag_controller
+[76.691s] [36mInstall the project...[0m
+[76.759s] -- Install configuration: "Release"
+[76.759s] -- Installing: /home/capstone/autoware.ai/install/rosbag_controller/lib/pkgconfig/rosbag_controller.pc
+[76.760s] -- Installing: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/cmake/rosbag_controllerConfig.cmake
+[76.760s] -- Installing: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/cmake/rosbag_controllerConfig-version.cmake
+[76.761s] -- Installing: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/package.xml
+[76.762s] -- Installing: /home/capstone/autoware.ai/install/rosbag_controller/lib/librosbag_controller.so
+[76.778s] -- Set runtime path of "/home/capstone/autoware.ai/install/rosbag_controller/lib/librosbag_controller.so" to ""
+[76.778s] -- Installing: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/plugin_description.xml
+[76.789s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target install -- -j12 -l12

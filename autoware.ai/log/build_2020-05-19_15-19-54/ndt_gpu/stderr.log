@@ -1,0 +1,316 @@
+[10.575s] ** WARNING ** io features related to ensenso will be disabled
+[10.591s] ** WARNING ** io features related to davidSDK will be disabled
+[10.596s] ** WARNING ** io features related to dssdk will be disabled
+[10.597s] ** WARNING ** io features related to pcap will be disabled
+[10.597s] ** WARNING ** io features related to png will be disabled
+[10.951s] ** WARNING ** io features related to libusb-1.0 will be disabled
+[11.740s] ** WARNING ** visualization features related to ensenso will be disabled
+[11.755s] ** WARNING ** visualization features related to davidSDK will be disabled
+[11.760s] ** WARNING ** visualization features related to dssdk will be disabled
+[11.765s] ** WARNING ** visualization features related to rssdk will be disabled
+[15.835s] ptxas info    : 0 bytes gmem
+[23.580s] ptxas info    : 14 bytes gmem, 272 bytes cmem[3]
+[23.581s] ptxas info    : Compiling entry function '_ZN6thrust8cuda_cub4core13_kernel_agentINS0_14__parallel_for16ParallelForAgentINS0_11__transform17unary_transform_fINS_10device_ptrIiEEPiNS5_14no_stencil_tagENS_8identityIiEENS5_21always_true_predicateEEElEESE_lEEvT0_T1_' for 'sm_52'
+[23.581s] ptxas info    : Function properties for _ZN6thrust8cuda_cub4core13_kernel_agentINS0_14__parallel_for16ParallelForAgentINS0_11__transform17unary_transform_fINS_10device_ptrIiEEPiNS5_14no_stencil_tagENS_8identityIiEENS5_21always_true_predicateEEElEESE_lEEvT0_T1_
+[23.581s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.582s] ptxas info    : Used 8 registers, 352 bytes cmem[0]
+[23.582s] ptxas info    : Compiling entry function '_ZN6thrust8cuda_cub4core13_kernel_agentINS0_14__parallel_for16ParallelForAgentINS0_11__transform17unary_transform_fIPKiNS_10device_ptrIiEENS5_14no_stencil_tagENS_8identityIiEENS5_21always_true_predicateEEElEESF_lEEvT0_T1_' for 'sm_52'
+[23.582s] ptxas info    : Function properties for _ZN6thrust8cuda_cub4core13_kernel_agentINS0_14__parallel_for16ParallelForAgentINS0_11__transform17unary_transform_fIPKiNS_10device_ptrIiEENS5_14no_stencil_tagENS_8identityIiEENS5_21always_true_predicateEEElEESF_lEEvT0_T1_
+[23.582s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.582s] ptxas info    : Used 12 registers, 352 bytes cmem[0]
+[23.582s] ptxas info    : Compiling entry function '_ZN6thrust8cuda_cub4core13_kernel_agentINS0_6__scan9ScanAgentINS_10device_ptrIiEES6_NS_4plusIiEEiiNS_6detail17integral_constantIbLb0EEEEES6_S6_S8_iNS0_3cub13ScanTileStateIiLb1EEENS3_22AddInitToExclusiveScanIiS8_EEEEvT0_T1_T2_T3_T4_T5_' for 'sm_52'
+[23.582s] ptxas info    : Function properties for _ZN6thrust8cuda_cub4core13_kernel_agentINS0_6__scan9ScanAgentINS_10device_ptrIiEES6_NS_4plusIiEEiiNS_6detail17integral_constantIbLb0EEEEES6_S6_S8_iNS0_3cub13ScanTileStateIiLb1EEENS3_22AddInitToExclusiveScanIiS8_EEEEvT0_T1_T2_T3_T4_T5_
+[23.583s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.583s] ptxas info    : Used 47 registers, 360 bytes cmem[0], 4 bytes cmem[2]
+[23.583s] ptxas info    : Compiling entry function '_ZN6thrust8cuda_cub4core13_kernel_agentINS0_6__scan9InitAgentINS0_3cub13ScanTileStateIiLb1EEEiEES7_iEEvT0_T1_' for 'sm_52'
+[23.583s] ptxas info    : Function properties for _ZN6thrust8cuda_cub4core13_kernel_agentINS0_6__scan9InitAgentINS0_3cub13ScanTileStateIiLb1EEEiEES7_iEEvT0_T1_
+[23.583s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.583s] ptxas info    : Used 10 registers, 332 bytes cmem[0]
+[23.584s] ptxas info    : Compiling entry function '_ZN6thrust8cuda_cub3cub11EmptyKernelIvEEvv' for 'sm_52'
+[23.584s] ptxas info    : Function properties for _ZN6thrust8cuda_cub3cub11EmptyKernelIvEEvv
+[23.584s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.584s] ptxas info    : Used 2 registers, 320 bytes cmem[0]
+[23.584s] ptxas info    : Compiling entry function 'verifyDistances' for 'sm_52'
+[23.584s] ptxas info    : Function properties for verifyDistances
+[23.585s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.585s] ptxas info    : Used 11 registers, 348 bytes cmem[0]
+[23.585s] ptxas info    : Compiling entry function 'nearestPointSearch' for 'sm_52'
+[23.585s] ptxas info    : Function properties for nearestPointSearch
+[23.585s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.585s] ptxas info    : Used 28 registers, 448 bytes cmem[0], 16 bytes cmem[2]
+[23.586s] ptxas info    : Compiling entry function 'nearestOctreeNodeSearch' for 'sm_52'
+[23.586s] ptxas info    : Function properties for nearestOctreeNodeSearch
+[23.586s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.586s] ptxas info    : Used 56 registers, 408 bytes cmem[0], 20 bytes cmem[2]
+[23.586s] ptxas info    : Compiling entry function 'scatterPointsToVoxels' for 'sm_52'
+[23.586s] ptxas info    : Function properties for scatterPointsToVoxels
+[23.587s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.587s] ptxas info    : Used 19 registers, 408 bytes cmem[0], 12 bytes cmem[2]
+[23.587s] ptxas info    : Compiling entry function 'insertPointsToGrid' for 'sm_52'
+[23.587s] ptxas info    : Function properties for insertPointsToGrid
+[23.587s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.587s] ptxas info    : Used 19 registers, 400 bytes cmem[0], 12 bytes cmem[2]
+[23.587s] ptxas info    : Compiling entry function 'buildParent' for 'sm_52'
+[23.588s] ptxas info    : Function properties for buildParent
+[23.588s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.588s] ptxas info    : Used 32 registers, 380 bytes cmem[0], 32 bytes cmem[2]
+[23.588s] ptxas info    : Compiling entry function 'collectValidVoxelCount' for 'sm_52'
+[23.588s] ptxas info    : Function properties for collectValidVoxelCount
+[23.588s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.588s] ptxas info    : Used 10 registers, 348 bytes cmem[0]
+[23.588s] ptxas info    : Compiling entry function 'collectValidVoxels' for 'sm_52'
+[23.589s] ptxas info    : Function properties for collectValidVoxels
+[23.589s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.589s] ptxas info    : Used 11 registers, 356 bytes cmem[0]
+[23.589s] ptxas info    : Compiling entry function 'inspectCandidateVoxels' for 'sm_52'
+[23.589s] ptxas info    : Function properties for inspectCandidateVoxels
+[23.589s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.589s] ptxas info    : Used 39 registers, 424 bytes cmem[0], 20 bytes cmem[2]
+[23.590s] ptxas info    : Compiling entry function 'updateCandidateVoxelIds' for 'sm_52'
+[23.590s] ptxas info    : Function properties for updateCandidateVoxelIds
+[23.590s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.590s] ptxas info    : Used 32 registers, 400 bytes cmem[0]
+[23.590s] ptxas info    : Compiling entry function 'collectValidPoints' for 'sm_52'
+[23.591s] ptxas info    : Function properties for collectValidPoints
+[23.591s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.591s] ptxas info    : Used 11 registers, 348 bytes cmem[0]
+[23.592s] ptxas info    : Compiling entry function 'findBoundariesOfCandidateVoxels' for 'sm_52'
+[23.593s] ptxas info    : Function properties for findBoundariesOfCandidateVoxels
+[23.593s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.593s] ptxas info    : Used 27 registers, 448 bytes cmem[0], 12 bytes cmem[2]
+[23.593s] ptxas info    : Compiling entry function 'findMin' for 'sm_52'
+[23.594s] ptxas info    : Function properties for findMin
+[23.594s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.594s] ptxas info    : Used 17 registers, 352 bytes cmem[0]
+[23.594s] ptxas info    : Compiling entry function 'findMax' for 'sm_52'
+[23.594s] ptxas info    : Function properties for findMax
+[23.595s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.595s] ptxas info    : Used 17 registers, 352 bytes cmem[0]
+[23.595s] ptxas info    : Compiling entry function 'updateEval2' for 'sm_52'
+[23.595s] ptxas info    : Function properties for updateEval2
+[23.596s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.596s] ptxas info    : Used 20 registers, 344 bytes cmem[0], 8 bytes cmem[2]
+[23.596s] ptxas info    : Compiling entry function 'updateEval' for 'sm_52'
+[23.596s] ptxas info    : Function properties for updateEval
+[23.596s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.597s] ptxas info    : Used 20 registers, 408 bytes cmem[0]
+[23.597s] ptxas info    : Compiling entry function 'computeEvec2' for 'sm_52'
+[23.597s] ptxas info    : Function properties for computeEvec2
+[23.597s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.597s] ptxas info    : Used 32 registers, 408 bytes cmem[0]
+[23.597s] ptxas info    : Compiling entry function 'computeEvec11' for 'sm_52'
+[23.598s] ptxas info    : Function properties for computeEvec11
+[23.598s]     16 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.598s] ptxas info    : Used 40 registers, 408 bytes cmem[0], 52 bytes cmem[2]
+[23.598s] ptxas info    : Compiling entry function 'computeEvec10' for 'sm_52'
+[23.603s] ptxas info    : Function properties for computeEvec10
+[23.603s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.603s] ptxas info    : Used 48 registers, 408 bytes cmem[0], 28 bytes cmem[2]
+[23.604s] ptxas info    : Compiling entry function 'computeEvec01' for 'sm_52'
+[23.604s] ptxas info    : Function properties for computeEvec01
+[23.604s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.604s] ptxas info    : Used 40 registers, 408 bytes cmem[0], 44 bytes cmem[2]
+[23.604s] ptxas info    : Compiling entry function 'computeEvec00' for 'sm_52'
+[23.604s] ptxas info    : Function properties for computeEvec00
+[23.605s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.605s] ptxas info    : Used 56 registers, 408 bytes cmem[0]
+[23.605s] ptxas info    : Compiling entry function 'computeEigenvalues' for 'sm_52'
+[23.605s] ptxas info    : Function properties for computeEigenvalues
+[23.605s]     48 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.605s] ptxas info    : Used 55 registers, 408 bytes cmem[0], 332 bytes cmem[2]
+[23.606s] ptxas info    : Function properties for __internal_trig_reduction_slowpathd
+[23.606s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.612s] ptxas info    : Compiling entry function 'normalize' for 'sm_52'
+[23.630s] ptxas info    : Function properties for normalize
+[23.631s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.631s] ptxas info    : Used 56 registers, 408 bytes cmem[0], 20 bytes cmem[2]
+[23.631s] ptxas info    : Compiling entry function 'initBoolean' for 'sm_52'
+[23.631s] ptxas info    : Function properties for initBoolean
+[23.632s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.632s] ptxas info    : Used 8 registers, 332 bytes cmem[0]
+[23.632s] ptxas info    : Compiling entry function 'computeInverseCovariance' for 'sm_52'
+[23.632s] ptxas info    : Function properties for computeInverseCovariance
+[23.632s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.633s] ptxas info    : Used 40 registers, 352 bytes cmem[0], 20 bytes cmem[2]
+[23.633s] ptxas info    : Compiling entry function 'updateCovarianceS1' for 'sm_52'
+[23.633s] ptxas info    : Function properties for updateCovarianceS1
+[23.633s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.633s] ptxas info    : Used 32 registers, 368 bytes cmem[0]
+[23.633s] ptxas info    : Compiling entry function 'updateCovarianceS0' for 'sm_52'
+[23.634s] ptxas info    : Function properties for updateCovarianceS0
+[23.634s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.634s] ptxas info    : Used 26 registers, 356 bytes cmem[0]
+[23.634s] ptxas info    : Compiling entry function 'computeInverseEigenvectors' for 'sm_52'
+[23.634s] ptxas info    : Function properties for computeInverseEigenvectors
+[23.634s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.635s] ptxas info    : Used 40 registers, 356 bytes cmem[0], 20 bytes cmem[2]
+[23.635s] ptxas info    : Compiling entry function 'updateVoxelCovariance' for 'sm_52'
+[23.635s] ptxas info    : Function properties for updateVoxelCovariance
+[23.635s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.635s] ptxas info    : Used 48 registers, 360 bytes cmem[0], 32 bytes cmem[2]
+[23.635s] ptxas info    : Compiling entry function 'updateVoxelCentroid' for 'sm_52'
+[23.636s] ptxas info    : Function properties for updateVoxelCentroid
+[23.636s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.637s] ptxas info    : Used 30 registers, 340 bytes cmem[0], 32 bytes cmem[2]
+[23.637s] ptxas info    : Compiling entry function 'initCentroidAndCovariance' for 'sm_52'
+[23.638s] ptxas info    : Function properties for initCentroidAndCovariance
+[23.643s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[23.643s] ptxas info    : Used 46 registers, 380 bytes cmem[0], 8 bytes cmem[2]
+[30.707s] In file included from /usr/local/include/eigen3/Eigen/Core:257:0,
+[30.707s]                  from /usr/local/include/eigen3/Eigen/Dense:1,
+[30.708s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/Registration.h:10,
+[30.708s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/src/Registration.cu:1:
+[30.708s] /usr/local/cuda/include/host_defines.h:54:2: warning: #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead." [-Wcpp]
+[30.708s]  #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead."
+[30.708s]   ^~~~~~~
+[33.190s] In file included from /usr/local/include/eigen3/Eigen/Core:257:0,
+[33.190s]                  from /usr/local/include/eigen3/Eigen/Dense:1,
+[33.190s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/Registration.h:10,
+[33.191s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/src/Registration.cu:1:
+[33.191s] /usr/local/cuda/include/host_defines.h:54:2: warning: #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead." [-Wcpp]
+[33.191s]  #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead."
+[33.191s]   ^~~~~~~
+[36.289s] In file included from /usr/local/include/eigen3/Eigen/Core:257:0,
+[36.289s]                  from /usr/local/include/eigen3/Eigen/Dense:1,
+[36.290s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/Registration.h:10,
+[36.290s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/src/Registration.cu:1:
+[36.290s] /usr/local/cuda/include/host_defines.h:54:2: warning: #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead." [-Wcpp]
+[36.290s]  #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead."
+[36.290s]   ^~~~~~~
+[41.806s] ptxas info    : 0 bytes gmem
+[41.806s] ptxas info    : Compiling entry function '_ZN3gpu12convertInputIN3pcl8PointXYZEEEvPT_PfS5_S5_i' for 'sm_52'
+[41.807s] ptxas info    : Function properties for _ZN3gpu12convertInputIN3pcl8PointXYZEEEvPT_PfS5_S5_i
+[41.807s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[41.807s] ptxas info    : Used 14 registers, 356 bytes cmem[0]
+[41.807s] ptxas info    : Compiling entry function '_ZN3gpu12convertInputIN3pcl9PointXYZIEEEvPT_PfS5_S5_i' for 'sm_52'
+[41.807s] ptxas info    : Function properties for _ZN3gpu12convertInputIN3pcl9PointXYZIEEEvPT_PfS5_S5_i
+[41.808s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[41.808s] ptxas info    : Used 14 registers, 356 bytes cmem[0]
+[42.241s] In file included from /usr/local/include/eigen3/Eigen/Core:257:0,
+[42.241s]                  from /usr/local/include/eigen3/Eigen/Dense:1,
+[42.242s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/Registration.h:10,
+[42.242s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/src/Registration.cu:1:
+[42.242s] /usr/local/cuda/include/host_defines.h:54:2: warning: #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead." [-Wcpp]
+[42.242s]  #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead."
+[42.242s]   ^~~~~~~
+[52.568s] In file included from /usr/local/include/eigen3/Eigen/Core:257:0,
+[52.568s]                  from /usr/local/include/eigen3/Eigen/Dense:1,
+[52.568s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/Registration.h:10,
+[52.568s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/NormalDistributionsTransform.h:6,
+[52.569s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/src/NormalDistributionsTransform.cu:1:
+[52.569s] /usr/local/cuda/include/host_defines.h:54:2: warning: #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead." [-Wcpp]
+[52.569s]  #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead."
+[52.569s]   ^~~~~~~
+[55.674s] In file included from /usr/local/include/eigen3/Eigen/Core:257:0,
+[55.675s]                  from /usr/local/include/eigen3/Eigen/Dense:1,
+[55.675s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/Registration.h:10,
+[55.675s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/NormalDistributionsTransform.h:6,
+[55.675s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/src/NormalDistributionsTransform.cu:1:
+[55.676s] /usr/local/cuda/include/host_defines.h:54:2: warning: #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead." [-Wcpp]
+[55.676s]  #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead."
+[55.676s]   ^~~~~~~
+[59.187s] In file included from /usr/local/include/eigen3/Eigen/Core:257:0,
+[59.187s]                  from /usr/local/include/eigen3/Eigen/Dense:1,
+[59.187s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/Registration.h:10,
+[59.188s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/NormalDistributionsTransform.h:6,
+[59.188s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/src/NormalDistributionsTransform.cu:1:
+[59.188s] /usr/local/cuda/include/host_defines.h:54:2: warning: #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead." [-Wcpp]
+[59.188s]  #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead."
+[59.188s]   ^~~~~~~
+[79.021s] ptxas info    : 12 bytes gmem
+[79.021s] ptxas info    : Compiling entry function '_ZN3gpu6gpuSumIiEEvPT_ii' for 'sm_52'
+[79.021s] ptxas info    : Function properties for _ZN3gpu6gpuSumIiEEvPT_ii
+[79.021s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.022s] ptxas info    : Used 10 registers, 336 bytes cmem[0]
+[79.022s] ptxas info    : Compiling entry function '_ZN3gpu6gpuSumIdEEvPT_ii' for 'sm_52'
+[79.022s] ptxas info    : Function properties for _ZN3gpu6gpuSumIdEEvPT_ii
+[79.022s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.022s] ptxas info    : Used 11 registers, 336 bytes cmem[0]
+[79.022s] ptxas info    : Compiling entry function '_ZN3gpu12gpuTransformEPfS0_S0_S0_S0_S0_iNS_12MatrixDeviceE' for 'sm_52'
+[79.022s] ptxas info    : Function properties for _ZN3gpu12gpuTransformEPfS0_S0_S0_S0_S0_iNS_12MatrixDeviceE
+[79.022s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.022s] ptxas info    : Used 40 registers, 400 bytes cmem[0]
+[79.023s] ptxas info    : Compiling entry function '_ZN3gpu8sumScoreEPdii' for 'sm_52'
+[79.023s] ptxas info    : Function properties for _ZN3gpu8sumScoreEPdii
+[79.023s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.023s] ptxas info    : Used 12 registers, 336 bytes cmem[0]
+[79.023s] ptxas info    : Compiling entry function '_ZN3gpu9matrixSumEPdiiiii' for 'sm_52'
+[79.023s] ptxas info    : Function properties for _ZN3gpu9matrixSumEPdiiiii
+[79.023s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.023s] ptxas info    : Used 13 registers, 348 bytes cmem[0]
+[79.023s] ptxas info    : Compiling entry function '_ZN3gpu20computeHessianListS2EPfS0_S0_PiS1_S1_iPdS2_S2_dS2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_i' for 'sm_52'
+[79.023s] ptxas info    : Function properties for _ZN3gpu20computeHessianListS2EPfS0_S0_PiS1_S1_iPdS2_S2_dS2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_i
+[79.024s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.024s] ptxas info    : Used 40 registers, 508 bytes cmem[0]
+[79.024s] ptxas info    : Compiling entry function '_ZN3gpu20computeHessianListS1EPfS0_S0_PiS1_S1_iPdS2_S2_ddS2_S2_S2_S2_S2_i' for 'sm_52'
+[79.024s] ptxas info    : Function properties for _ZN3gpu20computeHessianListS1EPfS0_S0_PiS1_S1_iPdS2_S2_ddS2_S2_S2_S2_S2_i
+[79.024s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.024s] ptxas info    : Used 55 registers, 460 bytes cmem[0]
+[79.024s] ptxas info    : Compiling entry function '_ZN3gpu20computeHessianListS0EPfS0_S0_PiS1_S1_iPdS2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_i' for 'sm_52'
+[79.024s] ptxas info    : Function properties for _ZN3gpu20computeHessianListS0EPfS0_S0_PiS1_S1_iPdS2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_i
+[79.025s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.025s] ptxas info    : Used 32 registers, 492 bytes cmem[0]
+[79.025s] ptxas info    : Compiling entry function '_ZN3gpu15computeCovDxdPiEPiS0_S0_iPdiddS1_S1_i' for 'sm_52'
+[79.025s] ptxas info    : Function properties for _ZN3gpu15computeCovDxdPiEPiS0_S0_iPdiddS1_S1_i
+[79.025s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.025s] ptxas info    : Used 32 registers, 404 bytes cmem[0]
+[79.025s] ptxas info    : Compiling entry function '_ZN3gpu12updateExCovXEPddi' for 'sm_52'
+[79.025s] ptxas info    : Function properties for _ZN3gpu12updateExCovXEPddi
+[79.025s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.025s] ptxas info    : Used 8 registers, 340 bytes cmem[0]
+[79.026s] ptxas info    : Compiling entry function '_ZN3gpu13computeExCovXEPfS0_S0_PiS1_S1_iPdS2_S2_ddS2_S2_S2_S2_S2_S2_S2_S2_S2_S2_' for 'sm_52'
+[79.026s] ptxas info    : Function properties for _ZN3gpu13computeExCovXEPfS0_S0_PiS1_S1_iPdS2_S2_ddS2_S2_S2_S2_S2_S2_S2_S2_S2_S2_
+[79.026s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.026s] ptxas info    : Used 32 registers, 496 bytes cmem[0], 112 bytes cmem[2]
+[79.026s] ptxas info    : Compiling entry function '_ZN3gpu24computeScoreGradientListEPfS0_S0_PiS1_S1_iPdS2_S2_iS2_S2_diS2_' for 'sm_52'
+[79.026s] ptxas info    : Function properties for _ZN3gpu24computeScoreGradientListEPfS0_S0_PiS1_S1_iPdS2_S2_iS2_S2_diS2_
+[79.026s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.027s] ptxas info    : Used 40 registers, 448 bytes cmem[0]
+[79.027s] ptxas info    : Compiling entry function '_ZN3gpu16computeScoreListEPiS0_iPddS1_' for 'sm_52'
+[79.027s] ptxas info    : Function properties for _ZN3gpu16computeScoreListEPiS0_iPddS1_
+[79.027s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.027s] ptxas info    : Used 32 registers, 368 bytes cmem[0]
+[79.027s] ptxas info    : Compiling entry function '_ZN3gpu20computePointHessian2EPfS0_S0_iPiiPdS2_S2_S2_' for 'sm_52'
+[79.027s] ptxas info    : Function properties for _ZN3gpu20computePointHessian2EPfS0_S0_iPiiPdS2_S2_S2_
+[79.027s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.028s] ptxas info    : Used 32 registers, 72 bytes smem, 400 bytes cmem[0]
+[79.028s] ptxas info    : Compiling entry function '_ZN3gpu20computePointHessian1EPfS0_S0_iPiiPdS2_S2_S2_S2_S2_S2_S2_S2_S2_' for 'sm_52'
+[79.028s] ptxas info    : Function properties for _ZN3gpu20computePointHessian1EPfS0_S0_iPiiPdS2_S2_S2_S2_S2_S2_S2_S2_S2_
+[79.028s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.028s] ptxas info    : Used 56 registers, 144 bytes smem, 448 bytes cmem[0]
+[79.028s] ptxas info    : Compiling entry function '_ZN3gpu20computePointHessian0EPfS0_S0_iPiiPdS2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_' for 'sm_52'
+[79.028s] ptxas info    : Function properties for _ZN3gpu20computePointHessian0EPfS0_S0_iPiiPdS2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_S2_
+[79.029s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.029s] ptxas info    : Used 56 registers, 144 bytes smem, 496 bytes cmem[0]
+[79.029s] ptxas info    : Compiling entry function '_ZN3gpu22computePointGradients1EPfS0_S0_iPiiPdS2_S2_S2_S2_' for 'sm_52'
+[79.029s] ptxas info    : Function properties for _ZN3gpu22computePointGradients1EPfS0_S0_iPiiPdS2_S2_S2_S2_
+[79.029s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.029s] ptxas info    : Used 40 registers, 96 bytes smem, 408 bytes cmem[0]
+[79.029s] ptxas info    : Compiling entry function '_ZN3gpu22computePointGradients0EPfS0_S0_iPiiPdS2_S2_S2_S2_S2_S2_S2_' for 'sm_52'
+[79.029s] ptxas info    : Function properties for _ZN3gpu22computePointGradients0EPfS0_S0_iPiiPdS2_S2_S2_S2_S2_S2_S2_
+[79.029s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[79.029s] ptxas info    : Used 40 registers, 96 bytes smem, 432 bytes cmem[0]
+[79.415s] In file included from /usr/local/include/eigen3/Eigen/Core:257:0,
+[79.416s]                  from /usr/local/include/eigen3/Eigen/Dense:1,
+[79.416s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/Registration.h:10,
+[79.416s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/include/ndt_gpu/NormalDistributionsTransform.h:6,
+[79.416s]                  from /home/capstone/autoware.ai/src/autoware/core_perception/ndt_gpu/src/NormalDistributionsTransform.cu:1:
+[79.416s] /usr/local/cuda/include/host_defines.h:54:2: warning: #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead." [-Wcpp]
+[79.417s]  #warning "host_defines.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead."
+[79.417s]   ^~~~~~~
+[112.908s] ptxas info    : 0 bytes gmem
+[112.909s] ptxas info    : Compiling entry function 'copyMatrixDevToDev' for 'sm_52'
+[112.909s] ptxas info    : Function properties for copyMatrixDevToDev
+[112.909s]     0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+[112.909s] ptxas info    : Used 7 registers, 368 bytes cmem[0]
+[116.285s] ptxas info    : 0 bytes gmem
+[121.112s] ** WARNING ** io features related to ensenso will be disabled
+[121.128s] ** WARNING ** io features related to davidSDK will be disabled
+[121.133s] ** WARNING ** io features related to dssdk will be disabled
+[121.133s] ** WARNING ** io features related to pcap will be disabled
+[121.134s] ** WARNING ** io features related to png will be disabled
+[121.416s] ** WARNING ** io features related to libusb-1.0 will be disabled
+[121.540s] ** WARNING ** visualization features related to ensenso will be disabled
+[121.556s] ** WARNING ** visualization features related to davidSDK will be disabled
+[121.562s] ** WARNING ** visualization features related to dssdk will be disabled
+[121.567s] ** WARNING ** visualization features related to rssdk will be disabled

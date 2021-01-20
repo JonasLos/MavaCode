@@ -1,0 +1,6 @@
+[0.056s] Invoking command in '/home/capstone/autoware.ai/build/sick_lms5xx': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx -- -j12 -l12
+[7.645s] Invoked command in '/home/capstone/autoware.ai/build/sick_lms5xx' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx -- -j12 -l12
+[8.435s] Invoking command in '/home/capstone/autoware.ai/build/sick_lms5xx': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target tests -- -j12 -l12
+[8.944s] Invoked command in '/home/capstone/autoware.ai/build/sick_lms5xx' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target tests -- -j12 -l12
+[9.715s] Invoking command in '/home/capstone/autoware.ai/build/sick_lms5xx': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target install -- -j12 -l12
+[17.434s] Invoked command in '/home/capstone/autoware.ai/build/sick_lms5xx' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target install -- -j12 -l12

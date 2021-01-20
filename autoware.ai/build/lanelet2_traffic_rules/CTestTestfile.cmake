@@ -1,0 +1,9 @@
+# CMake generated Testfile for 
+# Source directory: /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_traffic_rules
+# Build directory: /home/capstone/autoware.ai/build/lanelet2_traffic_rules
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_lanelet2_traffic_rules_gtest_lanelet2_traffic_rules-lanelet2_traffic_rules-test "/home/capstone/autoware.ai/build/lanelet2_traffic_rules/catkin_generated/env_cached.sh" "/usr/bin/python2" "/opt/ros/melodic/share/catkin/cmake/test/run_tests.py" "/home/capstone/autoware.ai/build/lanelet2_traffic_rules/test_results/lanelet2_traffic_rules/gtest-lanelet2_traffic_rules-lanelet2_traffic_rules-test.xml" "--working-dir" "/home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_traffic_rules/test" "--return-code" "/home/capstone/autoware.ai/build/lanelet2_traffic_rules/devel/lib/lanelet2_traffic_rules/lanelet2_traffic_rules-lanelet2_traffic_rules-test --gtest_output=xml:/home/capstone/autoware.ai/build/lanelet2_traffic_rules/test_results/lanelet2_traffic_rules/gtest-lanelet2_traffic_rules-lanelet2_traffic_rules-test.xml")
+add_test(_ctest_lanelet2_traffic_rules_nosetests_test "/home/capstone/autoware.ai/build/lanelet2_traffic_rules/catkin_generated/env_cached.sh" "/usr/bin/python2" "/opt/ros/melodic/share/catkin/cmake/test/run_tests.py" "/home/capstone/autoware.ai/build/lanelet2_traffic_rules/test_results/lanelet2_traffic_rules/nosetests-test.xml" "--return-code" "\"/usr/bin/cmake\" -E make_directory /home/capstone/autoware.ai/build/lanelet2_traffic_rules/test_results/lanelet2_traffic_rules" "/usr/bin/nosetests-2.7 -P --process-timeout=60 --where=/home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_traffic_rules/test --with-xunit --xunit-file=/home/capstone/autoware.ai/build/lanelet2_traffic_rules/test_results/lanelet2_traffic_rules/nosetests-test.xml")
+subdirs("gtest")

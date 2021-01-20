@@ -1,0 +1,12 @@
+[0.532s] [100%] Built target map_tf_generator
+[1.981s] Built target tests
+[3.323s] [100%] Built target map_tf_generator
+[3.458s] [36mInstall the project...[0m
+[3.515s] -- Install configuration: "Release"
+[3.516s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tf_generator/lib/pkgconfig/map_tf_generator.pc
+[3.516s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tf_generator/share/map_tf_generator/cmake/map_tf_generatorConfig.cmake
+[3.516s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tf_generator/share/map_tf_generator/cmake/map_tf_generatorConfig-version.cmake
+[3.516s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tf_generator/share/map_tf_generator/package.xml
+[3.517s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tf_generator/lib/map_tf_generator/map_tf_generator
+[3.517s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tf_generator/share/map_tf_generator/launch
+[3.517s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tf_generator/share/map_tf_generator/launch/map_tf_generate.launch

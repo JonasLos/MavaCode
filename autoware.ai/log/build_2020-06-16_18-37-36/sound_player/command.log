@@ -1,0 +1,6 @@
+[0.131s] Invoking command in '/home/capstone/autoware.ai/build/sound_player': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sound_player -- -j12 -l12
+[0.389s] Invoked command in '/home/capstone/autoware.ai/build/sound_player' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sound_player -- -j12 -l12
+[0.818s] Invoking command in '/home/capstone/autoware.ai/build/sound_player': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sound_player --target tests -- -j12 -l12
+[1.344s] Invoked command in '/home/capstone/autoware.ai/build/sound_player' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sound_player --target tests -- -j12 -l12
+[1.714s] Invoking command in '/home/capstone/autoware.ai/build/sound_player': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sound_player --target install -- -j12 -l12
+[2.134s] Invoked command in '/home/capstone/autoware.ai/build/sound_player' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sound_player --target install -- -j12 -l12

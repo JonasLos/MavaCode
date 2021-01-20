@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/capstone/autoware.ai/build/sick_ldmrs_description/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e83fd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e83fd.dir/build.make CMakeFiles/cmTC_e83fd.dir/build
+make[1]: Entering directory '/home/capstone/autoware.ai/build/sick_ldmrs_description/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e83fd.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_e83fd.dir/CheckSymbolExists.c.o   -c /home/capstone/autoware.ai/build/sick_ldmrs_description/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_e83fd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e83fd.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_e83fd.dir/CheckSymbolExists.c.o  -o cmTC_e83fd 
+CMakeFiles/cmTC_e83fd.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_e83fd.dir/build.make:97: recipe for target 'cmTC_e83fd' failed
+make[1]: *** [cmTC_e83fd] Error 1
+make[1]: Leaving directory '/home/capstone/autoware.ai/build/sick_ldmrs_description/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e83fd/fast' failed
+make: *** [cmTC_e83fd/fast] Error 2
+
+File /home/capstone/autoware.ai/build/sick_ldmrs_description/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/capstone/autoware.ai/build/sick_ldmrs_description/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_38d79/fast"
+/usr/bin/make -f CMakeFiles/cmTC_38d79.dir/build.make CMakeFiles/cmTC_38d79.dir/build
+make[1]: Entering directory '/home/capstone/autoware.ai/build/sick_ldmrs_description/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_38d79.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_38d79.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_38d79
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_38d79.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_38d79.dir/CheckFunctionExists.c.o  -o cmTC_38d79 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_38d79.dir/build.make:97: recipe for target 'cmTC_38d79' failed
+make[1]: *** [cmTC_38d79] Error 1
+make[1]: Leaving directory '/home/capstone/autoware.ai/build/sick_ldmrs_description/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_38d79/fast' failed
+make: *** [cmTC_38d79/fast] Error 2
+
+

@@ -1,0 +1,6 @@
+[0.232s] Invoking command in '/home/capstone/autoware.ai/build/vector_map_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vector_map_msgs -- -j12 -l12
+[6.105s] Invoked command in '/home/capstone/autoware.ai/build/vector_map_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vector_map_msgs -- -j12 -l12
+[7.973s] Invoking command in '/home/capstone/autoware.ai/build/vector_map_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vector_map_msgs --target tests -- -j12 -l12
+[8.641s] Invoked command in '/home/capstone/autoware.ai/build/vector_map_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vector_map_msgs --target tests -- -j12 -l12
+[11.395s] Invoking command in '/home/capstone/autoware.ai/build/vector_map_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vector_map_msgs --target install -- -j12 -l12
+[19.336s] Invoked command in '/home/capstone/autoware.ai/build/vector_map_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vector_map_msgs --target install -- -j12 -l12

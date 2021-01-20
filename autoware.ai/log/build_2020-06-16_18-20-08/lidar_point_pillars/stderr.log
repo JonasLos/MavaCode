@@ -1,0 +1,18 @@
+[0.370s] CUDA is available!
+[0.371s] CUDA Libs: /usr/local/cuda/lib64/libcudart_static.a;-lpthread;dl;/usr/lib/x86_64-linux-gnu/librt.so
+[0.371s] CUDA Headers: /usr/local/cuda/include
+[0.385s] TensorRT is available!
+[0.385s] NVINFER: /usr/lib/x86_64-linux-gnu/libnvinfer.so
+[0.385s] NVPARSERS: /usr/lib/x86_64-linux-gnu/libnvparsers.so
+[0.385s] NVONNXPARSERS: /usr/lib/x86_64-linux-gnu/libnvonnxparser.so
+[0.418s] CUDNN is available!
+[0.418s] CUDNN_LIBRARY: /usr/lib/x86_64-linux-gnu/libcudnn.so
+[89.030s] CUDA is available!
+[89.031s] CUDA Libs: /usr/local/cuda/lib64/libcudart_static.a;-lpthread;dl;/usr/lib/x86_64-linux-gnu/librt.so
+[89.031s] CUDA Headers: /usr/local/cuda/include
+[89.031s] TensorRT is available!
+[89.031s] NVINFER: /usr/lib/x86_64-linux-gnu/libnvinfer.so
+[89.031s] NVPARSERS: /usr/lib/x86_64-linux-gnu/libnvparsers.so
+[89.031s] NVONNXPARSERS: /usr/lib/x86_64-linux-gnu/libnvonnxparser.so
+[89.032s] CUDNN is available!
+[89.032s] CUDNN_LIBRARY: /usr/lib/x86_64-linux-gnu/libcudnn.so

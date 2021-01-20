@@ -1,0 +1,12 @@
+[1.218s] [100%] Built target fastvirtualscan
+[6.149s] Built target tests
+[7.982s] [100%] Built target fastvirtualscan
+[8.202s] [36mInstall the project...[0m
+[8.321s] -- Install configuration: "Release"
+[8.322s] -- Up-to-date: /home/capstone/autoware.ai/install/fastvirtualscan/lib/pkgconfig/fastvirtualscan.pc
+[8.322s] -- Up-to-date: /home/capstone/autoware.ai/install/fastvirtualscan/share/fastvirtualscan/cmake/fastvirtualscanConfig.cmake
+[8.322s] -- Up-to-date: /home/capstone/autoware.ai/install/fastvirtualscan/share/fastvirtualscan/cmake/fastvirtualscanConfig-version.cmake
+[8.323s] -- Up-to-date: /home/capstone/autoware.ai/install/fastvirtualscan/share/fastvirtualscan/package.xml
+[8.323s] -- Up-to-date: /home/capstone/autoware.ai/install/fastvirtualscan/include/fastvirtualscan
+[8.323s] -- Up-to-date: /home/capstone/autoware.ai/install/fastvirtualscan/include/fastvirtualscan/fastvirtualscan.h
+[8.323s] -- Up-to-date: /home/capstone/autoware.ai/install/fastvirtualscan/lib/libfastvirtualscan.so

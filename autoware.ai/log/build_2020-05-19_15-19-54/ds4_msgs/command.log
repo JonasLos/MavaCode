@@ -1,0 +1,8 @@
+[0.147s] Invoking command in '/home/capstone/autoware.ai/build/ds4_msgs': /usr/bin/cmake /home/capstone/autoware.ai/src/drivers/ds4/ds4_msgs -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/ds4_msgs
+[16.702s] Invoked command in '/home/capstone/autoware.ai/build/ds4_msgs' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/drivers/ds4/ds4_msgs -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/ds4_msgs
+[16.704s] Invoking command in '/home/capstone/autoware.ai/build/ds4_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs -- -j12 -l12
+[23.646s] Invoked command in '/home/capstone/autoware.ai/build/ds4_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs -- -j12 -l12
+[24.734s] Invoking command in '/home/capstone/autoware.ai/build/ds4_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs --target tests -- -j12 -l12
+[25.206s] Invoked command in '/home/capstone/autoware.ai/build/ds4_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs --target tests -- -j12 -l12
+[26.229s] Invoking command in '/home/capstone/autoware.ai/build/ds4_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs --target install -- -j12 -l12
+[28.484s] Invoked command in '/home/capstone/autoware.ai/build/ds4_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs --target install -- -j12 -l12

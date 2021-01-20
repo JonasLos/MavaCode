@@ -1,0 +1,219 @@
+[0.650s] [ 50%] Built target gpu_point_pillars_lib
+[0.880s] [ 50%] Built target actionlib_generate_messages_py
+[1.030s] [ 50%] Built target actionlib_generate_messages_nodejs
+[1.172s] [ 50%] Built target actionlib_generate_messages_cpp
+[1.318s] [ 50%] Built target tf_generate_messages_nodejs
+[1.461s] [ 50%] Built target tf_generate_messages_lisp
+[1.604s] [ 50%] Built target tf_generate_messages_cpp
+[1.796s] [ 50%] Built target topic_tools_generate_messages_nodejs
+[1.951s] [ 50%] Built target topic_tools_generate_messages_lisp
+[2.095s] [ 50%] Built target jsk_footstep_msgs_generate_messages_lisp
+[2.244s] [ 50%] Built target topic_tools_generate_messages_eus
+[2.390s] [ 50%] Built target geometry_msgs_generate_messages_eus
+[2.535s] [ 50%] Built target actionlib_msgs_generate_messages_eus
+[2.685s] [ 50%] Built target dynamic_reconfigure_generate_messages_py
+[2.879s] [ 50%] Built target jsk_recognition_msgs_generate_messages_py
+[3.023s] [ 50%] Built target autoware_msgs_generate_messages_cpp
+[3.165s] [ 50%] Built target std_msgs_generate_messages_lisp
+[3.316s] [ 50%] Built target pcl_msgs_generate_messages_cpp
+[3.460s] [ 50%] Built target sensor_msgs_generate_messages_cpp
+[3.620s] [ 50%] Built target tf2_msgs_generate_messages_cpp
+[3.813s] [ 50%] Built target dynamic_reconfigure_generate_messages_lisp
+[3.965s] [ 50%] Built target std_srvs_generate_messages_lisp
+[4.108s] [ 50%] Built target dynamic_reconfigure_gencfg
+[4.259s] [ 50%] Built target nodelet_generate_messages_cpp
+[4.404s] [ 50%] Built target pcl_ros_gencfg
+[4.552s] [ 50%] Built target std_msgs_generate_messages_py
+[4.731s] [ 50%] Built target std_msgs_generate_messages_cpp
+[4.913s] [ 50%] Built target rosgraph_msgs_generate_messages_nodejs
+[5.060s] [ 50%] Built target std_msgs_generate_messages_nodejs
+[5.201s] [ 50%] Built target nodelet_generate_messages_lisp
+[5.349s] [ 50%] Built target actionlib_generate_messages_lisp
+[5.500s] [ 50%] Built target roscpp_generate_messages_lisp
+[5.650s] [ 50%] Built target std_srvs_generate_messages_cpp
+[5.862s] [ 50%] Built target autoware_msgs_generate_messages_py
+[6.022s] [ 50%] Built target tf_generate_messages_eus
+[6.182s] [ 50%] Built target rosgraph_msgs_generate_messages_lisp
+[6.329s] [ 50%] Built target rosgraph_msgs_generate_messages_py
+[6.477s] [ 50%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[6.618s] [ 50%] Built target roscpp_generate_messages_py
+[6.810s] [ 50%] Built target topic_tools_generate_messages_py
+[6.957s] [ 50%] Built target roscpp_generate_messages_cpp
+[7.140s] [ 50%] Built target roscpp_generate_messages_eus
+[7.256s] [ 50%] Built target geometry_msgs_generate_messages_cpp
+[7.397s] [ 50%] Built target dynamic_reconfigure_generate_messages_cpp
+[7.540s] [ 50%] Built target actionlib_msgs_generate_messages_nodejs
+[7.699s] [ 50%] Built target actionlib_msgs_generate_messages_lisp
+[7.890s] [ 50%] Built target tf_generate_messages_py
+[8.034s] [ 50%] Built target std_msgs_generate_messages_eus
+[8.180s] [ 50%] Built target jsk_footstep_msgs_generate_messages_cpp
+[8.327s] [ 50%] Built target roscpp_generate_messages_nodejs
+[8.470s] [ 50%] Built target actionlib_generate_messages_eus
+[8.615s] [ 50%] Built target rosgraph_msgs_generate_messages_cpp
+[8.791s] [ 50%] Built target rosgraph_msgs_generate_messages_eus
+[8.962s] [ 50%] Built target std_srvs_generate_messages_py
+[9.107s] [ 50%] Built target autoware_msgs_generate_messages_eus
+[9.251s] [ 50%] Built target geometry_msgs_generate_messages_lisp
+[9.394s] [ 50%] Built target dynamic_reconfigure_generate_messages_eus
+[9.537s] [ 50%] Built target geometry_msgs_generate_messages_nodejs
+[9.691s] [ 50%] Built target jsk_footstep_msgs_generate_messages_py
+[9.894s] [ 50%] Built target geometry_msgs_generate_messages_py
+[10.037s] [ 50%] Built target tf2_msgs_generate_messages_eus
+[10.181s] [ 50%] Built target sensor_msgs_generate_messages_py
+[10.323s] [ 50%] Built target nodelet_generate_messages_eus
+[10.472s] [ 50%] Built target nodelet_generate_messages_nodejs
+[10.621s] [ 50%] Built target bond_generate_messages_nodejs
+[10.814s] [ 50%] Built target std_srvs_generate_messages_nodejs
+[10.960s] [ 50%] Built target nodelet_generate_messages_py
+[11.109s] [ 50%] Built target tf2_msgs_generate_messages_py
+[11.250s] [ 50%] Built target dynamic_reconfigure_generate_messages_nodejs
+[11.398s] [ 50%] Built target bond_generate_messages_cpp
+[11.537s] [ 50%] Built target bond_generate_messages_eus
+[11.706s] [ 50%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[11.902s] [ 50%] Built target sensor_msgs_generate_messages_nodejs
+[12.045s] [ 50%] Built target bond_generate_messages_lisp
+[12.192s] [ 50%] Built target nodelet_topic_tools_gencfg
+[12.341s] [ 50%] Built target sensor_msgs_generate_messages_eus
+[12.485s] [ 50%] Built target sensor_msgs_generate_messages_lisp
+[12.632s] [ 50%] Built target bond_generate_messages_py
+[12.814s] [ 50%] Built target pcl_msgs_generate_messages_eus
+[12.968s] [ 50%] Built target autoware_msgs_generate_messages_lisp
+[13.113s] [ 50%] Built target topic_tools_generate_messages_cpp
+[13.257s] [ 50%] Built target pcl_msgs_generate_messages_nodejs
+[13.401s] [ 50%] Built target pcl_msgs_generate_messages_lisp
+[13.548s] [ 50%] Built target pcl_msgs_generate_messages_py
+[13.730s] [ 75%] Built target point_pillars_lib
+[13.921s] [ 75%] Built target actionlib_msgs_generate_messages_cpp
+[14.059s] [ 75%] Built target actionlib_msgs_generate_messages_py
+[14.206s] [ 75%] Built target tf2_msgs_generate_messages_lisp
+[14.349s] [ 75%] Built target tf2_msgs_generate_messages_nodejs
+[14.493s] [ 75%] Built target autoware_msgs_generate_messages_nodejs
+[14.637s] [ 75%] Built target jsk_recognition_msgs_generate_messages_cpp
+[14.832s] [ 75%] Built target jsk_recognition_msgs_generate_messages_eus
+[14.975s] [ 75%] Built target jsk_recognition_msgs_generate_messages_lisp
+[15.121s] [ 75%] Built target jsk_footstep_msgs_generate_messages_eus
+[15.271s] [ 75%] Built target std_srvs_generate_messages_eus
+[15.466s] [100%] Built target lidar_point_pillars
+[17.216s] [ 15%] Built target gtest
+[17.440s] [ 61%] Built target gpu_point_pillars_lib
+[17.596s] [ 84%] Built target point_pillars_lib
+[17.806s] [100%] Built target test-point_pillars
+[17.951s] [100%] Built target tests
+[19.621s] [ 50%] Built target gpu_point_pillars_lib
+[19.793s] [ 50%] Built target actionlib_generate_messages_py
+[19.937s] [ 50%] Built target actionlib_generate_messages_nodejs
+[20.084s] [ 50%] Built target actionlib_generate_messages_cpp
+[20.225s] [ 50%] Built target tf_generate_messages_nodejs
+[20.371s] [ 50%] Built target tf_generate_messages_lisp
+[20.513s] [ 50%] Built target tf_generate_messages_cpp
+[20.663s] [ 50%] Built target topic_tools_generate_messages_nodejs
+[20.849s] [ 50%] Built target topic_tools_generate_messages_lisp
+[20.992s] [ 50%] Built target jsk_footstep_msgs_generate_messages_lisp
+[21.139s] [ 50%] Built target topic_tools_generate_messages_eus
+[21.279s] [ 50%] Built target geometry_msgs_generate_messages_eus
+[21.420s] [ 50%] Built target actionlib_msgs_generate_messages_eus
+[21.563s] [ 50%] Built target dynamic_reconfigure_generate_messages_py
+[21.720s] [ 50%] Built target jsk_recognition_msgs_generate_messages_py
+[21.916s] [ 50%] Built target autoware_msgs_generate_messages_cpp
+[22.063s] [ 50%] Built target std_msgs_generate_messages_lisp
+[22.212s] [ 50%] Built target pcl_msgs_generate_messages_cpp
+[22.357s] [ 50%] Built target sensor_msgs_generate_messages_cpp
+[22.500s] [ 50%] Built target tf2_msgs_generate_messages_cpp
+[22.647s] [ 50%] Built target dynamic_reconfigure_generate_messages_lisp
+[22.847s] [ 50%] Built target std_srvs_generate_messages_lisp
+[22.994s] [ 50%] Built target dynamic_reconfigure_gencfg
+[23.142s] [ 50%] Built target nodelet_generate_messages_cpp
+[23.288s] [ 50%] Built target pcl_ros_gencfg
+[23.431s] [ 50%] Built target std_msgs_generate_messages_py
+[23.577s] [ 50%] Built target std_msgs_generate_messages_cpp
+[23.727s] [ 50%] Built target rosgraph_msgs_generate_messages_nodejs
+[23.894s] [ 50%] Built target std_msgs_generate_messages_nodejs
+[24.036s] [ 50%] Built target nodelet_generate_messages_lisp
+[24.180s] [ 50%] Built target actionlib_generate_messages_lisp
+[24.322s] [ 50%] Built target roscpp_generate_messages_lisp
+[24.464s] [ 50%] Built target std_srvs_generate_messages_cpp
+[24.612s] [ 50%] Built target autoware_msgs_generate_messages_py
+[24.768s] [ 50%] Built target tf_generate_messages_eus
+[24.919s] [ 50%] Built target rosgraph_msgs_generate_messages_lisp
+[25.061s] [ 50%] Built target rosgraph_msgs_generate_messages_py
+[25.216s] [ 50%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[25.362s] [ 50%] Built target roscpp_generate_messages_py
+[25.505s] [ 50%] Built target topic_tools_generate_messages_py
+[25.647s] [ 50%] Built target roscpp_generate_messages_cpp
+[25.839s] [ 50%] Built target roscpp_generate_messages_eus
+[25.987s] [ 50%] Built target geometry_msgs_generate_messages_cpp
+[26.132s] [ 50%] Built target dynamic_reconfigure_generate_messages_cpp
+[26.284s] [ 50%] Built target actionlib_msgs_generate_messages_nodejs
+[26.431s] [ 50%] Built target actionlib_msgs_generate_messages_lisp
+[26.576s] [ 50%] Built target tf_generate_messages_py
+[26.746s] [ 50%] Built target std_msgs_generate_messages_eus
+[26.936s] [ 50%] Built target jsk_footstep_msgs_generate_messages_cpp
+[27.080s] [ 50%] Built target roscpp_generate_messages_nodejs
+[27.224s] [ 50%] Built target actionlib_generate_messages_eus
+[27.366s] [ 50%] Built target rosgraph_msgs_generate_messages_cpp
+[27.511s] [ 50%] Built target rosgraph_msgs_generate_messages_eus
+[27.651s] [ 50%] Built target std_srvs_generate_messages_py
+[27.838s] [ 50%] Built target autoware_msgs_generate_messages_eus
+[28.000s] [ 50%] Built target geometry_msgs_generate_messages_lisp
+[28.147s] [ 50%] Built target dynamic_reconfigure_generate_messages_eus
+[28.290s] [ 50%] Built target geometry_msgs_generate_messages_nodejs
+[28.431s] [ 50%] Built target jsk_footstep_msgs_generate_messages_py
+[28.576s] [ 50%] Built target geometry_msgs_generate_messages_py
+[28.784s] [ 50%] Built target tf2_msgs_generate_messages_eus
+[28.955s] [ 50%] Built target sensor_msgs_generate_messages_py
+[29.108s] [ 50%] Built target nodelet_generate_messages_eus
+[29.262s] [ 50%] Built target nodelet_generate_messages_nodejs
+[29.407s] [ 50%] Built target bond_generate_messages_nodejs
+[29.549s] [ 50%] Built target std_srvs_generate_messages_nodejs
+[29.693s] [ 50%] Built target nodelet_generate_messages_py
+[29.905s] [ 50%] Built target tf2_msgs_generate_messages_py
+[30.050s] [ 50%] Built target dynamic_reconfigure_generate_messages_nodejs
+[30.192s] [ 50%] Built target bond_generate_messages_cpp
+[30.337s] [ 50%] Built target bond_generate_messages_eus
+[30.481s] [ 50%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[30.623s] [ 50%] Built target sensor_msgs_generate_messages_nodejs
+[30.813s] [ 50%] Built target bond_generate_messages_lisp
+[30.975s] [ 50%] Built target nodelet_topic_tools_gencfg
+[31.128s] [ 50%] Built target sensor_msgs_generate_messages_eus
+[31.276s] [ 50%] Built target sensor_msgs_generate_messages_lisp
+[31.424s] [ 50%] Built target bond_generate_messages_py
+[31.571s] [ 50%] Built target pcl_msgs_generate_messages_eus
+[31.753s] [ 50%] Built target autoware_msgs_generate_messages_lisp
+[31.973s] [ 50%] Built target topic_tools_generate_messages_cpp
+[32.116s] [ 50%] Built target pcl_msgs_generate_messages_nodejs
+[32.259s] [ 50%] Built target pcl_msgs_generate_messages_lisp
+[32.410s] [ 50%] Built target pcl_msgs_generate_messages_py
+[32.564s] [ 75%] Built target point_pillars_lib
+[32.772s] [ 75%] Built target actionlib_msgs_generate_messages_cpp
+[32.974s] [ 75%] Built target actionlib_msgs_generate_messages_py
+[33.132s] [ 75%] Built target tf2_msgs_generate_messages_lisp
+[33.277s] [ 75%] Built target tf2_msgs_generate_messages_nodejs
+[33.432s] [ 75%] Built target autoware_msgs_generate_messages_nodejs
+[33.591s] [ 75%] Built target jsk_recognition_msgs_generate_messages_cpp
+[33.772s] [ 75%] Built target jsk_recognition_msgs_generate_messages_eus
+[33.964s] [ 75%] Built target jsk_recognition_msgs_generate_messages_lisp
+[34.110s] [ 75%] Built target jsk_footstep_msgs_generate_messages_eus
+[34.263s] [ 75%] Built target std_srvs_generate_messages_eus
+[34.449s] [100%] Built target lidar_point_pillars
+[34.586s] [36mInstall the project...[0m
+[34.644s] -- Install configuration: "Release"
+[34.644s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/lib/pkgconfig/lidar_point_pillars.pc
+[34.645s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/share/lidar_point_pillars/cmake/lidar_point_pillarsConfig.cmake
+[34.645s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/share/lidar_point_pillars/cmake/lidar_point_pillarsConfig-version.cmake
+[34.645s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/share/lidar_point_pillars/package.xml
+[34.645s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/lib/libgpu_point_pillars_lib.so
+[34.645s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/lib/libpoint_pillars_lib.so
+[34.646s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/lib/lidar_point_pillars/lidar_point_pillars
+[34.647s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/share/lidar_point_pillars/launch
+[34.647s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/share/lidar_point_pillars/launch/lidar_point_pillars.launch
+[34.648s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars/
+[34.648s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars//lidar_point_pillars
+[34.648s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars//lidar_point_pillars/preprocess_points_cuda.h
+[34.648s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars//lidar_point_pillars/point_pillars.h
+[34.649s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars//lidar_point_pillars/scatter_cuda.h
+[34.649s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars//lidar_point_pillars/postprocess_cuda.h
+[34.649s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars//lidar_point_pillars/common.h
+[34.649s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars//lidar_point_pillars/nms_cuda.h
+[34.649s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars//lidar_point_pillars/anchor_mask_cuda.h
+[34.649s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars//lidar_point_pillars/point_pillars_ros.h
+[34.650s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_point_pillars/include/lidar_point_pillars/lidar_point_pillars//lidar_point_pillars/preprocess_points.h

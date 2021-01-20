@@ -1,0 +1,8 @@
+[0.062s] Invoking command in '/home/capstone/autoware.ai/build/sick_lms5xx': /usr/bin/cmake /home/capstone/autoware.ai/src/drivers/awf_drivers/lms5xx -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/sick_lms5xx
+[10.805s] Invoked command in '/home/capstone/autoware.ai/build/sick_lms5xx' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/drivers/awf_drivers/lms5xx -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/sick_lms5xx
+[10.808s] Invoking command in '/home/capstone/autoware.ai/build/sick_lms5xx': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx -- -j12 -l12
+[31.189s] Invoked command in '/home/capstone/autoware.ai/build/sick_lms5xx' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx -- -j12 -l12
+[32.681s] Invoking command in '/home/capstone/autoware.ai/build/sick_lms5xx': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target tests -- -j12 -l12
+[33.387s] Invoked command in '/home/capstone/autoware.ai/build/sick_lms5xx' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target tests -- -j12 -l12
+[35.034s] Invoking command in '/home/capstone/autoware.ai/build/sick_lms5xx': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target install -- -j12 -l12
+[44.456s] Invoked command in '/home/capstone/autoware.ai/build/sick_lms5xx' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target install -- -j12 -l12

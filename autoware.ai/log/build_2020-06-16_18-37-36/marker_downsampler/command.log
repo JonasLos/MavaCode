@@ -1,0 +1,6 @@
+[0.073s] Invoking command in '/home/capstone/autoware.ai/build/marker_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler -- -j12 -l12
+[0.341s] Invoked command in '/home/capstone/autoware.ai/build/marker_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler -- -j12 -l12
+[0.846s] Invoking command in '/home/capstone/autoware.ai/build/marker_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler --target tests -- -j12 -l12
+[1.331s] Invoked command in '/home/capstone/autoware.ai/build/marker_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler --target tests -- -j12 -l12
+[1.818s] Invoking command in '/home/capstone/autoware.ai/build/marker_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler --target install -- -j12 -l12
+[2.224s] Invoked command in '/home/capstone/autoware.ai/build/marker_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler --target install -- -j12 -l12

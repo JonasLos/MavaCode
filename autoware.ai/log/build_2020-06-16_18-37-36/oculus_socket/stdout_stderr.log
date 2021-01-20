@@ -1,0 +1,12 @@
+[0.481s] [100%] Built target oculus_sender
+[1.927s] Built target tests
+[3.363s] [100%] Built target oculus_sender
+[3.529s] [36mInstall the project...[0m
+[3.585s] -- Install configuration: "Release"
+[3.586s] -- Up-to-date: /home/capstone/autoware.ai/install/oculus_socket/lib/pkgconfig/oculus_socket.pc
+[3.586s] -- Up-to-date: /home/capstone/autoware.ai/install/oculus_socket/share/oculus_socket/cmake/oculus_socketConfig.cmake
+[3.586s] -- Up-to-date: /home/capstone/autoware.ai/install/oculus_socket/share/oculus_socket/cmake/oculus_socketConfig-version.cmake
+[3.586s] -- Up-to-date: /home/capstone/autoware.ai/install/oculus_socket/share/oculus_socket/package.xml
+[3.587s] -- Up-to-date: /home/capstone/autoware.ai/install/oculus_socket/lib/oculus_socket/oculus_sender
+[3.588s] -- Up-to-date: /home/capstone/autoware.ai/install/oculus_socket/share/oculus_socket/launch
+[3.588s] -- Up-to-date: /home/capstone/autoware.ai/install/oculus_socket/share/oculus_socket/launch/oculus_sender.launch

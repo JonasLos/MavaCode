@@ -1,0 +1,70 @@
+[0.054s] Invoking command in '/home/capstone/autoware.ai/build/ndt_tku': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/core_perception/ndt_tku -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/ndt_tku
+[0.328s] -- The C compiler identification is GNU 7.5.0
+[0.549s] -- The CXX compiler identification is GNU 7.5.0
+[0.575s] -- Check for working C compiler: /usr/bin/cc
+[0.914s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.916s] -- Detecting C compiler ABI info
+[1.329s] -- Detecting C compiler ABI info - done
+[1.353s] -- Detecting C compile features
+[2.411s] -- Detecting C compile features - done
+[2.421s] -- Check for working CXX compiler: /usr/bin/c++
+[2.827s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.828s] -- Detecting CXX compiler ABI info
+[3.209s] -- Detecting CXX compiler ABI info - done
+[3.241s] -- Detecting CXX compile features
+[5.017s] -- Detecting CXX compile features - done
+[5.027s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/ndt_tku/devel
+[5.028s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[5.031s] -- This workspace overlays: /home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[5.096s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[5.097s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[5.098s] -- Using Debian Python package layout
+[5.102s] -- Using empy: /usr/bin/empy
+[5.479s] -- Using CATKIN_ENABLE_TESTING: ON
+[5.480s] -- Call enable_testing()
+[5.494s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/ndt_tku/test_results
+[5.575s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[5.575s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[5.662s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[5.664s] -- Looking for pthread.h
+[6.025s] -- Looking for pthread.h - found
+[6.025s] -- Looking for pthread_create
+[6.366s] -- Looking for pthread_create - not found
+[6.367s] -- Looking for pthread_create in pthreads
+[6.767s] -- Looking for pthread_create in pthreads - not found
+[6.767s] -- Looking for pthread_create in pthread
+[7.139s] -- Looking for pthread_create in pthread - found
+[7.141s] -- Found Threads: TRUE  
+[7.154s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[7.311s] -- catkin 0.7.23
+[7.312s] -- BUILD_SHARED_LIBS is on
+[8.436s] -- Found GLUT: /usr/lib/x86_64-linux-gnu/libglut.so  
+[8.440s] -- Configuring done
+[8.496s] -- Generating done
+[8.505s] -- Build files have been written to: /home/capstone/autoware.ai/build/ndt_tku
+[8.512s] Invoked command in '/home/capstone/autoware.ai/build/ndt_tku' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/core_perception/ndt_tku -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/ndt_tku
+[8.518s] Invoking command in '/home/capstone/autoware.ai/build/ndt_tku': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku -- -j12 -l12
+[8.775s] [35m[1mScanning dependencies of target ndt_tku[0m
+[8.851s] [ 25%] [32mBuilding CXX object CMakeFiles/ndt_tku.dir/src/algebra.cpp.o[0m
+[9.592s] [ 50%] [32mBuilding CXX object CMakeFiles/ndt_tku.dir/src/manage_ND.cpp.o[0m
+[10.240s] [ 75%] [32mBuilding CXX object CMakeFiles/ndt_tku.dir/src/newton.cpp.o[0m
+[11.047s] [100%] [32m[1mLinking CXX shared library devel/lib/libndt_tku.so[0m
+[11.287s] [100%] Built target ndt_tku
+[11.325s] Invoked command in '/home/capstone/autoware.ai/build/ndt_tku' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku -- -j12 -l12
+[11.976s] Invoking command in '/home/capstone/autoware.ai/build/ndt_tku': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku --target tests -- -j12 -l12
+[12.286s] [35m[1mScanning dependencies of target tests[0m
+[12.348s] Built target tests
+[12.387s] Invoked command in '/home/capstone/autoware.ai/build/ndt_tku' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku --target tests -- -j12 -l12
+[13.039s] Invoking command in '/home/capstone/autoware.ai/build/ndt_tku': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku --target install -- -j12 -l12
+[13.378s] [100%] Built target ndt_tku
+[13.491s] [36mInstall the project...[0m
+[13.531s] -- Install configuration: "Release"
+[13.531s] -- Installing: /home/capstone/autoware.ai/install/ndt_tku/lib/pkgconfig/ndt_tku.pc
+[13.532s] -- Installing: /home/capstone/autoware.ai/install/ndt_tku/share/ndt_tku/cmake/ndt_tkuConfig.cmake
+[13.533s] -- Installing: /home/capstone/autoware.ai/install/ndt_tku/share/ndt_tku/cmake/ndt_tkuConfig-version.cmake
+[13.533s] -- Installing: /home/capstone/autoware.ai/install/ndt_tku/share/ndt_tku/package.xml
+[13.534s] -- Installing: /home/capstone/autoware.ai/install/ndt_tku/lib/libndt_tku.so
+[13.534s] -- Installing: /home/capstone/autoware.ai/install/ndt_tku/include
+[13.535s] -- Installing: /home/capstone/autoware.ai/install/ndt_tku/include/algebra.h
+[13.535s] -- Installing: /home/capstone/autoware.ai/install/ndt_tku/include/ndt.h
+[13.550s] Invoked command in '/home/capstone/autoware.ai/build/ndt_tku' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku --target install -- -j12 -l12

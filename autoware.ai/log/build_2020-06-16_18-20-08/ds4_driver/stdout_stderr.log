@@ -1,0 +1,10 @@
+[3.438s] Built target tests
+[5.487s] [36mInstall the project...[0m
+[5.541s] -- Install configuration: "Release"
+[5.542s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/lib/pkgconfig/ds4_driver.pc
+[5.542s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/cmake/ds4_driverConfig.cmake
+[5.542s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/cmake/ds4_driverConfig-version.cmake
+[5.543s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/package.xml
+[5.543s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/lib/ds4_driver/ds4_driver
+[5.543s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/launch
+[5.543s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/launch/ds4_driver.launch

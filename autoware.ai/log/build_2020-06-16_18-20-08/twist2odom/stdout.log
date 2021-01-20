@@ -1,0 +1,72 @@
+[0.472s] [  0%] Built target roscpp_generate_messages_eus
+[0.617s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.765s] [  0%] Built target roscpp_generate_messages_lisp
+[0.910s] [  0%] Built target nav_msgs_generate_messages_py
+[1.114s] [  0%] Built target geometry_msgs_generate_messages_py
+[1.303s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[1.444s] [  0%] Built target nav_msgs_generate_messages_cpp
+[1.585s] [  0%] Built target nav_msgs_generate_messages_lisp
+[1.730s] [  0%] Built target roscpp_generate_messages_cpp
+[1.878s] [  0%] Built target geometry_msgs_generate_messages_eus
+[2.052s] [  0%] Built target std_msgs_generate_messages_nodejs
+[2.226s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[2.375s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[2.519s] [  0%] Built target nav_msgs_generate_messages_nodejs
+[2.661s] [  0%] Built target std_msgs_generate_messages_py
+[2.814s] [  0%] Built target nav_msgs_generate_messages_eus
+[2.965s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[3.156s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[3.315s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[3.461s] [  0%] Built target actionlib_msgs_generate_messages_py
+[3.607s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[3.752s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[3.911s] [  0%] Built target std_msgs_generate_messages_cpp
+[4.108s] [  0%] Built target roscpp_generate_messages_nodejs
+[4.279s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[4.427s] [  0%] Built target std_msgs_generate_messages_eus
+[4.573s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[4.719s] [  0%] Built target std_msgs_generate_messages_lisp
+[4.868s] [  0%] Built target roscpp_generate_messages_py
+[5.033s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[5.234s] [100%] Built target twist2odom
+[6.447s] [ 40%] Built target gtest
+[6.635s] [100%] Built target twist2odom_test
+[6.780s] [100%] Built target tests
+[7.966s] [  0%] Built target roscpp_generate_messages_eus
+[8.188s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[8.356s] [  0%] Built target roscpp_generate_messages_lisp
+[8.510s] [  0%] Built target nav_msgs_generate_messages_py
+[8.654s] [  0%] Built target geometry_msgs_generate_messages_py
+[8.805s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[8.951s] [  0%] Built target nav_msgs_generate_messages_cpp
+[9.183s] [  0%] Built target nav_msgs_generate_messages_lisp
+[9.373s] [  0%] Built target roscpp_generate_messages_cpp
+[9.526s] [  0%] Built target geometry_msgs_generate_messages_eus
+[9.678s] [  0%] Built target std_msgs_generate_messages_nodejs
+[9.831s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[9.972s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[10.187s] [  0%] Built target nav_msgs_generate_messages_nodejs
+[10.344s] [  0%] Built target std_msgs_generate_messages_py
+[10.486s] [  0%] Built target nav_msgs_generate_messages_eus
+[10.657s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[10.822s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[10.974s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[11.197s] [  0%] Built target actionlib_msgs_generate_messages_py
+[11.342s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[11.487s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[11.633s] [  0%] Built target std_msgs_generate_messages_cpp
+[11.781s] [  0%] Built target roscpp_generate_messages_nodejs
+[11.932s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[12.145s] [  0%] Built target std_msgs_generate_messages_eus
+[12.325s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[12.502s] [  0%] Built target std_msgs_generate_messages_lisp
+[12.654s] [  0%] Built target roscpp_generate_messages_py
+[12.796s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[12.948s] [100%] Built target twist2odom
+[13.124s] [36mInstall the project...[0m
+[13.192s] -- Install configuration: "Release"
+[13.193s] -- Up-to-date: /home/capstone/autoware.ai/install/twist2odom/lib/pkgconfig/twist2odom.pc
+[13.193s] -- Up-to-date: /home/capstone/autoware.ai/install/twist2odom/share/twist2odom/cmake/twist2odomConfig.cmake
+[13.193s] -- Up-to-date: /home/capstone/autoware.ai/install/twist2odom/share/twist2odom/cmake/twist2odomConfig-version.cmake
+[13.193s] -- Up-to-date: /home/capstone/autoware.ai/install/twist2odom/share/twist2odom/package.xml
+[13.195s] -- Up-to-date: /home/capstone/autoware.ai/install/twist2odom/lib/twist2odom/twist2odom

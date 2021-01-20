@@ -1,0 +1,22 @@
+[0.695s] [  0%] Built target _catkin_empty_exported_target
+[0.862s] [100%] Built target lanelet2_projection
+[1.848s] [ 20%] Built target gtest
+[1.989s] [ 20%] Built target _catkin_empty_exported_target
+[2.139s] [ 40%] Built target gtest_main
+[2.296s] [ 60%] Built target lanelet2_projection
+[2.494s] [ 80%] Built target lanelet2_projection-test_Mercator-test
+[2.699s] [100%] Built target lanelet2_projection-test_UTM-test
+[2.853s] [100%] Built target tests
+[3.761s] [  0%] Built target _catkin_empty_exported_target
+[3.927s] [100%] Built target lanelet2_projection
+[4.054s] [36mInstall the project...[0m
+[4.112s] -- Install configuration: "Release"
+[4.112s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_projection/lib/pkgconfig/lanelet2_projection.pc
+[4.112s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_projection/share/lanelet2_projection/cmake/lanelet2_projectionConfig.cmake
+[4.112s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_projection/share/lanelet2_projection/cmake/lanelet2_projectionConfig-version.cmake
+[4.113s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_projection/share/lanelet2_projection/package.xml
+[4.113s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_projection/lib/liblanelet2_projection.so
+[4.114s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_projection/include/lanelet2_projection
+[4.114s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_projection/include/lanelet2_projection/UTM.h
+[4.114s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_projection/include/lanelet2_projection/Mercator.h
+[4.114s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_projection/include/lanelet2_projection/internal

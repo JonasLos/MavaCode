@@ -1,0 +1,681 @@
+/:
+  camera_frame: camera
+  camera_id: /
+  camera_info_topic: /camera_info
+  file: /home/capstone/Desktop/AutowareExtra/20200412_223832_autoware_lidar_camera_calibration.yaml
+  image_topic_src: /image_raw
+  projection_matrix_topic: /projection_matrix
+  publish_camera_info: true
+  publish_extrinsic_mat: true
+  register_lidar2camera_tf: true
+  solo_camera: false
+  target_frame: velodyne
+Velodyne HDL-32E:
+  calibration: ''
+Velodyne VLP-32C:
+  calibration: ''
+astar_avoid:
+  avoid_start_velocity: 3.0
+  avoid_waypoints_velocity: 10.0
+  costmap_topic: semantics/costmap_generator/occupancy_grid
+  enable_avoidance: false
+  replan_interval: 2.0
+astar_navi:
+  costmap_topic: semantics/costmap_generator/occupancy_grid
+  update_rate: 0.5
+  use_back: false
+  waypoints_velocity: 5.0
+booted_cmds:
+  names: []
+calibration_publisher:
+  camera_frame: camera
+  camera_id: ''
+  camera_info_topic: /camera_info
+  file: ''
+  image_topic_src: /image_raw
+  projection_matrix_topic: /projection_matrix
+  publish_camera_info: true
+  publish_extrinsic_mat: true
+  register_lidar2camera_tf: true
+  target_frame: velodyne
+car_dpm:
+  Lambda: 10
+  group_threshold: 0.1
+  num_bins: 9
+  num_cells: 8
+  score_threshold: -0.5
+car_fusion:
+  car: true
+  dispersion: 1.0
+  max_height: 2.0
+  max_low_height: -1.0
+  min_low_height: -1.5
+  min_points: 2
+  pedestrian: false
+  sync: false
+car_kf:
+  camera_id: ''
+  carHEAD: true
+  default_lifespan: 8
+  error_estimate_covariance: 1000000.0
+  initial_lifespan: 4
+  measurement_noise_covariance: 25.0
+  noise_covariance: 1.0
+  orb_features: 2000
+  pedestrian: false
+  percentage_of_overlapping: 0.0
+  sync: false
+  use_orb: 0
+cloud_transformer:
+  input_point_topic: /points_raw
+  output_point_topic: /points_transformed
+  target_frame: base_link
+compare_map_filter:
+  distance_threshold: 0.3
+  input_map_topic: /points_map
+  input_point_topic: /points_raw
+  max_clipping_height: 0.5
+  min_clipping_height: -2.0
+  output_match_topic: /points_ground
+  output_unmatch_topic: /points_no_ground
+costmap_generator:
+  expand_polygon_size: 1.0
+  grid_length_x: 50.0
+  grid_length_y: 30.0
+  grid_position_x: 20.0
+  grid_position_y: 0.0
+  grid_resolution: 0.2
+  lidar_frame: /velodyne
+  map_frame: /map
+  maximum_lidar_height_thres: 0.3
+  minimum_lidar_height_thres: -2.2
+  objects_input: !!python/unicode '/prediction/motion_predictor/objects'
+  points_input: !!python/unicode '/points_no_ground'
+  size_of_expansion_kernel: 9
+  use_ll2: false
+  use_objects_box: false
+  use_objects_convex_hull: true
+  use_points: true
+  use_wayarea: true
+decision_maker(experimental):
+  auto_engage: false
+  auto_mission_change: false
+  auto_mission_reload: false
+  baselink_tf: base_link
+  change_threshold_angle: 15.0
+  change_threshold_dist: 1.0
+  disuse_vector_map: false
+  goal_threshold_dist: 3.0
+  goal_threshold_vel: 0.1
+  insert_stop_line_wp: true
+  num_of_steer_behind: 20
+  points_topic: /points_lanes
+  sim_mode: false
+  stopped_vel: 0.1
+  use_fms: false
+  use_ll2: false
+detection_qs:
+  file: ''
+distance_filter:
+  measurement_range: 200
+  points_topic: /points_raw
+  sample_num: 10000
+  sync: false
+fix2tfpose:
+  plane: '7'
+  sim_mode: false
+grid_map_filter:
+  circle_radius: 1.7
+  dist_transform_distance: 2.0
+  fill_circle_cost_threshold: 20
+  map_frame: map
+  map_topic: /realtime_cost_map
+  use_dist_transform: true
+  use_fill_circle: true
+  use_wayarea: true
+imm_ukf_pda_track:
+  detection_probability: 0.9
+  gate_probability: 0.99
+  gating_threshold: 9.22
+  lane_direction_chi_threshold: 2.71
+  life_time_threshold: 8
+  merge_distance_threshold: 0.5
+  nearest_lane_distance_threshold: 1.0
+  prevent_explosion_threshold: 1000
+  static_num_history_threshold: 3
+  static_velocity_threshold: 0.5
+  tracker_input_topic: !!python/unicode '/detection/fusion_tools/objects'
+  tracking_frame: world
+  use_ll2: false
+  use_map_info: false
+  use_sukf: false
+  vectormap_frame: map
+lane_navi:
+  output_file: /media/capstone/E196-8A7E/ADASMap/lane.csv
+  velocity: 14.8
+lane_rule:
+  acceleration: 1.0
+  number_of_smoothing_count: 0
+  number_of_zeros_ahead: 0
+  number_of_zeros_behind: 0
+  stopline_search_radius: 1.0
+  use_ll2: true
+lane_select:
+  distance_threshold_neighbor_lanes: 5.0
+  lane_change_interval: 10.0
+  lane_change_target_minimum: 10.0
+  lane_change_target_ratio: 5.0
+  search_closest_waypoint_minimum_dt: 5
+  vector_length_hermite_curve: 10.0
+lane_stop:
+  traffic_light: 1
+lanelet_map:
+  file_name: /media/capstone/E196-8A7E/SecondTry/Neext.osm
+lidar_cnn_baidu_detect:
+  gpu_device_id: 0
+  network_definition_file: ''
+  points_src: /points_raw
+  pretrained_model_file: ''
+  score_threshold: 0.7
+  use_gpu: true
+lidar_euclidean_cluster_detect:
+  clip_max_height: 0.5
+  clip_min_height: -1.3
+  cluster_merge_threshold: 1.5
+  cluster_size_max: 100000
+  cluster_size_min: 20
+  clustering_distance: 0.75
+  clustering_distances: '[0.5,1.1,1.6,2.1,2.6]'
+  clustering_ranges: '[15,30,45,60]'
+  downsample_cloud: false
+  keep_lane_left_distance: 5.0
+  keep_lane_right_distance: 5.0
+  keep_lanes: false
+  leaf_size: 0.1
+  output_frame: velodyne
+  points_node: /points_no_ground
+  pose_estimation: false
+  publish_filtered: false
+  remove_ground: false
+  remove_points_upto: 0.0
+  sync: false
+  use_diffnormals: false
+  use_gpu: false
+  use_multiple_thres: false
+  use_vector_map: false
+  vectormap_frame: map
+  wayarea_gridmap_layer: wayarea
+  wayarea_gridmap_topic: grid_map_wayarea
+  wayarea_no_road_value: 255
+lidar_fake_perception:
+  fake_objects_topic: /fake_objects
+  fake_points_topic: /fake_points
+  fake_twist_topic: /fake_twist
+  initial_pose_topic: /move_base_simple/goal
+  object_angular_velocity: 0.0
+  object_frame: /velodyne
+  object_height: 1.8
+  object_intensity: 100.0
+  object_label: Stable
+  object_length: 4.8
+  object_lifetime: -1.0
+  object_points_space: 0.2
+  object_velocity: 3.0
+  object_width: 1.8
+  object_z_offset: 0.0
+  publish_object: true
+  publish_points: true
+  publish_rate: 10.0
+  real_objects_topic: !!python/unicode '/detected_objects'
+  real_points_topic: !!python/unicode '/points_raw'
+  use_fake_twist: false
+lidar_kf_contour_track:
+  enableLogging: false
+  enableSimulationMode: true
+  enableStepByStepMode: false
+  max_association_distance: 3.0
+  max_association_size_diff: 2.5
+  max_object_size: 10.0
+  max_remeber_time: 3.0
+  min_object_size: 0.2
+  polygon_quarters: 8
+  polygon_resolution: 0.5
+  tracking_type: 1
+  trust_counter: 5
+  vector_map_filter_distance: 2.0
+lidar_naive_l_shape_detect:
+  input_topic: !!python/unicode '/detection/lidar_objects'
+  num_points_thres: 10
+  output_topic: /detection/lidar_objects/l_shaped
+  random_ponts: 80
+  sensor_height: 2.3
+  slope_dist_thres: 2
+lidar_point_pillars:
+  baselink_support: true
+  input_topic: !!python/unicode '/points_raw'
+  nms_overlap_threshold: 0.5
+  pfe_onnx_file: /media/capstone/E196-8A7E/kitti_pretrained_point_pillars-master/pfe.onnx
+  reproduce_result_mode: true
+  rpn_onnx_file: /media/capstone/E196-8A7E/kitti_pretrained_point_pillars-master/rpn.onnx
+  score_threshold: 0.5
+lidar_shape_estimation:
+  input: !!python/unicode '/detection/lidar_detector/objects'
+  output: /detection/shape_estimation/objects
+localization_qs:
+  file: ''
+map_qs:
+  file: ''
+mission_planning_qs:
+  file: ''
+motion_planning_qs:
+  file: ''
+mpc_follower:
+  admisible_position_error: 12.19
+  admisible_yaw_error_deg: 90.0
+  ctrl_period: 0.001
+  curvature_smoothing_num: 35
+  delay_compensation_time: 0.2
+  enable_path_smoothing: true
+  mpc_prediction_horizon: 70
+  mpc_prediction_sampling_time: 0.1
+  mpc_weight_heading_error: 0.0
+  mpc_weight_heading_error_squared_vel_coeff: 0.92
+  mpc_weight_lat_error: 0.24
+  mpc_weight_lat_jerk: 0.54
+  mpc_weight_steering_input: 1.0
+  mpc_weight_steering_input_squared_vel_coeff: 0.25
+  mpc_weight_terminal_heading_error: 14.0
+  mpc_weight_terminal_lat_error: 10.0
+  mpc_zero_ff_steer_deg: 2.0
+  path_filter_moving_ave_num: 35
+  path_smoothing_times: 1
+  qp_solver_type: !!python/unicode 'unconstraint'
+  qpoases_max_iter: 500
+  show_debug_info: false
+  steer_lim_deg: 35.0
+  steering_lpf_cutoff_hz: 3.0
+  vehicle_model_steer_tau: 0.3
+  vehicle_model_type: !!python/unicode 'kinematics'
+  vehicle_model_wheelbase: 2.9
+naive_motion_predict:
+  filter_out_close_object_threshold: 1.5
+  input_topic: !!python/unicode '/detection/object_tracker/objects'
+  interval_sec: 0.1
+  num_prediction: 20
+  sensor_height: 2.0
+nmea2tfpose:
+  plane: '7'
+  sim_mode: false
+op_bag_player:
+  rosbag_file: None
+op_behavior_selector:
+  budget: 20
+  cpu_chks:
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  nice: 0
+  period: 100
+  policy: !!python/unicode 'FIFO'
+  prio: 99
+  real_time: false
+op_car_simulator:
+  enableCurbObstacles: true
+  enableFollowing: true
+  enableLaneChange: false
+  enableLooper: false
+  enableRvizPoseSelect: true
+  enableSimulatedVelodyne: false
+  enableStepByStepSignal: false
+  enableStopSignBehavior: true
+  enableSwerving: true
+  enableTrafficLightBehavior: true
+  horizontalSafetyDistance: 1.0
+  logFolder: null
+  maxAcceleration: 3.0
+  maxDeceleration: -3.0
+  maxDistanceToAvoid: 4.0
+  maxLocalPlanDistance: 60.0
+  maxVelocity: 3.0
+  minDistanceToAvoid: 15.0
+  minFollowingDistance: 30.0
+  pathDensity: 0.5
+  rollOutDensity: 0.5
+  rollOutsNumber: 4
+  samplingOutMargin: 12.0
+  samplingTipMargin: 4.0
+  verticalSafetyDistance: 1.0
+op_common_params:
+  enableFollowing: true
+  enableLaneChange: true
+  enableStopSignBehavior: true
+  enableSwerving: true
+  enableTrafficLightBehavior: true
+  horizonDistance: 120.0
+  horizontalSafetyDistance: 1.0
+  maxAcceleration: 3.0
+  maxDeceleration: -3.0
+  maxDistanceToAvoid: 14.86
+  maxLocalPlanDistance: 80.0
+  maxVelocity: 3.0
+  minDistanceToAvoid: 15.0
+  minFollowingDistance: 30.0
+  pathDensity: 0.5
+  rollOutDensity: 0.5
+  rollOutsNumber: 4
+  velocitySource: 1
+  verticalSafetyDistance: 1.0
+op_global_planner:
+  enableLaneChange: true
+  enableReplan: true
+  enableRvizInput: true
+  enableSmoothing: true
+  pathDensity: 1.0
+  velocitySource: 1
+op_motion_predictor:
+  enableCurbObstacles: false
+  enableGenrateBranches: false
+  enableParticleFilterPrediction: false
+  enableStepByStepSignal: false
+  max_distance_to_lane: 2.0
+  prediction_distance: 25.0
+op_perception_simulator:
+  GuassianErrorFactor: 0.0
+  simObjNumber: 5
+op_pose2tf:
+  pose_topic: /ndt_pose
+op_signs_simulator:
+  first_green_time: 10
+  first_signs_list_ids: ',9,10,'
+  first_yellow_time: 5
+  second_green_time: 10
+  second_signs_list_ids: ',7,8,'
+  second_yellow_time: 5
+op_trajectory_evaluator:
+  enablePrediction: false
+op_trajectory_generator:
+  samplingOutMargin: 12.0
+  samplingTipMargin: 3.13
+pcd_binarizer:
+  path_pcd_binarizer: /home/capstone/Desktop/3d_point_cloud/256_1408.pcd
+  point_type: !!python/unicode 'PointXYZ'
+pcd_filter:
+  leaf_size: 0.2
+  path_pcd_filter: ''
+  point_type: !!python/unicode 'PointXYZ'
+pedestrian_dpm:
+  Lambda: 10
+  group_threshold: 0.3
+  num_bins: 9
+  num_cells: 8
+  score_threshold: 0.6
+pedestrian_fusion:
+  dispersion: 1.0
+  max_height: 2.0
+  max_low_height: -1.0
+  min_low_height: -1.5
+  min_points: 2
+pedestrian_kf:
+  default_lifespan: 8
+  error_estimate_covariance: 1000000.0
+  initial_lifespan: 4
+  measurement_noise_covariance: 25.0
+  noise_covariance: 1.0
+  orb_features: 2000
+  percentage_of_overlapping: 0.0
+  use_orb: 0
+pixel_cloud_fusion:
+  camera_info_src: /camera_info
+  image_src: /image_raw
+  points_src: /points_raw
+play_rosbag_play:
+  file: /media/capstone/NvmeDrive/Th1.bag
+  rate: ''
+  repeat: false
+  start: 0
+point_cloud:
+  path_area_list: None
+  path_pcd: /home/capstone/Desktop/FilesNeededForDocumentation/PCD_04122020/ThirdRun1204Filtered.pcd
+  scene_num: noupdate
+points_concat_filter:
+  input_topics: /points_raw
+  output_frame_id: velodyne
+  output_topic: /points_concat
+points_image:
+  camera_id: !!python/unicode '/'
+  sync: false
+pure_pursuit:
+  add_virtual_end_waypoints: true
+  displacement_threshold: 0.0
+  is_linear_interpolation: false
+  lookahead_distance: 4.0
+  lookahead_ratio: 2.0
+  minimum_lookahead_distance: 6.0
+  param_flag: 0
+  publishes_for_steering_robot: false
+  relative_angle_threshold: 0
+  velocity: 5.0
+random_filter:
+  measurement_range: 200
+  points_topic: /points_raw
+  sample_num: 10000
+  sync: false
+range_vision_fusion:
+  camera_info_src: !!python/unicode '/camera_info'
+  detected_objects_range: !!python/unicode '/detection/lidar_objects'
+  detected_objects_vision: !!python/unicode '/detection/vision_objects'
+  sync_topics: false
+  use_vector_map: false
+ray_ground_filter:
+  base_frame: base_link
+  clipping_height: 2.0
+  concentric_divider_distance: 0.0
+  general_max_slope: 5
+  input_point_topic: !!python/unicode '/points_raw'
+  local_max_slope: 10
+  min_height_threshold: 0.05
+  min_point_distance: 1.85
+  radial_divider_angle: 0.08
+  reclass_distance_threshold: 0.2
+ring_filter:
+  measurement_range: 200
+  points_topic: /points_raw
+  ring_div: 3
+  sync: false
+  voxel_leaf_size: 2.0
+ring_ground_filter:
+  max_slope: 10.0
+  point_topic: /points_raw
+  sensor_height: 1.85
+  sensor_model: '32'
+  vertical_thres: 0.08
+sensing_qs:
+  file: ''
+setup_tf:
+  frame_id: /base_link
+  localizer_cmd_param: /velodyne
+  localizer_rosparam: velodyne
+  period_in_ms: 10
+  pitch: 0.0
+  roll: 0.0
+  x: 1.2
+  y: 0.0
+  yaw: 0.0
+  z: 2.0
+tf:
+  file: /home/capstone/Desktop/AutowareExtra/tf.launch
+twist_filter:
+  lateral_accel_limit: 5.0
+  lateral_jerk_limit: 5.0
+  lowpass_gain_angular_z: 0.0
+  lowpass_gain_linear_x: 0.0
+  lowpass_gain_steering_angle: 0.0
+  use_decision_maker: false
+vector_map:
+  path_vec: /home/capstone/Desktop/Simulation_Folder/FullMap/area.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/crosswalk.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/curb.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/dtlane.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/idx.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/lane.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/line.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/node.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/point.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/pole.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/poledata.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/signaldata.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/stopline.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/vector.csv,/home/capstone/Desktop/Simulation_Folder/FullMap/whiteline.csv
+vehicle_info:
+  info_path: ''
+vehicle_model:
+  model_path: ''
+vel_pose_connect:
+  sim_mode: true
+  topic_pose_stamped: !!python/unicode '/move_base_simple/goal'
+  topic_twist_stamped: /estimate_twist
+vel_pose_diff_checker:
+  comparison_window_size_sec: 1.0
+  diff_angle_median_threshold_rad: 0.05
+  diff_angle_threshold_rad: 0.1
+  diff_position_median_threshold_meter: 0.5
+  diff_position_threshold_meter: 1.0
+  input_pose_name: /ndt_pose
+  input_twist_name: /vehicle/twist
+  loop_rate_hz: 10.0
+  moving_median_window_size_sec: 2.0
+  topic_timeout_sec: 0.3
+velocity_set:
+  deceleration_obstacle: 0.7
+  deceleration_range: 0.0
+  deceleration_stopline: 0.3
+  detection_height_bottom: -1.5
+  detection_height_top: 0.1
+  detection_range: 0.3
+  enable_multiple_crosswalk_detection: false
+  points_topic: points_no_ground
+  stop_distance_obstacle: 15.0
+  stop_distance_stopline: 10.0
+  temporal_waypoints_size: 100.0
+  threshold_points: 5
+  use_crosswalk_detection: true
+  use_ll2: true
+  velocity_change_limit: 7.0
+virtual_scan_image:
+  camera_id: ''
+  sync: false
+vision_beyond_track:
+  camera_height: 1.2
+  camera_info_src: !!python/unicode '/camera_info'
+  objects_topic_src: !!python/unicode '/detection/vision_objects'
+vision_darknet_yolo3:
+  camera_id: !!python/unicode ''
+  gpu_device_id: 0
+  image_src: !!python/unicode '/image_raw'
+  names_file: /home/capstone/autoware.ai/install/vision_darknet_detect/share/vision_darknet_detect/darknet/cfg/coco.names
+  network_definition_file: /home/capstone/autoware.ai/install/vision_darknet_detect/share/vision_darknet_detect/darknet/cfg/yolov3.cfg
+  nms_threshold: 0.45
+  pretrained_model_file: /home/capstone/Desktop/AutowareExtra/yolov3.weights
+  score_threshold: 0.5
+vision_ssd_detect:
+  budget: 20
+  camera_id: !!python/unicode '/'
+  cpu_chks:
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  gpu_device_id: 0
+  image_src: !!python/unicode '/image_raw'
+  network_definition_file: /home/capstone/ssdcaffe/models/VGGNet/VOC0712Plus/SSD_300x300/deploy.prototxt
+  nice: 0
+  period: 100
+  policy: !!python/unicode 'FIFO'
+  pretrained_model_file: /home/capstone/ssdcaffe/models/VGGNet/VOC0712Plus/SSD_300x300/VGG_VOC0712Plus_SSD_300x300_iter_240000.caffemodel
+  prio: 99
+  real_time: false
+  score_threshold: 0.6
+  use_gpu: true
+voxel_grid_filter:
+  measurement_range: 200
+  points_topic: /points_raw
+  sync: false
+  voxel_leaf_size: 2.0
+waypoint_clicker:
+  output_file: /tmp/lane_waypoint.csv
+  velocity: 40.0
+waypoint_loader:
+  accel_limit: 0.5
+  braking_distance: 5
+  budget: 20
+  cpu_chks:
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  decel_limit: 0.3
+  end_point_offset: 1
+  load_csv: true
+  multi_lane_csv: /media/capstone/E196-8A7E/SecondTry/NewNewNeeew.osm
+  nice: 0
+  overwrite_vmax_mode: true
+  period: 100
+  policy: !!python/unicode 'FIFO'
+  prio: 99
+  radius_min: 6.0
+  radius_thresh: 20.0
+  real_time: false
+  realtime_tuning_mode: true
+  replan_curve_mode: true
+  replan_endpoint_mode: true
+  replanning_mode: true
+  resample_interval: 1.0
+  resample_mode: true
+  use_decision_maker: false
+  velocity_max: 0.1
+  velocity_min: 4.0
+  velocity_offset: 4
+waypoint_saver:
+  input_type: 0
+  interval: 1.0
+  lane_topic: !!python/unicode '/lane_waypoints_array'
+  save_filename: /tmp/saved_waypoints.csv
+  save_velocity: true
+waypoint_velocity_visualizer:
+  plot_metric_interval: 1.0
+  use_bar_plot: false
+  use_line_plot: true
+  use_text_plot: true
+wf_simulator:
+  accel_rate: 1.0
+  add_measurement_noise: false
+  angvel_lim: 3.0
+  angvel_rate: 1.0
+  angvel_time_constant: 0.4
+  angvel_time_delay: 0.2
+  initialize_source: !!python/unicode 'RVIZ'
+  lidar_frame_id: !!python/unicode 'velodyne'
+  sim_pose_name: current_pose
+  sim_velocity_name: current_velocity
+  simulation_frame_id: !!python/unicode 'base_link'
+  steer_lim: 1.0
+  steer_rate_lim: 0.5
+  steer_time_constant: 0.27
+  steer_time_delay: 0.24
+  use_waypoints_for_z_position_source: true
+  vehicle_model_type: !!python/unicode 'IDEAL_TWIST'
+  vel_lim: 30.0
+  vel_time_constant: 0.6
+  vel_time_delay: 0.25

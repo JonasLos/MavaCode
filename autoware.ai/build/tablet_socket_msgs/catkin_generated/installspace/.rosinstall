@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/capstone/autoware.ai/install/tablet_socket_msgs/setup.sh

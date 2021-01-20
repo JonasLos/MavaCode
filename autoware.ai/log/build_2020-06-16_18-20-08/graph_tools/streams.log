@@ -1,0 +1,13 @@
+[0.067s] Invoking command in '/home/capstone/autoware.ai/build/graph_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools -- -j12 -l12
+[0.392s] Invoked command in '/home/capstone/autoware.ai/build/graph_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools -- -j12 -l12
+[0.633s] Invoking command in '/home/capstone/autoware.ai/build/graph_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target tests -- -j12 -l12
+[1.041s] Built target tests
+[1.106s] Invoked command in '/home/capstone/autoware.ai/build/graph_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target tests -- -j12 -l12
+[1.412s] Invoking command in '/home/capstone/autoware.ai/build/graph_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target install -- -j12 -l12
+[1.736s] [36mInstall the project...[0m
+[1.792s] -- Install configuration: "Release"
+[1.793s] -- Up-to-date: /home/capstone/autoware.ai/install/graph_tools/lib/pkgconfig/graph_tools.pc
+[1.793s] -- Up-to-date: /home/capstone/autoware.ai/install/graph_tools/share/graph_tools/cmake/graph_toolsConfig.cmake
+[1.793s] -- Up-to-date: /home/capstone/autoware.ai/install/graph_tools/share/graph_tools/cmake/graph_toolsConfig-version.cmake
+[1.794s] -- Up-to-date: /home/capstone/autoware.ai/install/graph_tools/share/graph_tools/package.xml
+[1.802s] Invoked command in '/home/capstone/autoware.ai/build/graph_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target install -- -j12 -l12

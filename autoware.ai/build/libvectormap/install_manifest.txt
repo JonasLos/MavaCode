@@ -1,0 +1,7 @@
+/home/capstone/autoware.ai/install/libvectormap/lib/pkgconfig/libvectormap.pc
+/home/capstone/autoware.ai/install/libvectormap/share/libvectormap/cmake/libvectormapConfig.cmake
+/home/capstone/autoware.ai/install/libvectormap/share/libvectormap/cmake/libvectormapConfig-version.cmake
+/home/capstone/autoware.ai/install/libvectormap/share/libvectormap/package.xml
+/home/capstone/autoware.ai/install/libvectormap/lib/liblibvectormap.a
+/home/capstone/autoware.ai/install/libvectormap/include/libvectormap/Math.h
+/home/capstone/autoware.ai/install/libvectormap/include/libvectormap/vector_map.h

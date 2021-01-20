@@ -1,0 +1,78 @@
+[0.071s] Invoking command in '/home/capstone/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools -- -j12 -l12
+[0.417s] [  0%] Built target std_srvs_generate_messages_eus
+[0.565s] [  0%] Built target std_srvs_generate_messages_lisp
+[0.711s] [  0%] Built target std_msgs_generate_messages_py
+[0.952s] [  0%] Built target roscpp_generate_messages_cpp
+[1.100s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.293s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.445s] [  0%] Built target nmea_msgs_generate_messages_eus
+[1.597s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[1.768s] [  0%] Built target std_msgs_generate_messages_eus
+[1.965s] [  0%] Built target roscpp_generate_messages_nodejs
+[2.111s] [  0%] Built target nmea_msgs_generate_messages_cpp
+[2.256s] [  0%] Built target std_srvs_generate_messages_nodejs
+[2.405s] [  0%] Built target std_srvs_generate_messages_py
+[2.553s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[2.691s] [  0%] Built target roscpp_generate_messages_lisp
+[2.885s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[3.055s] [  0%] Built target topic_tools_generate_messages_py
+[3.200s] [  0%] Built target roscpp_generate_messages_py
+[3.351s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[3.502s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[3.648s] [  0%] Built target nmea_msgs_generate_messages_py
+[3.833s] [  0%] Built target std_msgs_generate_messages_nodejs
+[4.010s] [  0%] Built target nmea_msgs_generate_messages_nodejs
+[4.166s] [  0%] Built target roscpp_generate_messages_eus
+[4.313s] [  0%] Built target nmea_msgs_generate_messages_lisp
+[4.459s] [  0%] Built target topic_tools_generate_messages_nodejs
+[4.609s] [  0%] Built target std_srvs_generate_messages_cpp
+[4.771s] [  0%] Built target topic_tools_generate_messages_lisp
+[4.973s] [  0%] Built target topic_tools_generate_messages_eus
+[5.115s] [  0%] Built target topic_tools_generate_messages_cpp
+[5.282s] [100%] Built target nmea2kml
+[5.346s] Invoked command in '/home/capstone/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools -- -j12 -l12
+[6.023s] Invoking command in '/home/capstone/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target tests -- -j12 -l12
+[6.436s] Built target tests
+[6.499s] Invoked command in '/home/capstone/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target tests -- -j12 -l12
+[7.075s] Invoking command in '/home/capstone/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target install -- -j12 -l12
+[7.412s] [  0%] Built target std_srvs_generate_messages_eus
+[7.556s] [  0%] Built target std_srvs_generate_messages_lisp
+[7.712s] [  0%] Built target std_msgs_generate_messages_py
+[7.888s] [  0%] Built target roscpp_generate_messages_cpp
+[8.033s] [  0%] Built target std_msgs_generate_messages_cpp
+[8.188s] [  0%] Built target std_msgs_generate_messages_lisp
+[8.328s] [  0%] Built target nmea_msgs_generate_messages_eus
+[8.475s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[8.620s] [  0%] Built target std_msgs_generate_messages_eus
+[8.787s] [  0%] Built target roscpp_generate_messages_nodejs
+[9.001s] [  0%] Built target nmea_msgs_generate_messages_cpp
+[9.211s] [  0%] Built target std_srvs_generate_messages_nodejs
+[9.320s] [  0%] Built target std_srvs_generate_messages_py
+[9.439s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[9.587s] [  0%] Built target roscpp_generate_messages_lisp
+[9.735s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[9.934s] [  0%] Built target topic_tools_generate_messages_py
+[10.092s] [  0%] Built target roscpp_generate_messages_py
+[10.239s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[10.380s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[10.537s] [  0%] Built target nmea_msgs_generate_messages_py
+[10.680s] [  0%] Built target std_msgs_generate_messages_nodejs
+[10.850s] [  0%] Built target nmea_msgs_generate_messages_nodejs
+[11.012s] [  0%] Built target roscpp_generate_messages_eus
+[11.158s] [  0%] Built target nmea_msgs_generate_messages_lisp
+[11.309s] [  0%] Built target topic_tools_generate_messages_nodejs
+[11.459s] [  0%] Built target std_srvs_generate_messages_cpp
+[11.615s] [  0%] Built target topic_tools_generate_messages_lisp
+[11.775s] [  0%] Built target topic_tools_generate_messages_eus
+[11.957s] [  0%] Built target topic_tools_generate_messages_cpp
+[12.118s] [100%] Built target nmea2kml
+[12.250s] [36mInstall the project...[0m
+[12.307s] -- Install configuration: "Release"
+[12.307s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_bag_tools/lib/pkgconfig/autoware_bag_tools.pc
+[12.308s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_bag_tools/share/autoware_bag_tools/cmake/autoware_bag_toolsConfig.cmake
+[12.308s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_bag_tools/share/autoware_bag_tools/cmake/autoware_bag_toolsConfig-version.cmake
+[12.308s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_bag_tools/share/autoware_bag_tools/package.xml
+[12.308s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_bag_tools/lib/autoware_bag_tools/change_frame_id.py
+[12.309s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_bag_tools/lib/autoware_bag_tools/replace_msg_time_with_hdr.py
+[12.310s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_bag_tools/lib/autoware_bag_tools/nmea2kml
+[12.319s] Invoked command in '/home/capstone/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target install -- -j12 -l12

@@ -1,0 +1,7 @@
+[1.047s] Built target tests
+[1.680s] [36mInstall the project...[0m
+[1.740s] -- Install configuration: "Release"
+[1.740s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_world_description/lib/pkgconfig/gazebo_world_description.pc
+[1.741s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_world_description/share/gazebo_world_description/cmake/gazebo_world_descriptionConfig.cmake
+[1.741s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_world_description/share/gazebo_world_description/cmake/gazebo_world_descriptionConfig-version.cmake
+[1.741s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_world_description/share/gazebo_world_description/package.xml

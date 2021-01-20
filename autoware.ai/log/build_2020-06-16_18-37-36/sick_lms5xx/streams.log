@@ -1,0 +1,106 @@
+[0.056s] Invoking command in '/home/capstone/autoware.ai/build/sick_lms5xx': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx -- -j12 -l12
+[0.476s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.621s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.768s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.914s] [  0%] Built target tf_generate_messages_py
+[1.058s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[1.221s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[1.396s] [  0%] Built target actionlib_generate_messages_nodejs
+[1.537s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.686s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[1.824s] [  0%] Built target actionlib_msgs_generate_messages_py
+[1.971s] [  0%] Built target actionlib_generate_messages_cpp
+[2.117s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[2.325s] [  0%] Built target tf2_msgs_generate_messages_eus
+[2.476s] [  0%] Built target roscpp_generate_messages_eus
+[2.623s] [  0%] Built target actionlib_generate_messages_lisp
+[2.763s] [  0%] Built target roscpp_generate_messages_lisp
+[2.910s] [  0%] Built target actionlib_generate_messages_eus
+[3.054s] [  0%] Built target tf_generate_messages_nodejs
+[3.224s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[3.425s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[3.574s] [  0%] Built target actionlib_generate_messages_py
+[3.722s] [  0%] Built target roscpp_generate_messages_nodejs
+[3.873s] [  0%] Built target std_msgs_generate_messages_eus
+[4.011s] [  0%] Built target std_msgs_generate_messages_lisp
+[4.173s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[4.379s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[4.521s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[4.666s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[4.811s] [  0%] Built target tf_generate_messages_lisp
+[4.956s] [  0%] Built target tf_generate_messages_cpp
+[5.102s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[5.314s] [  0%] Built target tf2_msgs_generate_messages_py
+[5.530s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[5.678s] [  0%] Built target roscpp_generate_messages_py
+[5.823s] [  0%] Built target roscpp_generate_messages_cpp
+[5.975s] [  0%] Built target geometry_msgs_generate_messages_eus
+[6.130s] [  0%] Built target std_msgs_generate_messages_nodejs
+[6.304s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[6.460s] [  0%] Built target std_msgs_generate_messages_py
+[6.608s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[6.754s] [  0%] Built target sensor_msgs_generate_messages_py
+[6.900s] [  0%] Built target geometry_msgs_generate_messages_py
+[7.044s] [  0%] Built target std_msgs_generate_messages_cpp
+[7.202s] [  0%] Built target tf_generate_messages_eus
+[7.415s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[7.572s] [100%] Built target lms511_node
+[7.645s] Invoked command in '/home/capstone/autoware.ai/build/sick_lms5xx' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx -- -j12 -l12
+[8.435s] Invoking command in '/home/capstone/autoware.ai/build/sick_lms5xx': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target tests -- -j12 -l12
+[8.872s] Built target tests
+[8.944s] Invoked command in '/home/capstone/autoware.ai/build/sick_lms5xx' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target tests -- -j12 -l12
+[9.715s] Invoking command in '/home/capstone/autoware.ai/build/sick_lms5xx': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target install -- -j12 -l12
+[10.065s] [  0%] Built target sensor_msgs_generate_messages_eus
+[10.251s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[10.401s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[10.549s] [  0%] Built target tf_generate_messages_py
+[10.694s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[10.838s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[10.981s] [  0%] Built target actionlib_generate_messages_nodejs
+[11.151s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[11.395s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[11.539s] [  0%] Built target actionlib_msgs_generate_messages_py
+[11.684s] [  0%] Built target actionlib_generate_messages_cpp
+[11.830s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[11.972s] [  0%] Built target tf2_msgs_generate_messages_eus
+[12.114s] [  0%] Built target roscpp_generate_messages_eus
+[12.345s] [  0%] Built target actionlib_generate_messages_lisp
+[12.492s] [  0%] Built target roscpp_generate_messages_lisp
+[12.641s] [  0%] Built target actionlib_generate_messages_eus
+[12.793s] [  0%] Built target tf_generate_messages_nodejs
+[12.942s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[13.085s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[13.274s] [  0%] Built target actionlib_generate_messages_py
+[13.432s] [  0%] Built target roscpp_generate_messages_nodejs
+[13.580s] [  0%] Built target std_msgs_generate_messages_eus
+[13.728s] [  0%] Built target std_msgs_generate_messages_lisp
+[13.873s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[14.017s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[14.165s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[14.358s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[14.505s] [  0%] Built target tf_generate_messages_lisp
+[14.655s] [  0%] Built target tf_generate_messages_cpp
+[14.804s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[14.949s] [  0%] Built target tf2_msgs_generate_messages_py
+[15.093s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[15.269s] [  0%] Built target roscpp_generate_messages_py
+[15.469s] [  0%] Built target roscpp_generate_messages_cpp
+[15.612s] [  0%] Built target geometry_msgs_generate_messages_eus
+[15.761s] [  0%] Built target std_msgs_generate_messages_nodejs
+[15.902s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[16.050s] [  0%] Built target std_msgs_generate_messages_py
+[16.226s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[16.394s] [  0%] Built target sensor_msgs_generate_messages_py
+[16.536s] [  0%] Built target geometry_msgs_generate_messages_py
+[16.679s] [  0%] Built target std_msgs_generate_messages_cpp
+[16.825s] [  0%] Built target tf_generate_messages_eus
+[16.977s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[17.145s] [100%] Built target lms511_node
+[17.349s] [36mInstall the project...[0m
+[17.422s] -- Install configuration: "Release"
+[17.423s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_lms5xx/lib/pkgconfig/sick_lms5xx.pc
+[17.423s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_lms5xx/share/sick_lms5xx/cmake/sick_lms5xxConfig.cmake
+[17.424s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_lms5xx/share/sick_lms5xx/cmake/sick_lms5xxConfig-version.cmake
+[17.424s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_lms5xx/share/sick_lms5xx/package.xml
+[17.425s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_lms5xx/lib/sick_lms5xx/lms511_node
+[17.434s] Invoked command in '/home/capstone/autoware.ai/build/sick_lms5xx' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_lms5xx --target install -- -j12 -l12

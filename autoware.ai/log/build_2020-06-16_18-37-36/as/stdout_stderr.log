@@ -1,0 +1,132 @@
+[0.626s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.770s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[0.969s] [  0%] Built target geometry_msgs_generate_messages_eus
+[1.112s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.256s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[1.402s] [  0%] Built target geometry_msgs_generate_messages_py
+[1.551s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[1.698s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[1.886s] [  0%] Built target automotive_navigation_msgs_generate_messages_nodejs
+[2.065s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[2.214s] [  0%] Built target automotive_navigation_msgs_generate_messages_eus
+[2.358s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[2.499s] [  0%] Built target std_msgs_generate_messages_py
+[2.647s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[2.801s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[2.997s] [  0%] Built target autoware_msgs_generate_messages_py
+[3.143s] [  0%] Built target roscpp_generate_messages_lisp
+[3.303s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[3.433s] [  0%] Built target automotive_platform_msgs_generate_messages_lisp
+[3.570s] [  0%] Built target automotive_navigation_msgs_generate_messages_lisp
+[3.717s] [  0%] Built target automotive_platform_msgs_generate_messages_py
+[3.890s] [  0%] Built target autoware_msgs_generate_messages_eus
+[4.083s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[4.227s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[4.368s] [  0%] Built target automotive_platform_msgs_generate_messages_eus
+[4.512s] [  0%] Built target std_msgs_generate_messages_cpp
+[4.655s] [  0%] Built target automotive_navigation_msgs_generate_messages_py
+[4.813s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[5.014s] [  0%] Built target std_msgs_generate_messages_lisp
+[5.157s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[5.305s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[5.446s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[5.591s] [  0%] Built target roscpp_generate_messages_cpp
+[5.735s] [  0%] Built target sensor_msgs_generate_messages_eus
+[5.930s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[6.104s] [  0%] Built target pcl_msgs_generate_messages_eus
+[6.251s] [  0%] Built target automotive_platform_msgs_generate_messages_nodejs
+[6.399s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[6.548s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[6.691s] [  0%] Built target automotive_navigation_msgs_generate_messages_cpp
+[6.897s] [  0%] Built target pcl_msgs_generate_messages_py
+[7.054s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[7.197s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[7.347s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[7.488s] [  0%] Built target std_msgs_generate_messages_eus
+[7.638s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[7.791s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[7.994s] [  0%] Built target actionlib_msgs_generate_messages_py
+[8.142s] [  0%] Built target roscpp_generate_messages_eus
+[8.289s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[8.432s] [  0%] Built target sensor_msgs_generate_messages_py
+[8.583s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[8.728s] [  0%] Built target automotive_platform_msgs_generate_messages_cpp
+[8.887s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[9.046s] [  0%] Built target roscpp_generate_messages_py
+[9.200s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[9.350s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[9.493s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[9.648s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[9.797s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[10.022s] [100%] Built target ssc_interface
+[11.341s] Built target tests
+[12.613s] [  0%] Built target roscpp_generate_messages_nodejs
+[12.759s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[12.925s] [  0%] Built target geometry_msgs_generate_messages_eus
+[13.082s] [  0%] Built target std_msgs_generate_messages_nodejs
+[13.229s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[13.373s] [  0%] Built target geometry_msgs_generate_messages_py
+[13.517s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[13.661s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[13.811s] [  0%] Built target automotive_navigation_msgs_generate_messages_nodejs
+[14.004s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[14.149s] [  0%] Built target automotive_navigation_msgs_generate_messages_eus
+[14.294s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[14.440s] [  0%] Built target std_msgs_generate_messages_py
+[14.582s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[14.726s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[14.956s] [  0%] Built target autoware_msgs_generate_messages_py
+[15.135s] [  0%] Built target roscpp_generate_messages_lisp
+[15.275s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[15.420s] [  0%] Built target automotive_platform_msgs_generate_messages_lisp
+[15.564s] [  0%] Built target automotive_navigation_msgs_generate_messages_lisp
+[15.708s] [  0%] Built target automotive_platform_msgs_generate_messages_py
+[15.879s] [  0%] Built target autoware_msgs_generate_messages_eus
+[16.048s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[16.191s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[16.335s] [  0%] Built target automotive_platform_msgs_generate_messages_eus
+[16.480s] [  0%] Built target std_msgs_generate_messages_cpp
+[16.632s] [  0%] Built target automotive_navigation_msgs_generate_messages_py
+[16.778s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[16.985s] [  0%] Built target std_msgs_generate_messages_lisp
+[17.130s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[17.272s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[17.419s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[17.565s] [  0%] Built target roscpp_generate_messages_cpp
+[17.708s] [  0%] Built target sensor_msgs_generate_messages_eus
+[17.875s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[18.056s] [  0%] Built target pcl_msgs_generate_messages_eus
+[18.197s] [  0%] Built target automotive_platform_msgs_generate_messages_nodejs
+[18.345s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[18.490s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[18.634s] [  0%] Built target automotive_navigation_msgs_generate_messages_cpp
+[18.782s] [  0%] Built target pcl_msgs_generate_messages_py
+[18.977s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[19.121s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[19.263s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[19.406s] [  0%] Built target std_msgs_generate_messages_eus
+[19.553s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[19.697s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[19.941s] [  0%] Built target actionlib_msgs_generate_messages_py
+[20.099s] [  0%] Built target roscpp_generate_messages_eus
+[20.259s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[20.402s] [  0%] Built target sensor_msgs_generate_messages_py
+[20.548s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[20.690s] [  0%] Built target automotive_platform_msgs_generate_messages_cpp
+[20.866s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[21.047s] [  0%] Built target roscpp_generate_messages_py
+[21.192s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[21.336s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[21.479s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[21.622s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[21.765s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[22.000s] [100%] Built target ssc_interface
+[22.162s] [36mInstall the project...[0m
+[22.218s] -- Install configuration: "Release"
+[22.218s] -- Up-to-date: /home/capstone/autoware.ai/install/as/lib/pkgconfig/as.pc
+[22.219s] -- Up-to-date: /home/capstone/autoware.ai/install/as/share/as/cmake/asConfig.cmake
+[22.219s] -- Up-to-date: /home/capstone/autoware.ai/install/as/share/as/cmake/asConfig-version.cmake
+[22.219s] -- Up-to-date: /home/capstone/autoware.ai/install/as/share/as/package.xml
+[22.219s] -- Up-to-date: /home/capstone/autoware.ai/install/as/lib/as/ssc_interface
+[22.220s] -- Up-to-date: /home/capstone/autoware.ai/install/as/share/as/launch
+[22.220s] -- Up-to-date: /home/capstone/autoware.ai/install/as/share/as/launch/ssc_interface.launch

@@ -1,0 +1,6 @@
+[0.129s] Invoking command in '/home/capstone/autoware.ai/build/autoware_map_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs -- -j12 -l12
+[10.005s] Invoked command in '/home/capstone/autoware.ai/build/autoware_map_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs -- -j12 -l12
+[10.723s] Invoking command in '/home/capstone/autoware.ai/build/autoware_map_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs --target tests -- -j12 -l12
+[11.210s] Invoked command in '/home/capstone/autoware.ai/build/autoware_map_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs --target tests -- -j12 -l12
+[11.861s] Invoking command in '/home/capstone/autoware.ai/build/autoware_map_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs --target install -- -j12 -l12
+[21.820s] Invoked command in '/home/capstone/autoware.ai/build/autoware_map_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs --target install -- -j12 -l12

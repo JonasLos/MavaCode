@@ -1,0 +1,145 @@
+[0.789s] -- The C compiler identification is GNU 7.5.0
+[1.149s] -- The CXX compiler identification is GNU 7.5.0
+[1.175s] -- Check for working C compiler: /usr/bin/cc
+[1.990s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.991s] -- Detecting C compiler ABI info
+[2.648s] -- Detecting C compiler ABI info - done
+[2.695s] -- Detecting C compile features
+[4.574s] -- Detecting C compile features - done
+[4.582s] -- Check for working CXX compiler: /usr/bin/c++
+[5.196s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[5.199s] -- Detecting CXX compiler ABI info
+[5.894s] -- Detecting CXX compiler ABI info - done
+[5.934s] -- Detecting CXX compile features
+[9.328s] -- Detecting CXX compile features - done
+[9.340s] -- MRT_ARCH not set and X86 target detected (x86_64)
+[9.340s] -- Setting -march to sandybridge
+[11.186s] -- Found OpenMP_C: -fopenmp (found version "4.5") 
+[11.869s] -- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+[11.872s] -- Found OpenMP: TRUE (found version "4.5")  
+[11.883s] -- Performing Test FLAG_AVAILABLE
+[12.436s] -- Performing Test FLAG_AVAILABLE - Success
+[12.494s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/lanelet2_io/devel
+[12.494s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[12.500s] -- This workspace overlays: /home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[12.625s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[12.626s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[12.626s] -- Using Debian Python package layout
+[12.630s] -- Using empy: /usr/bin/empy
+[13.154s] -- Using CATKIN_ENABLE_TESTING: ON
+[13.155s] -- Call enable_testing()
+[13.202s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/lanelet2_io/test_results
+[13.314s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[13.314s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[13.463s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[13.464s] -- Looking for pthread.h
+[14.136s] -- Looking for pthread.h - found
+[14.138s] -- Looking for pthread_create
+[14.687s] -- Looking for pthread_create - found
+[14.689s] -- Found Threads: TRUE  
+[14.705s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[14.943s] -- catkin 0.7.23
+[14.944s] -- BUILD_SHARED_LIBS is on
+[17.234s] -- Found pugixml: /usr/lib/x86_64-linux-gnu/libpugixml.so  
+[18.049s] -- Boost version: 1.65.1
+[18.049s] -- Found the following Boost libraries:
+[18.050s] --   wserialization
+[18.050s] --   thread
+[18.050s] --   random
+[18.051s] --   serialization
+[18.051s] --   log_setup
+[18.051s] --   prg_exec_monitor
+[18.051s] --   wave
+[18.052s] --   system
+[18.052s] --   signals
+[18.052s] --   chrono
+[18.052s] --   filesystem
+[18.052s] --   locale
+[18.053s] --   timer
+[18.053s] --   date_time
+[18.053s] --   regex
+[18.053s] --   graph
+[18.054s] --   program_options
+[18.054s] --   unit_test_framework
+[18.054s] --   log
+[18.054s] --   atomic
+[19.096s] -- Adding library "lanelet2_io" with source src/BinHandler.cpp;src/Factory.cpp;src/Io.cpp;src/OsmFile.cpp;src/OsmHandlerLoad.cpp;src/OsmHandlerWrite.cpp
+[19.096s] -- Marking targets "lanelet2_io" of package "lanelet2_io" for installation
+[19.097s] -- Marking HEADER FILES in "include" folder of package "lanelet2_io" for installation
+[19.099s] -- Adding gtest unittest "lanelet2_io-TestBinHandler-test" with working dir /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_io/test
+[19.102s] -- Adding gtest unittest "lanelet2_io-TestLanelet2Io-test" with working dir /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_io/test
+[19.107s] -- Adding gtest unittest "lanelet2_io-TestOsmFile-test" with working dir /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_io/test
+[19.121s] -- Adding gtest unittest "lanelet2_io-TestOsmHandler-test" with working dir /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_io/test
+[19.124s] -- Adding gtest unittest "lanelet2_io-TestSimpleUsage-test" with working dir /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_io/test
+[19.130s] -- Adding nosetests in folder test
+[19.136s] -- Configuring done
+[19.384s] -- Generating done
+[19.404s] -- Build files have been written to: /home/capstone/autoware.ai/build/lanelet2_io
+[19.839s] [35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[19.965s] [  0%] Built target _catkin_empty_exported_target
+[20.082s] [35m[1mScanning dependencies of target lanelet2_io[0m
+[20.282s] [ 14%] [32mBuilding CXX object CMakeFiles/lanelet2_io.dir/src/BinHandler.cpp.o[0m
+[41.516s] [ 28%] [32mBuilding CXX object CMakeFiles/lanelet2_io.dir/src/OsmHandlerWrite.cpp.o[0m
+[53.178s] [ 42%] [32mBuilding CXX object CMakeFiles/lanelet2_io.dir/src/OsmHandlerLoad.cpp.o[0m
+[76.700s] [ 57%] [32mBuilding CXX object CMakeFiles/lanelet2_io.dir/src/OsmFile.cpp.o[0m
+[83.670s] [ 71%] [32mBuilding CXX object CMakeFiles/lanelet2_io.dir/src/Io.cpp.o[0m
+[91.538s] [ 85%] [32mBuilding CXX object CMakeFiles/lanelet2_io.dir/src/Factory.cpp.o[0m
+[99.790s] [100%] [32m[1mLinking CXX shared library devel/lib/liblanelet2_io.so[0m
+[100.133s] [100%] Built target lanelet2_io
+[102.685s] [35m[1mScanning dependencies of target gtest[0m
+[102.832s] [  4%] [32mBuilding CXX object gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[113.656s] [  9%] [32m[1mLinking CXX shared library libgtest.so[0m
+[114.140s] [  9%] Built target gtest
+[114.474s] [  9%] Built target _catkin_empty_exported_target
+[114.654s] [35m[1mScanning dependencies of target gtest_main[0m
+[114.879s] [ 14%] [32mBuilding CXX object gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[116.463s] [ 19%] [32m[1mLinking CXX shared library libgtest_main.so[0m
+[116.844s] [ 19%] Built target gtest_main
+[117.120s] [ 52%] Built target lanelet2_io
+[117.219s] [35m[1mScanning dependencies of target lanelet2_io-TestLanelet2Io-test[0m
+[117.517s] [ 57%] [32mBuilding CXX object CMakeFiles/lanelet2_io-TestLanelet2Io-test.dir/test/TestLanelet2Io.cpp.o[0m
+[125.426s] [ 61%] [32m[1mLinking CXX executable devel/lib/lanelet2_io/lanelet2_io-TestLanelet2Io-test[0m
+[125.795s] [ 61%] Built target lanelet2_io-TestLanelet2Io-test
+[125.926s] [35m[1mScanning dependencies of target lanelet2_io-TestOsmFile-test[0m
+[126.063s] [ 66%] [32mBuilding CXX object CMakeFiles/lanelet2_io-TestOsmFile-test.dir/test/TestOsmFile.cpp.o[0m
+[132.103s] [ 71%] [32m[1mLinking CXX executable devel/lib/lanelet2_io/lanelet2_io-TestOsmFile-test[0m
+[132.474s] [ 71%] Built target lanelet2_io-TestOsmFile-test
+[132.591s] [35m[1mScanning dependencies of target lanelet2_io-TestBinHandler-test[0m
+[132.789s] [ 76%] [32mBuilding CXX object CMakeFiles/lanelet2_io-TestBinHandler-test.dir/test/TestBinHandler.cpp.o[0m
+[159.471s] [ 80%] [32m[1mLinking CXX executable devel/lib/lanelet2_io/lanelet2_io-TestBinHandler-test[0m
+[159.842s] [ 80%] Built target lanelet2_io-TestBinHandler-test
+[159.943s] [35m[1mScanning dependencies of target lanelet2_io-TestOsmHandler-test[0m
+[160.156s] [ 85%] [32mBuilding CXX object CMakeFiles/lanelet2_io-TestOsmHandler-test.dir/test/TestOsmHandler.cpp.o[0m
+[174.309s] [ 90%] [32m[1mLinking CXX executable devel/lib/lanelet2_io/lanelet2_io-TestOsmHandler-test[0m
+[174.702s] [ 90%] Built target lanelet2_io-TestOsmHandler-test
+[174.807s] [35m[1mScanning dependencies of target lanelet2_io-TestSimpleUsage-test[0m
+[175.008s] [ 95%] [32mBuilding CXX object CMakeFiles/lanelet2_io-TestSimpleUsage-test.dir/test/TestSimpleUsage.cpp.o[0m
+[181.754s] [100%] [32m[1mLinking CXX executable devel/lib/lanelet2_io/lanelet2_io-TestSimpleUsage-test[0m
+[182.079s] [100%] Built target lanelet2_io-TestSimpleUsage-test
+[182.252s] [35m[1mScanning dependencies of target tests[0m
+[182.366s] [100%] Built target tests
+[184.987s] [  0%] Built target _catkin_empty_exported_target
+[185.235s] [100%] Built target lanelet2_io
+[185.454s] [36mInstall the project...[0m
+[185.534s] -- Install configuration: "Release"
+[185.535s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/lib/pkgconfig/lanelet2_io.pc
+[185.535s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/share/lanelet2_io/cmake/lanelet2_ioConfig.cmake
+[185.535s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/share/lanelet2_io/cmake/lanelet2_ioConfig-version.cmake
+[185.536s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/share/lanelet2_io/package.xml
+[185.537s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/lib/liblanelet2_io.so
+[185.541s] -- Set runtime path of "/home/capstone/autoware.ai/install/lanelet2_io/lib/liblanelet2_io.so" to ""
+[185.542s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io
+[185.543s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/Exceptions.h
+[185.544s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/Projection.h
+[185.544s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/Io.h
+[185.545s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/Configuration.h
+[185.545s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers
+[185.545s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/OsmFile.h
+[185.546s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/Parser.h
+[185.546s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/OsmHandler.h
+[185.546s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/Serialize.h
+[185.546s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/Factory.h
+[185.546s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/Writer.h
+[185.547s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/BinHandler.h
+[185.547s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/IoHandler.h
+[185.547s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/internal

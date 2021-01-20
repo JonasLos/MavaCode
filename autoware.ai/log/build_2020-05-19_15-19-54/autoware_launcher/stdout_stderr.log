@@ -1,0 +1,299 @@
+[0.420s] -- The C compiler identification is GNU 7.5.0
+[0.639s] -- The CXX compiler identification is GNU 7.5.0
+[0.671s] -- Check for working C compiler: /usr/bin/cc
+[1.079s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.081s] -- Detecting C compiler ABI info
+[1.462s] -- Detecting C compiler ABI info - done
+[1.491s] -- Detecting C compile features
+[2.748s] -- Detecting C compile features - done
+[2.762s] -- Check for working CXX compiler: /usr/bin/c++
+[3.247s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.254s] -- Detecting CXX compiler ABI info
+[3.706s] -- Detecting CXX compiler ABI info - done
+[3.757s] -- Detecting CXX compile features
+[5.629s] -- Detecting CXX compile features - done
+[5.645s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/autoware_launcher/devel
+[5.646s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[5.650s] -- This workspace overlays: /home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[5.729s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[5.729s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[5.730s] -- Using Debian Python package layout
+[5.734s] -- Using empy: /usr/bin/empy
+[6.133s] -- Using CATKIN_ENABLE_TESTING: ON
+[6.134s] -- Call enable_testing()
+[6.152s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/autoware_launcher/test_results
+[6.236s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[6.236s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[6.316s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[6.319s] -- Looking for pthread.h
+[6.698s] -- Looking for pthread.h - found
+[6.700s] -- Looking for pthread_create
+[7.143s] -- Looking for pthread_create - not found
+[7.144s] -- Looking for pthread_create in pthreads
+[7.508s] -- Looking for pthread_create in pthreads - not found
+[7.508s] -- Looking for pthread_create in pthread
+[7.901s] -- Looking for pthread_create in pthread - found
+[7.904s] -- Found Threads: TRUE  
+[7.917s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[8.080s] -- catkin 0.7.23
+[8.081s] -- BUILD_SHARED_LIBS is on
+[10.906s] -- Configuring done
+[10.976s] -- Generating done
+[10.997s] -- Build files have been written to: /home/capstone/autoware.ai/build/autoware_launcher
+[12.083s] [35m[1mScanning dependencies of target tests[0m
+[12.168s] Built target tests
+[13.050s] [36mInstall the project...[0m
+[13.104s] -- Install configuration: "Release"
+[13.115s] + cd /home/capstone/autoware.ai/src/autoware/utilities/autoware_launcher
+[13.115s] + mkdir -p /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages
+[13.145s] + /usr/bin/env PYTHONPATH=/home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages:/home/capstone/autoware.ai/build/autoware_launcher/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/tablet_socket_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/lanelet2_python/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_map_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_config_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_can_msgs/lib/python2.7/dist-packages:/opt/carla-ros-bridge/melodic/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/capstone/autoware.ai/build/autoware_launcher /usr/bin/python2 /home/capstone/autoware.ai/src/autoware/utilities/autoware_launcher/setup.py build --build-base /home/capstone/autoware.ai/build/autoware_launcher install --root=/ --install-layout=deb --prefix=/home/capstone/autoware.ai/install/autoware_launcher --install-scripts=/home/capstone/autoware.ai/install/autoware_launcher/bin
+[13.317s] running build
+[13.318s] running build_py
+[13.321s] creating /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7
+[13.321s] creating /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher
+[13.321s] copying src/autoware_launcher/__init__.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher
+[13.322s] creating /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/tool
+[13.323s] copying src/autoware_launcher/tool/editor.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/tool
+[13.323s] copying src/autoware_launcher/tool/wizard.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/tool
+[13.324s] copying src/autoware_launcher/tool/__init__.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/tool
+[13.325s] creating /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core
+[13.325s] copying src/autoware_launcher/core/basetree.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core
+[13.326s] copying src/autoware_launcher/core/mylog.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core
+[13.326s] copying src/autoware_launcher/core/server.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core
+[13.327s] copying src/autoware_launcher/core/launch.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core
+[13.327s] copying src/autoware_launcher/core/plugin.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core
+[13.328s] copying src/autoware_launcher/core/myutils.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core
+[13.329s] copying src/autoware_launcher/core/__init__.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core
+[13.330s] creating /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.330s] copying src/autoware_launcher/gui/quickstart.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.331s] copying src/autoware_launcher/gui/procmgr.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.331s] copying src/autoware_launcher/gui/widgets.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.332s] copying src/autoware_launcher/gui/network.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.333s] copying src/autoware_launcher/gui/guimgr.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.333s] copying src/autoware_launcher/gui/mirror.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.334s] copying src/autoware_launcher/gui/treeview.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.334s] copying src/autoware_launcher/gui/summary.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.335s] copying src/autoware_launcher/gui/client.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.335s] copying src/autoware_launcher/gui/window.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.336s] copying src/autoware_launcher/gui/__init__.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui
+[13.336s] creating /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/simulation
+[13.336s] copying src/autoware_launcher/gui/simulation/gazebo.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/simulation
+[13.337s] copying src/autoware_launcher/gui/simulation/lgsvl.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/simulation
+[13.337s] copying src/autoware_launcher/gui/simulation/rosbag.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/simulation
+[13.337s] copying src/autoware_launcher/gui/simulation/__init__.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/simulation
+[13.337s] creating /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/plugins
+[13.337s] copying src/autoware_launcher/gui/plugins/node.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/plugins
+[13.339s] copying src/autoware_launcher/gui/plugins/basic.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/plugins
+[13.340s] copying src/autoware_launcher/gui/plugins/camera.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/plugins
+[13.340s] copying src/autoware_launcher/gui/plugins/__init__.py -> /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/plugins
+[13.340s] running install
+[13.340s] running install_lib
+[13.341s] creating /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher
+[13.341s] creating /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core
+[13.342s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core/basetree.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core
+[13.342s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core/mylog.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core
+[13.343s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core/server.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core
+[13.345s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core/launch.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core
+[13.348s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core/plugin.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core
+[13.348s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core/myutils.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core
+[13.350s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/core/__init__.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core
+[13.350s] creating /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.350s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/quickstart.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.351s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/procmgr.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.351s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/widgets.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.352s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/network.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.353s] creating /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/simulation
+[13.353s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/simulation/gazebo.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/simulation
+[13.362s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/simulation/lgsvl.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/simulation
+[13.362s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/simulation/rosbag.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/simulation
+[13.364s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/simulation/__init__.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/simulation
+[13.364s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/guimgr.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.364s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/mirror.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.364s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/treeview.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.365s] creating /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/plugins
+[13.365s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/plugins/node.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/plugins
+[13.365s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/plugins/basic.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/plugins
+[13.365s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/plugins/camera.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/plugins
+[13.365s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/plugins/__init__.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/plugins
+[13.365s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/summary.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.373s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/client.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.373s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/window.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.374s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/gui/__init__.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui
+[13.374s] creating /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/tool
+[13.374s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/tool/editor.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/tool
+[13.374s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/tool/wizard.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/tool
+[13.374s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/tool/__init__.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/tool
+[13.374s] copying /home/capstone/autoware.ai/build/autoware_launcher/lib.linux-x86_64-2.7/autoware_launcher/__init__.py -> /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher
+[13.375s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core/basetree.py to basetree.pyc
+[13.375s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core/mylog.py to mylog.pyc
+[13.375s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core/server.py to server.pyc
+[13.375s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core/launch.py to launch.pyc
+[13.375s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core/plugin.py to plugin.pyc
+[13.379s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core/myutils.py to myutils.pyc
+[13.381s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/core/__init__.py to __init__.pyc
+[13.382s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/quickstart.py to quickstart.pyc
+[13.382s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/procmgr.py to procmgr.pyc
+[13.384s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/widgets.py to widgets.pyc
+[13.385s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/network.py to network.pyc
+[13.386s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/simulation/gazebo.py to gazebo.pyc
+[13.389s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/simulation/lgsvl.py to lgsvl.pyc
+[13.389s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/simulation/rosbag.py to rosbag.pyc
+[13.391s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/simulation/__init__.py to __init__.pyc
+[13.391s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/guimgr.py to guimgr.pyc
+[13.395s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/mirror.py to mirror.pyc
+[13.404s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/treeview.py to treeview.pyc
+[13.406s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/plugins/node.py to node.pyc
+[13.407s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/plugins/basic.py to basic.pyc
+[13.407s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/plugins/camera.py to camera.pyc
+[13.414s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/plugins/__init__.py to __init__.pyc
+[13.414s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/summary.py to summary.pyc
+[13.415s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/client.py to client.pyc
+[13.416s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/window.py to window.pyc
+[13.417s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/gui/__init__.py to __init__.pyc
+[13.417s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/tool/editor.py to editor.pyc
+[13.418s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/tool/wizard.py to wizard.pyc
+[13.418s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/tool/__init__.py to __init__.pyc
+[13.418s] byte-compiling /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher/__init__.py to __init__.pyc
+[13.418s] running install_egg_info
+[13.418s] Writing /home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher-1.12.0.egg-info
+[13.431s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/lib/pkgconfig/autoware_launcher.pc
+[13.432s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/cmake/autoware_launcherConfig.cmake
+[13.432s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/cmake/autoware_launcherConfig-version.cmake
+[13.433s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/package.xml
+[13.433s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/lib/autoware_launcher/main
+[13.433s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/lib/autoware_launcher/tool
+[13.434s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources
+[13.434s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/dummy.yaml
+[13.434s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/skins
+[13.434s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/skins/qt.css
+[13.434s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/skins/autoware.css
+[13.435s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/autoware_logo.png
+[13.435s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/lgsvl.yaml
+[13.435s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/rosbagplay.xml
+[13.435s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins
+[13.435s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs
+[13.436s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/tl_recognition.yaml
+[13.436s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/tl_mxnet.yaml
+[13.436s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/velocity_set.yaml
+[13.440s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/yolov3.yaml
+[13.441s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/lane_select.yaml
+[13.441s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/tl_projection.yaml
+[13.442s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/vel_pose_connect.yaml
+[13.442s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/nmea2tfpose.yaml
+[13.443s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/ndt_matching.yaml
+[13.443s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/astar_avoid.yaml
+[13.444s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/imm_ukf_pda_track.yaml
+[13.444s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/euclidean_cluster.yaml
+[13.444s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/native_motion_predict.yaml
+[13.446s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/ray_ground_filter.yaml
+[13.446s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/range_vision_fusion.yaml
+[13.446s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/twist_filter.yaml
+[13.447s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/root
+[13.447s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/root/default.yaml
+[13.447s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver
+[13.448s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/lidar
+[13.448s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/lidar/vlp16.yaml
+[13.448s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/lidar/vlp16.xml
+[13.464s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/lidar/vlp32c.yaml
+[13.464s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/lidar/vlp32c.xml
+[13.464s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/camera
+[13.464s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/camera/usb.yaml
+[13.465s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/camera/usb.xml
+[13.469s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf
+[13.470s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/vehicle.xml
+[13.471s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/lane_rule.xml
+[13.471s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/waypoint_loader.yaml
+[13.471s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/rviz.yaml
+[13.471s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/calibration.xml
+[13.471s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/vehicle.yaml
+[13.472s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/transform_v2v.yaml
+[13.472s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/concat.yaml
+[13.472s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/map.xml
+[13.472s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/transform_v2b.xml
+[13.472s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/waypoint_loader.xml
+[13.472s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/voxel_grid_filter.yaml
+[13.473s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/lane_stop.yaml
+[13.473s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/transform_v2v.xml
+[13.473s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/pure_pursuit.yaml
+[13.474s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/voxel_grid_filter.xml
+[13.474s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/calibration.yaml
+[13.474s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/rviz.xml
+[13.474s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/lane_rule.yaml
+[13.475s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/transform_v2b.yaml
+[13.475s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/concat.xml
+[13.475s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/map.yaml
+[13.475s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/pure_pursuit.xml
+[13.476s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/lane_stop.xml
+[13.476s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node
+[13.476s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/mission.yaml
+[13.476s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/motion.yaml
+[13.476s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/lidar_node.yaml
+[13.476s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/camera_group.yaml
+[13.477s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/detect_obj.yaml
+[13.477s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/lidar_group.yaml
+[13.477s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/lidar_merge.yaml
+[13.477s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/prediction.yaml
+[13.477s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/localization.yaml
+[13.478s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/camera_node.yaml
+[13.478s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/sensing.yaml
+[13.478s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/detection.yaml
+[13.478s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/detect_tl.yaml
+[13.478s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/lidar_single.yaml
+[13.478s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/lidar_multi.yaml
+[13.479s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/decision.yaml
+[13.479s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles
+[13.479s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart
+[13.479s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/files
+[13.479s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/files/default.rviz
+[13.479s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root
+[13.480s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection
+[13.480s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/traffic_lights
+[13.480s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/traffic_lights/projection.yaml
+[13.480s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/traffic_lights/recognition.yaml
+[13.481s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/traffic_lights.yaml
+[13.481s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object
+[13.481s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object/tracking.yaml
+[13.481s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object/points_detect.yaml
+[13.481s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object/fusion.yaml
+[13.482s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object/images_detect.yaml
+[13.482s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object/points_preproc.yaml
+[13.482s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object.yaml
+[13.482s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/mission.yaml
+[13.483s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/visualization.yaml
+[13.483s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing
+[13.483s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/gnss.yaml
+[13.483s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/camera.yaml
+[13.483s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/lidar.yaml
+[13.484s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/lidar
+[13.484s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/lidar/transform.yaml
+[13.484s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/camera
+[13.484s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/camera/camera0.yaml
+[13.484s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/camera/camera0
+[13.485s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/camera/camera0/calibration.yaml
+[13.485s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion.yaml
+[13.485s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/prediction
+[13.485s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/prediction/native_motion_predict.yaml
+[13.485s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/vehicle.yaml
+[13.486s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion
+[13.486s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion/waypoint_loader.yaml
+[13.486s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion/velocity_set.yaml
+[13.487s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion/astar_avoid.yaml
+[13.487s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion/pure_pursuit.yaml
+[13.487s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion/twist_filter.yaml
+[13.487s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/localization
+[13.487s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/localization/localizer.yaml
+[13.488s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/localization/vel_pose_connect.yaml
+[13.488s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/localization/downsampler.yaml
+[13.488s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/prediction.yaml
+[13.488s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/localization.yaml
+[13.488s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing.yaml
+[13.489s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection.yaml
+[13.489s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/mission
+[13.489s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/mission/lane_select.yaml
+[13.489s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/mission/lane_stop.yaml
+[13.489s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/mission/lane_rule.yaml
+[13.490s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/map.yaml
+[13.490s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/decision.yaml
+[13.490s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root.yaml
+[13.490s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart.launch
+[13.490s] -- Installing: /home/capstone/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/.gitignore

@@ -1,0 +1,8 @@
+[0.066s] Invoking command in '/home/capstone/autoware.ai/build/mrt_cmake_modules': /usr/bin/cmake /home/capstone/autoware.ai/src/vendor/mrt_cmake_modules -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/mrt_cmake_modules
+[10.881s] Invoked command in '/home/capstone/autoware.ai/build/mrt_cmake_modules' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/vendor/mrt_cmake_modules -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/mrt_cmake_modules
+[10.883s] Invoking command in '/home/capstone/autoware.ai/build/mrt_cmake_modules': /usr/bin/cmake --build /home/capstone/autoware.ai/build/mrt_cmake_modules -- -j12 -l12
+[11.996s] Invoked command in '/home/capstone/autoware.ai/build/mrt_cmake_modules' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/mrt_cmake_modules -- -j12 -l12
+[13.802s] Invoking command in '/home/capstone/autoware.ai/build/mrt_cmake_modules': /usr/bin/cmake --build /home/capstone/autoware.ai/build/mrt_cmake_modules --target tests -- -j12 -l12
+[15.567s] Invoked command in '/home/capstone/autoware.ai/build/mrt_cmake_modules' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/mrt_cmake_modules --target tests -- -j12 -l12
+[16.396s] Invoking command in '/home/capstone/autoware.ai/build/mrt_cmake_modules': /usr/bin/cmake --build /home/capstone/autoware.ai/build/mrt_cmake_modules --target install -- -j12 -l12
+[17.506s] Invoked command in '/home/capstone/autoware.ai/build/mrt_cmake_modules' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/mrt_cmake_modules --target install -- -j12 -l12

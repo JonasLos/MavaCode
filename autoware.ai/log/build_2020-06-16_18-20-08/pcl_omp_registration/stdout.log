@@ -1,0 +1,16 @@
+[0.580s] [100%] Built target pcl_omp_registration
+[1.390s] Built target tests
+[2.171s] [100%] Built target pcl_omp_registration
+[2.299s] [36mInstall the project...[0m
+[2.356s] -- Install configuration: "Release"
+[2.356s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/lib/pkgconfig/pcl_omp_registration.pc
+[2.356s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/share/pcl_omp_registration/cmake/pcl_omp_registrationConfig.cmake
+[2.357s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/share/pcl_omp_registration/cmake/pcl_omp_registrationConfig-version.cmake
+[2.357s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/share/pcl_omp_registration/package.xml
+[2.357s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration
+[2.357s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/registration.h
+[2.358s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/impl
+[2.358s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/impl/registration.hpp
+[2.358s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/impl/ndt.hpp
+[2.358s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/ndt.h
+[2.359s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/lib/libpcl_omp_registration.so

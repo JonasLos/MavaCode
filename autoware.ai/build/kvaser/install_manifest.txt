@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/kvaser/lib/pkgconfig/kvaser.pc
+/home/capstone/autoware.ai/install/kvaser/share/kvaser/cmake/kvaserConfig.cmake
+/home/capstone/autoware.ai/install/kvaser/share/kvaser/cmake/kvaserConfig-version.cmake
+/home/capstone/autoware.ai/install/kvaser/share/kvaser/package.xml
+/home/capstone/autoware.ai/install/kvaser/lib/kvaser/can_converter
+/home/capstone/autoware.ai/install/kvaser/lib/kvaser/can_draw

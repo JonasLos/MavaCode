@@ -1,0 +1,8 @@
+[0.070s] Invoking command in '/home/capstone/autoware.ai/build/pc2_downsampler': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/utilities/pc2_downsampler -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/pc2_downsampler
+[14.502s] Invoked command in '/home/capstone/autoware.ai/build/pc2_downsampler' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/utilities/pc2_downsampler -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/pc2_downsampler
+[14.504s] Invoking command in '/home/capstone/autoware.ai/build/pc2_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler -- -j12 -l12
+[14.794s] Invoked command in '/home/capstone/autoware.ai/build/pc2_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler -- -j12 -l12
+[15.625s] Invoking command in '/home/capstone/autoware.ai/build/pc2_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler --target tests -- -j12 -l12
+[16.137s] Invoked command in '/home/capstone/autoware.ai/build/pc2_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler --target tests -- -j12 -l12
+[17.019s] Invoking command in '/home/capstone/autoware.ai/build/pc2_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler --target install -- -j12 -l12
+[17.404s] Invoked command in '/home/capstone/autoware.ai/build/pc2_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler --target install -- -j12 -l12

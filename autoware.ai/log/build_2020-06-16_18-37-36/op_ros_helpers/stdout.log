@@ -1,0 +1,13 @@
+[1.926s] [100%] Built target op_ros_helpers
+[3.605s] Built target tests
+[5.369s] [100%] Built target op_ros_helpers
+[5.507s] [36mInstall the project...[0m
+[5.566s] -- Install configuration: "Release"
+[5.566s] -- Up-to-date: /home/capstone/autoware.ai/install/op_ros_helpers/lib/pkgconfig/op_ros_helpers.pc
+[5.567s] -- Up-to-date: /home/capstone/autoware.ai/install/op_ros_helpers/share/op_ros_helpers/cmake/op_ros_helpersConfig.cmake
+[5.567s] -- Up-to-date: /home/capstone/autoware.ai/install/op_ros_helpers/share/op_ros_helpers/cmake/op_ros_helpersConfig-version.cmake
+[5.567s] -- Up-to-date: /home/capstone/autoware.ai/install/op_ros_helpers/share/op_ros_helpers/package.xml
+[5.567s] -- Up-to-date: /home/capstone/autoware.ai/install/op_ros_helpers/include/op_ros_helpers
+[5.568s] -- Up-to-date: /home/capstone/autoware.ai/install/op_ros_helpers/include/op_ros_helpers/PolygonGenerator.h
+[5.568s] -- Up-to-date: /home/capstone/autoware.ai/install/op_ros_helpers/include/op_ros_helpers/op_ROSHelpers.h
+[5.568s] -- Up-to-date: /home/capstone/autoware.ai/install/op_ros_helpers/lib/libop_ros_helpers.so

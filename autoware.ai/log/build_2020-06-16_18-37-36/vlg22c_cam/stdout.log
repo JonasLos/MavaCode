@@ -1,0 +1,7 @@
+[1.351s] Built target tests
+[2.263s] [36mInstall the project...[0m
+[2.321s] -- Install configuration: "Release"
+[2.321s] -- Up-to-date: /home/capstone/autoware.ai/install/vlg22c_cam/lib/pkgconfig/vlg22c_cam.pc
+[2.321s] -- Up-to-date: /home/capstone/autoware.ai/install/vlg22c_cam/share/vlg22c_cam/cmake/vlg22c_camConfig.cmake
+[2.321s] -- Up-to-date: /home/capstone/autoware.ai/install/vlg22c_cam/share/vlg22c_cam/cmake/vlg22c_camConfig-version.cmake
+[2.322s] -- Up-to-date: /home/capstone/autoware.ai/install/vlg22c_cam/share/vlg22c_cam/package.xml

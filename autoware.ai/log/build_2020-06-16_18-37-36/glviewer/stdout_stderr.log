@@ -1,0 +1,16 @@
+[0.519s] [ 16%] [34m[1mAutomatic MOC for target glviewer[0m
+[0.641s] [ 16%] Built target glviewer_autogen
+[0.822s] [100%] Built target glviewer
+[1.767s] Built target tests
+[2.673s] [ 16%] [34m[1mAutomatic MOC for target glviewer[0m
+[2.795s] [ 16%] Built target glviewer_autogen
+[2.992s] [100%] Built target glviewer
+[3.156s] [36mInstall the project...[0m
+[3.213s] -- Install configuration: "Release"
+[3.213s] -- Up-to-date: /home/capstone/autoware.ai/install/glviewer/lib/pkgconfig/glviewer.pc
+[3.214s] -- Up-to-date: /home/capstone/autoware.ai/install/glviewer/share/glviewer/cmake/glviewerConfig.cmake
+[3.214s] -- Up-to-date: /home/capstone/autoware.ai/install/glviewer/share/glviewer/cmake/glviewerConfig-version.cmake
+[3.214s] -- Up-to-date: /home/capstone/autoware.ai/install/glviewer/share/glviewer/package.xml
+[3.214s] -- Up-to-date: /home/capstone/autoware.ai/install/glviewer/include/glviewer
+[3.214s] -- Up-to-date: /home/capstone/autoware.ai/install/glviewer/include/glviewer/glviewer.h
+[3.215s] -- Up-to-date: /home/capstone/autoware.ai/install/glviewer/lib/libglviewer.so

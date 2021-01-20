@@ -1,0 +1,20 @@
+[2.516s] [100%] Built target ndt_gpu
+[6.015s] Built target tests
+[7.448s] [100%] Built target ndt_gpu
+[7.664s] [36mInstall the project...[0m
+[7.812s] -- Install configuration: "Release"
+[7.813s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/lib/pkgconfig/ndt_gpu.pc
+[7.813s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/share/ndt_gpu/cmake/ndt_gpuConfig.cmake
+[7.813s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/share/ndt_gpu/cmake/ndt_gpuConfig-version.cmake
+[7.814s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/share/ndt_gpu/package.xml
+[7.814s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/include/ndt_gpu
+[7.814s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/include/ndt_gpu/Registration.h
+[7.815s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/include/ndt_gpu/Matrix.h
+[7.815s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/include/ndt_gpu/common.h
+[7.815s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/include/ndt_gpu/VoxelGrid.h
+[7.815s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/include/ndt_gpu/SymmetricEigenSolver.h
+[7.815s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/include/ndt_gpu/NormalDistributionsTransform.h
+[7.815s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/include/ndt_gpu/MatrixDevice.h
+[7.816s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/include/ndt_gpu/debug.h
+[7.816s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/include/ndt_gpu/MatrixHost.h
+[7.816s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_gpu/lib/libndt_gpu.so

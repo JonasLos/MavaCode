@@ -1,0 +1,6 @@
+[0.166s] Invoking command in '/home/capstone/autoware.ai/build/ndt_tku': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku -- -j12 -l12
+[1.244s] Invoked command in '/home/capstone/autoware.ai/build/ndt_tku' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku -- -j12 -l12
+[1.806s] Invoking command in '/home/capstone/autoware.ai/build/ndt_tku': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku --target tests -- -j12 -l12
+[2.342s] Invoked command in '/home/capstone/autoware.ai/build/ndt_tku' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku --target tests -- -j12 -l12
+[2.695s] Invoking command in '/home/capstone/autoware.ai/build/ndt_tku': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku --target install -- -j12 -l12
+[3.249s] Invoked command in '/home/capstone/autoware.ai/build/ndt_tku' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_tku --target install -- -j12 -l12

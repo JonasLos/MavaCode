@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/vehicle_engage_panel/lib/pkgconfig/vehicle_engage_panel.pc
+/home/capstone/autoware.ai/install/vehicle_engage_panel/share/vehicle_engage_panel/cmake/vehicle_engage_panelConfig.cmake
+/home/capstone/autoware.ai/install/vehicle_engage_panel/share/vehicle_engage_panel/cmake/vehicle_engage_panelConfig-version.cmake
+/home/capstone/autoware.ai/install/vehicle_engage_panel/share/vehicle_engage_panel/package.xml
+/home/capstone/autoware.ai/install/vehicle_engage_panel/lib/libvehicle_engage_panel.so
+/home/capstone/autoware.ai/install/vehicle_engage_panel/share/vehicle_engage_panel/plugin_description.xml

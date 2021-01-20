@@ -1,0 +1,6 @@
+[9.915s] CUDA is available!
+[9.916s] CUDA Libs: /usr/local/cuda/lib64/libcudart_static.a;-lpthread;dl;/usr/lib/x86_64-linux-gnu/librt.so
+[9.916s] CUDA Headers: /usr/local/cuda/include
+[9.928s] TensorRT is NOT Available
+[9.969s] CUDNN is NOT Available
+[12.912s] PointPillars won't be built, CUDA and/or TensorRT were not found.

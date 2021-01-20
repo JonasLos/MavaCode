@@ -1,0 +1,4 @@
+[92.097s] [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/points_downsampler/nodes/random_filter/random_filter.cpp:[m[K In function ‘[01m[Kvoid scan_callback(const ConstPtr&)[m[K’:
+[92.097s] [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/points_downsampler/nodes/random_filter/random_filter.cpp:74:25:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[92.098s]    if([01;35m[Kscan.points.size() >= sample_num[m[K)
+[92.098s]       [01;35m[K~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~[m[K

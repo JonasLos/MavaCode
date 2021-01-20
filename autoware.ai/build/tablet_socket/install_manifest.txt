@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/tablet_socket/lib/pkgconfig/tablet_socket.pc
+/home/capstone/autoware.ai/install/tablet_socket/share/tablet_socket/cmake/tablet_socketConfig.cmake
+/home/capstone/autoware.ai/install/tablet_socket/share/tablet_socket/cmake/tablet_socketConfig-version.cmake
+/home/capstone/autoware.ai/install/tablet_socket/share/tablet_socket/package.xml
+/home/capstone/autoware.ai/install/tablet_socket/lib/tablet_socket/tablet_receiver
+/home/capstone/autoware.ai/install/tablet_socket/lib/tablet_socket/tablet_sender

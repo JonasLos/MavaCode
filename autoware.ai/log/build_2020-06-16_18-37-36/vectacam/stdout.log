@@ -1,0 +1,13 @@
+[0.507s] [100%] Built target vectacam_node
+[1.708s] Built target tests
+[2.786s] [100%] Built target vectacam_node
+[2.915s] [36mInstall the project...[0m
+[2.987s] -- Install configuration: "Release"
+[2.987s] -- Up-to-date: /home/capstone/autoware.ai/install/vectacam/lib/pkgconfig/vectacam.pc
+[2.988s] -- Up-to-date: /home/capstone/autoware.ai/install/vectacam/share/vectacam/cmake/vectacamConfig.cmake
+[2.988s] -- Up-to-date: /home/capstone/autoware.ai/install/vectacam/share/vectacam/cmake/vectacamConfig-version.cmake
+[2.988s] -- Up-to-date: /home/capstone/autoware.ai/install/vectacam/share/vectacam/package.xml
+[2.988s] -- Up-to-date: /home/capstone/autoware.ai/install/vectacam/lib/vectacam/vectacam_node
+[2.989s] -- Up-to-date: /home/capstone/autoware.ai/install/vectacam/share/vectacam/launch
+[2.989s] -- Up-to-date: /home/capstone/autoware.ai/install/vectacam/share/vectacam/launch/vectacam.launch
+[2.989s] -- Up-to-date: /home/capstone/autoware.ai/install/vectacam/share/vectacam/launch/initialization_params.txt

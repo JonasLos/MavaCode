@@ -1,0 +1,6 @@
+[0.091s] Invoking command in '/home/capstone/autoware.ai/build/twist2odom': /usr/bin/cmake --build /home/capstone/autoware.ai/build/twist2odom -- -j12 -l12
+[5.299s] Invoked command in '/home/capstone/autoware.ai/build/twist2odom' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/twist2odom -- -j12 -l12
+[5.957s] Invoking command in '/home/capstone/autoware.ai/build/twist2odom': /usr/bin/cmake --build /home/capstone/autoware.ai/build/twist2odom --target tests -- -j12 -l12
+[6.845s] Invoked command in '/home/capstone/autoware.ai/build/twist2odom' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/twist2odom --target tests -- -j12 -l12
+[7.587s] Invoking command in '/home/capstone/autoware.ai/build/twist2odom': /usr/bin/cmake --build /home/capstone/autoware.ai/build/twist2odom --target install -- -j12 -l12
+[13.203s] Invoked command in '/home/capstone/autoware.ai/build/twist2odom' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/twist2odom --target install -- -j12 -l12

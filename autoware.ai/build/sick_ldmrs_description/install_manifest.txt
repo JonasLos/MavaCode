@@ -1,0 +1,10 @@
+/home/capstone/autoware.ai/install/sick_ldmrs_description/lib/pkgconfig/sick_ldmrs_description.pc
+/home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/cmake/sick_ldmrs_descriptionConfig.cmake
+/home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/cmake/sick_ldmrs_descriptionConfig-version.cmake
+/home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/package.xml
+/home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/launch/show_urdf.launch
+/home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/launch/upload_urdf.launch
+/home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/meshes/sick_ldmrs.dae
+/home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/meshes/sick_ldmrs_color.png
+/home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/urdf/sick_ldmrs.urdf.xacro
+/home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/urdf/sick_ldmrs_macros.urdf.xacro

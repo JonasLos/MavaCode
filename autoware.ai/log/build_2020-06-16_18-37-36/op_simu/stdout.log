@@ -1,0 +1,17 @@
+[0.986s] [ 55%] Built target Simu
+[1.186s] [100%] Built target op_simu
+[2.739s] Built target tests
+[4.253s] [ 55%] Built target Simu
+[4.415s] [100%] Built target op_simu
+[4.558s] [36mInstall the project...[0m
+[4.625s] -- Install configuration: "Release"
+[4.625s] -- Up-to-date: /home/capstone/autoware.ai/install/op_simu/lib/pkgconfig/op_simu.pc
+[4.625s] -- Up-to-date: /home/capstone/autoware.ai/install/op_simu/share/op_simu/cmake/op_simuConfig.cmake
+[4.626s] -- Up-to-date: /home/capstone/autoware.ai/install/op_simu/share/op_simu/cmake/op_simuConfig-version.cmake
+[4.626s] -- Up-to-date: /home/capstone/autoware.ai/install/op_simu/share/op_simu/package.xml
+[4.626s] -- Up-to-date: /home/capstone/autoware.ai/install/op_simu/include/op_simu
+[4.626s] -- Up-to-date: /home/capstone/autoware.ai/install/op_simu/include/op_simu/TrajectoryFollower.h
+[4.626s] -- Up-to-date: /home/capstone/autoware.ai/install/op_simu/include/op_simu/SimpleTracker.h
+[4.627s] -- Up-to-date: /home/capstone/autoware.ai/install/op_simu/include/op_simu/SimulatedTrajectoryFollower.h
+[4.627s] -- Up-to-date: /home/capstone/autoware.ai/install/op_simu/lib/libop_simu.so
+[4.627s] -- Up-to-date: /home/capstone/autoware.ai/install/op_simu/lib/op_simu/Simu

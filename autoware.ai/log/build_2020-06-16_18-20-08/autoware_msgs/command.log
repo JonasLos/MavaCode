@@ -1,0 +1,8 @@
+[0.235s] Invoking command in '/home/capstone/autoware.ai/build/autoware_msgs': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/messages/autoware_msgs -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/autoware_msgs
+[6.883s] Invoked command in '/home/capstone/autoware.ai/build/autoware_msgs' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/messages/autoware_msgs -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/autoware_msgs
+[6.885s] Invoking command in '/home/capstone/autoware.ai/build/autoware_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_msgs -- -j12 -l12
+[12.480s] Invoked command in '/home/capstone/autoware.ai/build/autoware_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_msgs -- -j12 -l12
+[13.536s] Invoking command in '/home/capstone/autoware.ai/build/autoware_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_msgs --target tests -- -j12 -l12
+[14.021s] Invoked command in '/home/capstone/autoware.ai/build/autoware_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_msgs --target tests -- -j12 -l12
+[15.132s] Invoking command in '/home/capstone/autoware.ai/build/autoware_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_msgs --target install -- -j12 -l12
+[37.577s] Invoked command in '/home/capstone/autoware.ai/build/autoware_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_msgs --target install -- -j12 -l12

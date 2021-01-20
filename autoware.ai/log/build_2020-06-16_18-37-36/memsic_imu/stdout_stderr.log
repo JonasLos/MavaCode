@@ -1,0 +1,12 @@
+[0.453s] [100%] Built target vg440_node
+[1.627s] Built target tests
+[2.831s] [100%] Built target vg440_node
+[2.965s] [36mInstall the project...[0m
+[3.023s] -- Install configuration: "Release"
+[3.023s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/lib/pkgconfig/memsic_imu.pc
+[3.023s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig.cmake
+[3.024s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig-version.cmake
+[3.024s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/package.xml
+[3.024s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/lib/memsic_imu/vg440_node
+[3.024s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/launch
+[3.025s] -- Up-to-date: /home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/launch/vg440.launch

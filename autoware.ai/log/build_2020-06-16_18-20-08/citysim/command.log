@@ -1,0 +1,4 @@
+[0.062s] Invoking command in '/home/capstone/autoware.ai/build/citysim': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim -- -j12 -l12
+[1.878s] Invoked command in '/home/capstone/autoware.ai/build/citysim' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim -- -j12 -l12
+[2.116s] Invoking command in '/home/capstone/autoware.ai/build/citysim': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim --target install -- -j12 -l12
+[4.042s] Invoked command in '/home/capstone/autoware.ai/build/citysim' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim --target install -- -j12 -l12

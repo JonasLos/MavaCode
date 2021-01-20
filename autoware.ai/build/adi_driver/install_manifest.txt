@@ -1,0 +1,14 @@
+/home/capstone/autoware.ai/install/adi_driver/lib/pkgconfig/adi_driver.pc
+/home/capstone/autoware.ai/install/adi_driver/share/adi_driver/cmake/adi_driverConfig.cmake
+/home/capstone/autoware.ai/install/adi_driver/share/adi_driver/cmake/adi_driverConfig-version.cmake
+/home/capstone/autoware.ai/install/adi_driver/share/adi_driver/package.xml
+/home/capstone/autoware.ai/install/adi_driver/lib/adi_driver/adis16470_node
+/home/capstone/autoware.ai/install/adi_driver/lib/adi_driver/adxl345_node
+/home/capstone/autoware.ai/install/adi_driver/include/adi_driver/adis16470.h
+/home/capstone/autoware.ai/install/adi_driver/include/adi_driver/adxl345.h
+/home/capstone/autoware.ai/install/adi_driver/share/adi_driver/launch/imu.rviz
+/home/capstone/autoware.ai/install/adi_driver/share/adi_driver/launch/adxl345.launch
+/home/capstone/autoware.ai/install/adi_driver/share/adi_driver/launch/adis16470.launch
+/home/capstone/autoware.ai/install/adi_driver/share/adi_driver/test/test_adis16470.py
+/home/capstone/autoware.ai/install/adi_driver/share/adi_driver/test/test_adxl345.py
+/home/capstone/autoware.ai/install/adi_driver/share/adi_driver/urdf/adis16470_breakout.urdf

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/capstone/autoware.ai/build/dp_planner/devel/setup.sh

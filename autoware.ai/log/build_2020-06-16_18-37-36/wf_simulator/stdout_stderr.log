@@ -1,0 +1,88 @@
+[0.935s] [100%] Built target wf_simulator
+[2.506s] [ 33%] Built target gtest
+[2.648s] [ 33%] Built target rosgraph_msgs_generate_messages_py
+[2.794s] [ 33%] Built target rosgraph_msgs_generate_messages_nodejs
+[2.939s] [ 33%] Built target jsk_recognition_msgs_generate_messages_lisp
+[3.096s] [ 33%] Built target tf_generate_messages_cpp
+[3.298s] [ 33%] Built target jsk_recognition_msgs_generate_messages_eus
+[3.440s] [ 33%] Built target std_msgs_generate_messages_py
+[3.588s] [ 33%] Built target jsk_recognition_msgs_generate_messages_cpp
+[3.733s] [ 33%] Built target autoware_system_msgs_generate_messages_py
+[3.880s] [ 33%] Built target geometry_msgs_generate_messages_lisp
+[4.032s] [ 33%] Built target autoware_msgs_generate_messages_eus
+[4.206s] [ 33%] Built target std_msgs_generate_messages_nodejs
+[4.351s] [ 33%] Built target geometry_msgs_generate_messages_eus
+[4.501s] [ 33%] Built target std_msgs_generate_messages_cpp
+[4.648s] [ 33%] Built target jsk_footstep_msgs_generate_messages_py
+[4.793s] [ 33%] Built target geometry_msgs_generate_messages_py
+[4.947s] [ 33%] Built target tf2_msgs_generate_messages_eus
+[5.100s] [ 33%] Built target sensor_msgs_generate_messages_py
+[5.275s] [ 33%] Built target jsk_footstep_msgs_generate_messages_lisp
+[5.423s] [ 33%] Built target autoware_msgs_generate_messages_nodejs
+[5.570s] [ 33%] Built target actionlib_msgs_generate_messages_eus
+[5.719s] [ 33%] Built target tf_generate_messages_eus
+[5.865s] [ 33%] Built target autoware_msgs_generate_messages_py
+[6.010s] [ 33%] Built target rosgraph_msgs_generate_messages_lisp
+[6.165s] [ 33%] Built target sensor_msgs_generate_messages_lisp
+[6.338s] [ 33%] Built target sensor_msgs_generate_messages_eus
+[6.484s] [ 33%] Built target roscpp_generate_messages_cpp
+[6.629s] [ 33%] Built target autoware_system_msgs_generate_messages_eus
+[6.775s] [ 33%] Built target autoware_msgs_generate_messages_lisp
+[6.919s] [ 33%] Built target sensor_msgs_generate_messages_cpp
+[7.067s] [ 33%] Built target pcl_msgs_generate_messages_cpp
+[7.260s] [ 33%] Built target jsk_recognition_msgs_generate_messages_py
+[7.428s] [ 33%] Built target std_msgs_generate_messages_lisp
+[7.568s] [ 33%] Built target autoware_msgs_generate_messages_cpp
+[7.710s] [ 33%] Built target jsk_footstep_msgs_generate_messages_eus
+[7.851s] [ 33%] Built target actionlib_generate_messages_lisp
+[8.000s] [ 33%] Built target _catkin_empty_exported_target
+[8.164s] [ 33%] Built target roscpp_generate_messages_lisp
+[8.330s] [ 33%] Built target geometry_msgs_generate_messages_nodejs
+[8.483s] [ 33%] Built target geometry_msgs_generate_messages_cpp
+[8.632s] [ 33%] Built target pcl_msgs_generate_messages_eus
+[8.773s] [ 33%] Built target pcl_msgs_generate_messages_nodejs
+[8.917s] [ 33%] Built target pcl_msgs_generate_messages_lisp
+[9.065s] [ 33%] Built target pcl_msgs_generate_messages_py
+[9.239s] [ 33%] Built target sensor_msgs_generate_messages_nodejs
+[9.386s] [ 33%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[9.530s] [ 33%] Built target actionlib_msgs_generate_messages_cpp
+[9.676s] [ 33%] Built target actionlib_msgs_generate_messages_py
+[9.820s] [ 33%] Built target tf_generate_messages_lisp
+[9.967s] [ 33%] Built target tf_generate_messages_nodejs
+[10.152s] [ 33%] Built target std_msgs_generate_messages_eus
+[10.346s] [ 33%] Built target actionlib_msgs_generate_messages_lisp
+[10.490s] [ 33%] Built target actionlib_msgs_generate_messages_nodejs
+[10.636s] [ 33%] Built target tf_generate_messages_py
+[10.781s] [ 33%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[10.933s] [ 33%] Built target roscpp_generate_messages_py
+[11.082s] [ 33%] Built target roscpp_generate_messages_eus
+[11.301s] [ 33%] Built target jsk_footstep_msgs_generate_messages_cpp
+[11.453s] [ 33%] Built target roscpp_generate_messages_nodejs
+[11.596s] [ 33%] Built target actionlib_generate_messages_eus
+[11.743s] [ 33%] Built target rosgraph_msgs_generate_messages_cpp
+[11.891s] [ 33%] Built target rosgraph_msgs_generate_messages_eus
+[12.041s] [ 33%] Built target actionlib_generate_messages_cpp
+[12.245s] [ 33%] Built target actionlib_generate_messages_nodejs
+[12.387s] [ 33%] Built target actionlib_generate_messages_py
+[12.531s] [ 33%] Built target tf2_msgs_generate_messages_cpp
+[12.675s] [ 33%] Built target tf2_msgs_generate_messages_lisp
+[12.823s] [ 33%] Built target tf2_msgs_generate_messages_nodejs
+[12.973s] [ 33%] Built target tf2_msgs_generate_messages_py
+[13.148s] [ 33%] Built target autoware_system_msgs_generate_messages_cpp
+[13.327s] [ 33%] Built target autoware_system_msgs_generate_messages_lisp
+[13.476s] [ 33%] Built target autoware_system_msgs_generate_messages_nodejs
+[13.640s] [100%] Built target test-wf_simulator
+[13.784s] [100%] Built target tests
+[15.295s] [100%] Built target wf_simulator
+[15.433s] [36mInstall the project...[0m
+[15.492s] -- Install configuration: "Release"
+[15.492s] -- Up-to-date: /home/capstone/autoware.ai/install/wf_simulator/lib/pkgconfig/wf_simulator.pc
+[15.492s] -- Up-to-date: /home/capstone/autoware.ai/install/wf_simulator/share/wf_simulator/cmake/wf_simulatorConfig.cmake
+[15.493s] -- Up-to-date: /home/capstone/autoware.ai/install/wf_simulator/share/wf_simulator/cmake/wf_simulatorConfig-version.cmake
+[15.493s] -- Up-to-date: /home/capstone/autoware.ai/install/wf_simulator/share/wf_simulator/package.xml
+[15.493s] -- Up-to-date: /home/capstone/autoware.ai/install/wf_simulator/lib/wf_simulator/wf_simulator
+[15.494s] -- Up-to-date: /home/capstone/autoware.ai/install/wf_simulator/include/wf_simulator
+[15.494s] -- Up-to-date: /home/capstone/autoware.ai/install/wf_simulator/include/wf_simulator/vehicle_model_ros.h
+[15.494s] -- Up-to-date: /home/capstone/autoware.ai/install/wf_simulator/include/wf_simulator/wf_simulator_core.h
+[15.494s] -- Up-to-date: /home/capstone/autoware.ai/install/wf_simulator/share/wf_simulator/launch
+[15.495s] -- Up-to-date: /home/capstone/autoware.ai/install/wf_simulator/share/wf_simulator/launch/wf_simulator.launch

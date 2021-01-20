@@ -1,0 +1,20 @@
+[0.493s] [ 20%] [34m[1mAutomatic MOC for target autoware_rviz_plugins[0m
+[0.622s] [ 20%] Built target autoware_rviz_plugins_autogen
+[0.823s] [100%] Built target autoware_rviz_plugins
+[2.169s] Built target tests
+[3.529s] [ 20%] [34m[1mAutomatic MOC for target autoware_rviz_plugins[0m
+[3.694s] [ 20%] Built target autoware_rviz_plugins_autogen
+[3.918s] [100%] Built target autoware_rviz_plugins
+[4.054s] [36mInstall the project...[0m
+[4.110s] -- Install configuration: "Release"
+[4.111s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/lib/pkgconfig/autoware_rviz_plugins.pc
+[4.112s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/cmake/autoware_rviz_pluginsConfig.cmake
+[4.112s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/cmake/autoware_rviz_pluginsConfig-version.cmake
+[4.112s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/package.xml
+[4.114s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/lib/libautoware_rviz_plugins.so
+[4.114s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/media
+[4.114s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/media/flag.dae
+[4.114s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/icons
+[4.115s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/icons/classes
+[4.115s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/icons/classes/OpFlag.png
+[4.115s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/plugin_description.xml

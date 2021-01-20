@@ -1,0 +1,6 @@
+[0.140s] Invoking command in '/home/capstone/autoware.ai/build/autoware_quickstart_examples': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_quickstart_examples -- -j12 -l12
+[0.436s] Invoked command in '/home/capstone/autoware.ai/build/autoware_quickstart_examples' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_quickstart_examples -- -j12 -l12
+[0.669s] Invoking command in '/home/capstone/autoware.ai/build/autoware_quickstart_examples': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_quickstart_examples --target tests -- -j12 -l12
+[1.159s] Invoked command in '/home/capstone/autoware.ai/build/autoware_quickstart_examples' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_quickstart_examples --target tests -- -j12 -l12
+[1.406s] Invoking command in '/home/capstone/autoware.ai/build/autoware_quickstart_examples': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_quickstart_examples --target install -- -j12 -l12
+[1.803s] Invoked command in '/home/capstone/autoware.ai/build/autoware_quickstart_examples' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_quickstart_examples --target install -- -j12 -l12

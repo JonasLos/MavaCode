@@ -1,0 +1,7 @@
+/home/capstone/autoware.ai/install/vectacam/lib/pkgconfig/vectacam.pc
+/home/capstone/autoware.ai/install/vectacam/share/vectacam/cmake/vectacamConfig.cmake
+/home/capstone/autoware.ai/install/vectacam/share/vectacam/cmake/vectacamConfig-version.cmake
+/home/capstone/autoware.ai/install/vectacam/share/vectacam/package.xml
+/home/capstone/autoware.ai/install/vectacam/lib/vectacam/vectacam_node
+/home/capstone/autoware.ai/install/vectacam/share/vectacam/launch/vectacam.launch
+/home/capstone/autoware.ai/install/vectacam/share/vectacam/launch/initialization_params.txt

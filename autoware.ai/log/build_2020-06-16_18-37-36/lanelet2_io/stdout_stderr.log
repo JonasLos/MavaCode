@@ -1,0 +1,36 @@
+[0.936s] [  0%] Built target _catkin_empty_exported_target
+[1.218s] [100%] Built target lanelet2_io
+[4.407s] [  9%] Built target gtest
+[4.417s] [  9%] Built target _catkin_empty_exported_target
+[4.745s] [ 42%] Built target lanelet2_io
+[4.759s] [ 52%] Built target gtest_main
+[5.010s] [ 61%] Built target lanelet2_io-TestBinHandler-test
+[5.071s] [ 71%] Built target lanelet2_io-TestOsmFile-test
+[5.076s] [ 80%] Built target lanelet2_io-TestSimpleUsage-test
+[5.116s] [ 90%] Built target lanelet2_io-TestLanelet2Io-test
+[5.190s] [100%] Built target lanelet2_io-TestOsmHandler-test
+[5.448s] [100%] Built target tests
+[6.962s] [  0%] Built target _catkin_empty_exported_target
+[7.229s] [100%] Built target lanelet2_io
+[7.480s] [36mInstall the project...[0m
+[7.635s] -- Install configuration: "Release"
+[7.635s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/lib/pkgconfig/lanelet2_io.pc
+[7.635s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/share/lanelet2_io/cmake/lanelet2_ioConfig.cmake
+[7.635s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/share/lanelet2_io/cmake/lanelet2_ioConfig-version.cmake
+[7.636s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/share/lanelet2_io/package.xml
+[7.636s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/lib/liblanelet2_io.so
+[7.636s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io
+[7.637s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/Exceptions.h
+[7.637s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/Projection.h
+[7.637s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/Io.h
+[7.638s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/Configuration.h
+[7.639s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers
+[7.639s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/OsmFile.h
+[7.639s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/Parser.h
+[7.639s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/OsmHandler.h
+[7.639s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/Serialize.h
+[7.639s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/Factory.h
+[7.640s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/Writer.h
+[7.640s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/BinHandler.h
+[7.640s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/io_handlers/IoHandler.h
+[7.640s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_io/include/lanelet2_io/internal

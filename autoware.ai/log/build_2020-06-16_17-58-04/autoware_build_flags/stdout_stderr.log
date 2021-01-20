@@ -1,0 +1,8 @@
+[1.095s] Built target tests
+[1.761s] [36mInstall the project...[0m
+[1.833s] -- Install configuration: "Release"
+[1.833s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_build_flags/lib/pkgconfig/autoware_build_flags.pc
+[1.833s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_build_flags/share/autoware_build_flags/cmake/autoware_build_flags-extras.cmake
+[1.833s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_build_flags/share/autoware_build_flags/cmake/autoware_build_flagsConfig.cmake
+[1.834s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_build_flags/share/autoware_build_flags/cmake/autoware_build_flagsConfig-version.cmake
+[1.834s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_build_flags/share/autoware_build_flags/package.xml

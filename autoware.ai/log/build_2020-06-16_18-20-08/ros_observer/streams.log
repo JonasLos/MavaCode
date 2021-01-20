@@ -1,0 +1,73 @@
+[0.178s] Invoking command in '/home/capstone/autoware.ai/build/ros_observer': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer -- -j12 -l12
+[1.026s] [  0%] Built target roscpp_generate_messages_py
+[1.063s] [  0%] Built target roscpp_generate_messages_cpp
+[1.068s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.122s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[1.154s] [  0%] Built target std_msgs_generate_messages_eus
+[1.275s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.290s] [  0%] Built target roscpp_generate_messages_lisp
+[1.306s] [  0%] Built target std_msgs_generate_messages_py
+[1.329s] [  0%] Built target roscpp_generate_messages_eus
+[1.332s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.407s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[1.497s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.697s] [  0%] Built target roscpp_generate_messages_nodejs
+[1.780s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[1.796s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[2.439s] [ 50%] Built target ros_observer
+[2.510s] [100%] Built target lib_ros_observer
+[2.678s] Invoked command in '/home/capstone/autoware.ai/build/ros_observer' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer -- -j12 -l12
+[4.032s] Invoking command in '/home/capstone/autoware.ai/build/ros_observer': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer --target tests -- -j12 -l12
+[4.632s] [  0%] Built target std_msgs_generate_messages_eus
+[4.636s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[4.642s] [  0%] Built target roscpp_generate_messages_eus
+[4.649s] [  0%] Built target std_msgs_generate_messages_cpp
+[4.653s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[4.659s] [  0%] Built target std_msgs_generate_messages_nodejs
+[4.661s] [  0%] Built target roscpp_generate_messages_lisp
+[4.685s] [  0%] Built target std_msgs_generate_messages_py
+[4.688s] [  0%] Built target std_msgs_generate_messages_lisp
+[4.690s] [  0%] Built target roscpp_generate_messages_py
+[4.714s] [  0%] Built target roscpp_generate_messages_cpp
+[4.724s] [ 33%] Built target gtest
+[4.779s] [ 33%] Built target rosgraph_msgs_generate_messages_lisp
+[4.804s] [ 33%] Built target roscpp_generate_messages_nodejs
+[4.812s] [ 33%] Built target rosgraph_msgs_generate_messages_py
+[4.825s] [ 33%] Built target rosgraph_msgs_generate_messages_cpp
+[4.961s] [ 66%] Built target lib_ros_observer
+[5.160s] [100%] Built target test_ros_observer
+[5.372s] [100%] Built target tests
+[5.430s] Invoked command in '/home/capstone/autoware.ai/build/ros_observer' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer --target tests -- -j12 -l12
+[6.814s] Invoking command in '/home/capstone/autoware.ai/build/ros_observer': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer --target install -- -j12 -l12
+[7.239s] [  0%] Built target std_msgs_generate_messages_eus
+[7.351s] [  0%] Built target std_msgs_generate_messages_cpp
+[7.411s] [  0%] Built target roscpp_generate_messages_lisp
+[7.434s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[7.462s] [  0%] Built target roscpp_generate_messages_py
+[7.471s] [  0%] Built target std_msgs_generate_messages_py
+[7.475s] [  0%] Built target std_msgs_generate_messages_lisp
+[7.629s] [  0%] Built target roscpp_generate_messages_eus
+[7.629s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[7.630s] [  0%] Built target std_msgs_generate_messages_nodejs
+[7.659s] [  0%] Built target roscpp_generate_messages_cpp
+[7.720s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[7.861s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[8.074s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[8.178s] [  0%] Built target roscpp_generate_messages_nodejs
+[8.607s] [ 50%] Built target ros_observer
+[8.787s] [100%] Built target lib_ros_observer
+[9.272s] [36mInstall the project...[0m
+[9.341s] -- Install configuration: "Release"
+[9.342s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/lib/pkgconfig/ros_observer.pc
+[9.342s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/cmake/ros_observerConfig.cmake
+[9.342s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/cmake/ros_observerConfig-version.cmake
+[9.342s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/package.xml
+[9.343s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/include/ros_observer
+[9.343s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/include/ros_observer/lib_ros_observer.h
+[9.343s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/include/ros_observer/ros_observer.h
+[9.344s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/lib/ros_observer/ros_observer
+[9.345s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/lib/liblib_ros_observer.so
+[9.346s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/launch
+[9.346s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/launch/ros_observer.launch
+[9.347s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/launch/test.launch
+[9.354s] Invoked command in '/home/capstone/autoware.ai/build/ros_observer' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer --target install -- -j12 -l12

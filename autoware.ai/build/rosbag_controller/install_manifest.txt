@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/rosbag_controller/lib/pkgconfig/rosbag_controller.pc
+/home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/cmake/rosbag_controllerConfig.cmake
+/home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/cmake/rosbag_controllerConfig-version.cmake
+/home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/package.xml
+/home/capstone/autoware.ai/install/rosbag_controller/lib/librosbag_controller.so
+/home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/plugin_description.xml

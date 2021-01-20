@@ -1,0 +1,101 @@
+[0.641s] -- The C compiler identification is GNU 7.5.0
+[0.914s] -- The CXX compiler identification is GNU 7.5.0
+[0.928s] -- Check for working C compiler: /usr/bin/cc
+[1.623s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.624s] -- Detecting C compiler ABI info
+[2.141s] -- Detecting C compiler ABI info - done
+[2.169s] -- Detecting C compile features
+[3.742s] -- Detecting C compile features - done
+[3.753s] -- Check for working CXX compiler: /usr/bin/c++
+[4.402s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[4.403s] -- Detecting CXX compiler ABI info
+[5.023s] -- Detecting CXX compiler ABI info - done
+[5.043s] -- Detecting CXX compile features
+[7.571s] -- Detecting CXX compile features - done
+[7.577s] -- CUDA compilation status: 1.
+[7.607s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/map_tools/devel
+[7.607s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[7.626s] -- This workspace overlays: /home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[7.743s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[7.743s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[7.744s] -- Using Debian Python package layout
+[7.747s] -- Using empy: /usr/bin/empy
+[8.215s] -- Using CATKIN_ENABLE_TESTING: ON
+[8.216s] -- Call enable_testing()
+[8.247s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/map_tools/test_results
+[8.368s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[8.369s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[8.474s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[8.480s] -- Looking for pthread.h
+[9.062s] -- Looking for pthread.h - found
+[9.063s] -- Looking for pthread_create
+[9.802s] -- Looking for pthread_create - not found
+[9.803s] -- Looking for pthread_create in pthreads
+[10.377s] -- Looking for pthread_create in pthreads - not found
+[10.377s] -- Looking for pthread_create in pthread
+[11.075s] -- Looking for pthread_create in pthread - found
+[11.077s] -- Found Threads: TRUE  
+[11.098s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[11.320s] -- catkin 0.7.23
+[11.321s] -- BUILD_SHARED_LIBS is on
+[15.476s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[18.044s] -- Configuring done
+[18.945s] -- Generating done
+[19.125s] -- Build files have been written to: /home/capstone/autoware.ai/build/map_tools
+[19.666s] [35m[1mScanning dependencies of target pcd_grid_divider[0m
+[19.926s] [  7%] [32mBuilding CXX object CMakeFiles/pcd_grid_divider.dir/nodes/pcd_grid_divider/pcd_grid_divider.cpp.o[0m
+[38.187s] [ 14%] [32m[1mLinking CXX executable devel/lib/map_tools/pcd_grid_divider[0m
+[39.422s] [ 14%] Built target pcd_grid_divider
+[39.510s] [35m[1mScanning dependencies of target pcd2csv[0m
+[39.727s] [ 21%] [32mBuilding CXX object CMakeFiles/pcd2csv.dir/nodes/pcd_converter/pcd2csv.cpp.o[0m
+[55.656s] [ 28%] [32m[1mLinking CXX executable devel/lib/map_tools/pcd2csv[0m
+[57.165s] [ 28%] Built target pcd2csv
+[57.334s] [35m[1mScanning dependencies of target pcd_filter[0m
+[57.569s] [ 35%] [32mBuilding CXX object CMakeFiles/pcd_filter.dir/nodes/pcd_filter/pcd_filter.cpp.o[0m
+[78.021s] [ 42%] [32m[1mLinking CXX executable devel/lib/map_tools/pcd_filter[0m
+[82.438s] [ 42%] Built target pcd_filter
+[82.528s] [35m[1mScanning dependencies of target pcd_binarizer[0m
+[82.704s] [ 50%] [32mBuilding CXX object CMakeFiles/pcd_binarizer.dir/nodes/pcd_binarizer/pcd_binarizer.cpp.o[0m
+[99.799s] [ 57%] [32m[1mLinking CXX executable devel/lib/map_tools/pcd_binarizer[0m
+[101.140s] [ 57%] Built target pcd_binarizer
+[101.269s] [35m[1mScanning dependencies of target pcd_arealist[0m
+[101.528s] [ 64%] [32mBuilding CXX object CMakeFiles/pcd_arealist.dir/nodes/pcd_arealist/pcd_arealist.cpp.o[0m
+[118.068s] [ 71%] [32m[1mLinking CXX executable devel/lib/map_tools/pcd_arealist[0m
+[119.453s] [ 71%] Built target pcd_arealist
+[119.582s] [35m[1mScanning dependencies of target csv2pcd[0m
+[119.776s] [ 78%] [32mBuilding CXX object CMakeFiles/csv2pcd.dir/nodes/pcd_converter/csv2pcd.cpp.o[0m
+[136.879s] [ 85%] [32m[1mLinking CXX executable devel/lib/map_tools/csv2pcd[0m
+[138.420s] [ 85%] Built target csv2pcd
+[138.528s] [35m[1mScanning dependencies of target map_extender[0m
+[138.840s] [ 92%] [32mBuilding CXX object CMakeFiles/map_extender.dir/nodes/map_extender/map_extender.cpp.o[0m
+[190.926s] [100%] [32m[1mLinking CXX executable devel/lib/map_tools/map_extender[0m
+[196.542s] [100%] Built target map_extender
+[200.631s] [35m[1mScanning dependencies of target tests[0m
+[200.739s] Built target tests
+[205.304s] [ 14%] Built target pcd_grid_divider
+[205.579s] [ 28%] Built target pcd2csv
+[205.938s] [ 42%] Built target pcd_filter
+[206.315s] [ 57%] Built target pcd_binarizer
+[206.730s] [ 71%] Built target pcd_arealist
+[207.066s] [ 85%] Built target csv2pcd
+[207.410s] [100%] Built target map_extender
+[207.612s] [36mInstall the project...[0m
+[207.670s] -- Install configuration: "Release"
+[207.670s] -- Installing: /home/capstone/autoware.ai/install/map_tools/lib/pkgconfig/map_tools.pc
+[207.672s] -- Installing: /home/capstone/autoware.ai/install/map_tools/share/map_tools/cmake/map_toolsConfig.cmake
+[207.673s] -- Installing: /home/capstone/autoware.ai/install/map_tools/share/map_tools/cmake/map_toolsConfig-version.cmake
+[207.674s] -- Installing: /home/capstone/autoware.ai/install/map_tools/share/map_tools/package.xml
+[207.675s] -- Installing: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/csv2pcd
+[207.683s] -- Set runtime path of "/home/capstone/autoware.ai/install/map_tools/lib/map_tools/csv2pcd" to ""
+[207.683s] -- Installing: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/map_extender
+[207.726s] -- Set runtime path of "/home/capstone/autoware.ai/install/map_tools/lib/map_tools/map_extender" to ""
+[207.726s] -- Installing: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd2csv
+[207.734s] -- Set runtime path of "/home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd2csv" to ""
+[207.734s] -- Installing: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_arealist
+[207.742s] -- Set runtime path of "/home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_arealist" to ""
+[207.742s] -- Installing: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_binarizer
+[207.750s] -- Set runtime path of "/home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_binarizer" to ""
+[207.751s] -- Installing: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_filter
+[207.763s] -- Set runtime path of "/home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_filter" to ""
+[207.763s] -- Installing: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_grid_divider
+[207.770s] -- Set runtime path of "/home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_grid_divider" to ""

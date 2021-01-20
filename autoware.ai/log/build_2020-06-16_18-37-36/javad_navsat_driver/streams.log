@@ -1,0 +1,31 @@
+[0.070s] Invoking command in '/home/capstone/autoware.ai/build/javad_navsat_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver -- -j12 -l12
+[0.336s] Invoked command in '/home/capstone/autoware.ai/build/javad_navsat_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver -- -j12 -l12
+[0.815s] Invoking command in '/home/capstone/autoware.ai/build/javad_navsat_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver --target tests -- -j12 -l12
+[1.227s] Built target tests
+[1.289s] Invoked command in '/home/capstone/autoware.ai/build/javad_navsat_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver --target tests -- -j12 -l12
+[1.786s] Invoking command in '/home/capstone/autoware.ai/build/javad_navsat_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver --target install -- -j12 -l12
+[2.110s] [36mInstall the project...[0m
+[2.167s] -- Install configuration: "Release"
+[2.175s] + cd /home/capstone/autoware.ai/src/drivers/awf_drivers/javad_navsat_driver
+[2.176s] + mkdir -p /home/capstone/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages
+[2.186s] + /usr/bin/env PYTHONPATH=/home/capstone/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages:/home/capstone/autoware.ai/build/javad_navsat_driver/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/tablet_socket_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/sick_ldmrs_driver/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/sick_ldmrs_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/lanelet2_python/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/kitti_player/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_map_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_config_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_can_msgs/lib/python2.7/dist-packages:/opt/carla-ros-bridge/melodic/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/capstone/autoware.ai/build/javad_navsat_driver /usr/bin/python2 /home/capstone/autoware.ai/src/drivers/awf_drivers/javad_navsat_driver/setup.py build --build-base /home/capstone/autoware.ai/build/javad_navsat_driver install --root=/ --install-layout=deb --prefix=/home/capstone/autoware.ai/install/javad_navsat_driver --install-scripts=/home/capstone/autoware.ai/install/javad_navsat_driver/bin
+[2.362s] running build
+[2.362s] running build_py
+[2.364s] running install
+[2.365s] running install_lib
+[2.368s] running install_egg_info
+[2.368s] Removing /home/capstone/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/javad_navsat_driver-1.12.0.egg-info
+[2.369s] Writing /home/capstone/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/javad_navsat_driver-1.12.0.egg-info
+[2.375s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/lib/pkgconfig/javad_navsat_driver.pc
+[2.376s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/cmake/javad_navsat_driverConfig.cmake
+[2.376s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/cmake/javad_navsat_driverConfig-version.cmake
+[2.377s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/package.xml
+[2.377s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/lib/javad_navsat_driver/javad_serial_driver
+[2.378s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/lib/javad_navsat_driver/javad_topic_driver
+[2.378s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/lib/javad_navsat_driver/javad_topic_serial_reader
+[2.380s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/launch
+[2.381s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/launch/javad_navsat.launch
+[2.381s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/cfg
+[2.381s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/cfg/enable.cfg
+[2.381s] -- Up-to-date: /home/capstone/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/cfg/disable.cfg
+[2.391s] Invoked command in '/home/capstone/autoware.ai/build/javad_navsat_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver --target install -- -j12 -l12

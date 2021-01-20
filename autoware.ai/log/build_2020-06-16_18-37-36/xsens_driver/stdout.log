@@ -1,0 +1,12 @@
+[1.624s] Built target tests
+[2.842s] [36mInstall the project...[0m
+[2.898s] -- Install configuration: "Release"
+[2.898s] -- Up-to-date: /home/capstone/autoware.ai/install/xsens_driver/lib/pkgconfig/xsens_driver.pc
+[2.899s] -- Up-to-date: /home/capstone/autoware.ai/install/xsens_driver/share/xsens_driver/cmake/xsens_driverConfig.cmake
+[2.899s] -- Up-to-date: /home/capstone/autoware.ai/install/xsens_driver/share/xsens_driver/cmake/xsens_driverConfig-version.cmake
+[2.899s] -- Up-to-date: /home/capstone/autoware.ai/install/xsens_driver/share/xsens_driver/package.xml
+[2.899s] -- Up-to-date: /home/capstone/autoware.ai/install/xsens_driver/lib/xsens_driver/mtnode.py
+[2.900s] -- Up-to-date: /home/capstone/autoware.ai/install/xsens_driver/lib/xsens_driver/mtdef.py
+[2.900s] -- Up-to-date: /home/capstone/autoware.ai/install/xsens_driver/lib/xsens_driver/mtdevice.py
+[2.900s] -- Up-to-date: /home/capstone/autoware.ai/install/xsens_driver/share/xsens_driver/launch
+[2.901s] -- Up-to-date: /home/capstone/autoware.ai/install/xsens_driver/share/xsens_driver/launch/mti300.launch

@@ -1,0 +1,4 @@
+/home/capstone/autoware.ai/install/gazebo_world_description/lib/pkgconfig/gazebo_world_description.pc
+/home/capstone/autoware.ai/install/gazebo_world_description/share/gazebo_world_description/cmake/gazebo_world_descriptionConfig.cmake
+/home/capstone/autoware.ai/install/gazebo_world_description/share/gazebo_world_description/cmake/gazebo_world_descriptionConfig-version.cmake
+/home/capstone/autoware.ai/install/gazebo_world_description/share/gazebo_world_description/package.xml

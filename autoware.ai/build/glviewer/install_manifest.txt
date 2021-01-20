@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/glviewer/lib/pkgconfig/glviewer.pc
+/home/capstone/autoware.ai/install/glviewer/share/glviewer/cmake/glviewerConfig.cmake
+/home/capstone/autoware.ai/install/glviewer/share/glviewer/cmake/glviewerConfig-version.cmake
+/home/capstone/autoware.ai/install/glviewer/share/glviewer/package.xml
+/home/capstone/autoware.ai/install/glviewer/include/glviewer/glviewer.h
+/home/capstone/autoware.ai/install/glviewer/lib/libglviewer.so

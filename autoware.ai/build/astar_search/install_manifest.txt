@@ -1,0 +1,7 @@
+/home/capstone/autoware.ai/install/astar_search/lib/pkgconfig/astar_search.pc
+/home/capstone/autoware.ai/install/astar_search/share/astar_search/cmake/astar_searchConfig.cmake
+/home/capstone/autoware.ai/install/astar_search/share/astar_search/cmake/astar_searchConfig-version.cmake
+/home/capstone/autoware.ai/install/astar_search/share/astar_search/package.xml
+/home/capstone/autoware.ai/install/astar_search/include/astar_search/astar_search.h
+/home/capstone/autoware.ai/install/astar_search/include/astar_search/astar_util.h
+/home/capstone/autoware.ai/install/astar_search/lib/libastar_search.so

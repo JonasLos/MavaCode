@@ -1,0 +1,6 @@
+[0.132s] Invoking command in '/home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher -- -j12 -l12
+[0.398s] Invoked command in '/home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher -- -j12 -l12
+[1.053s] Invoking command in '/home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher --target tests -- -j12 -l12
+[1.537s] Invoked command in '/home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher --target tests -- -j12 -l12
+[2.213s] Invoking command in '/home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher --target install -- -j12 -l12
+[2.611s] Invoked command in '/home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_gazebo_simulation_launcher --target install -- -j12 -l12

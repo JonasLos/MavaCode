@@ -1,0 +1,79 @@
+[0.516s] -- The C compiler identification is GNU 7.5.0
+[0.776s] -- The CXX compiler identification is GNU 7.5.0
+[0.808s] -- Check for working C compiler: /usr/bin/cc
+[1.237s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.238s] -- Detecting C compiler ABI info
+[1.617s] -- Detecting C compiler ABI info - done
+[1.643s] -- Detecting C compile features
+[2.827s] -- Detecting C compile features - done
+[2.836s] -- Check for working CXX compiler: /usr/bin/c++
+[3.300s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.301s] -- Detecting CXX compiler ABI info
+[3.706s] -- Detecting CXX compiler ABI info - done
+[3.728s] -- Detecting CXX compile features
+[5.543s] -- Detecting CXX compile features - done
+[5.546s] -- CUDA compilation status: 1.
+[5.558s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/vehicle_sim_model/devel
+[5.558s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[5.560s] -- This workspace overlays: /home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[5.662s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[5.663s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[5.666s] -- Using Debian Python package layout
+[5.666s] -- Using empy: /usr/bin/empy
+[6.068s] -- Using CATKIN_ENABLE_TESTING: ON
+[6.069s] -- Call enable_testing()
+[6.087s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/vehicle_sim_model/test_results
+[6.196s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[6.196s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[6.292s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[6.296s] -- Looking for pthread.h
+[6.674s] -- Looking for pthread.h - found
+[6.676s] -- Looking for pthread_create
+[7.136s] -- Looking for pthread_create - not found
+[7.136s] -- Looking for pthread_create in pthreads
+[7.527s] -- Looking for pthread_create in pthreads - not found
+[7.527s] -- Looking for pthread_create in pthread
+[7.903s] -- Looking for pthread_create in pthread - found
+[7.906s] -- Found Threads: TRUE  
+[7.918s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[8.097s] -- catkin 0.7.23
+[8.097s] -- BUILD_SHARED_LIBS is on
+[9.380s] -- Configuring done
+[9.470s] -- Generating done
+[9.487s] -- Build files have been written to: /home/capstone/autoware.ai/build/vehicle_sim_model
+[9.796s] [35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[9.890s] [  0%] Built target _catkin_empty_exported_target
+[9.987s] [35m[1mScanning dependencies of target vehicle_sim_model[0m
+[10.077s] [ 20%] [32mBuilding CXX object CMakeFiles/vehicle_sim_model.dir/src/vehicle_model_interface.cpp.o[0m
+[12.548s] [ 40%] [32mBuilding CXX object CMakeFiles/vehicle_sim_model.dir/src/vehicle_model_time_delay.cpp.o[0m
+[14.657s] [ 60%] [32mBuilding CXX object CMakeFiles/vehicle_sim_model.dir/src/vehicle_model_constant_acceleration.cpp.o[0m
+[16.233s] [ 80%] [32mBuilding CXX object CMakeFiles/vehicle_sim_model.dir/src/vehicle_model_ideal.cpp.o[0m
+[17.881s] [100%] [32m[1mLinking CXX shared library devel/lib/libvehicle_sim_model.so[0m
+[18.201s] [100%] Built target vehicle_sim_model
+[19.597s] [35m[1mScanning dependencies of target gtest[0m
+[19.709s] [ 11%] [32mBuilding CXX object gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[29.808s] [ 22%] [32m[1mLinking CXX shared library libgtest.so[0m
+[30.122s] [ 22%] Built target gtest
+[30.261s] [ 22%] Built target _catkin_empty_exported_target
+[30.399s] [ 77%] Built target vehicle_sim_model
+[30.483s] [35m[1mScanning dependencies of target test-vehicle_sim_model[0m
+[30.568s] [ 88%] [32mBuilding CXX object CMakeFiles/test-vehicle_sim_model.dir/test/src/test_vehicle_sim_model.cpp.o[0m
+[34.507s] [100%] [32m[1mLinking CXX executable devel/lib/vehicle_sim_model/test-vehicle_sim_model[0m
+[34.810s] [100%] Built target test-vehicle_sim_model
+[34.882s] [35m[1mScanning dependencies of target tests[0m
+[34.991s] [100%] Built target tests
+[36.484s] [  0%] Built target _catkin_empty_exported_target
+[36.676s] [100%] Built target vehicle_sim_model
+[36.843s] [36mInstall the project...[0m
+[36.880s] -- Install configuration: "Release"
+[36.882s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/lib/pkgconfig/vehicle_sim_model.pc
+[36.882s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/share/vehicle_sim_model/cmake/vehicle_sim_modelConfig.cmake
+[36.883s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/share/vehicle_sim_model/cmake/vehicle_sim_modelConfig-version.cmake
+[36.883s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/share/vehicle_sim_model/package.xml
+[36.884s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/lib/libvehicle_sim_model.so
+[36.890s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/include/vehicle_sim_model
+[36.891s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/include/vehicle_sim_model/vehicle_model_interface.h
+[36.892s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/include/vehicle_sim_model/vehicle_model_constant_acceleration.h
+[36.892s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/include/vehicle_sim_model/vehicle_model_ideal.h
+[36.892s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/include/vehicle_sim_model/vehicle_model_time_delay.h
+[36.892s] -- Installing: /home/capstone/autoware.ai/install/vehicle_sim_model/lib/vehicle_sim_model/fitParamDelayInputModel.py

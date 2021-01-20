@@ -1,0 +1,16 @@
+[0.066s] Invoking command in '/home/capstone/autoware.ai/build/nmea_navsat': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat -- -j12 -l12
+[0.324s] Invoked command in '/home/capstone/autoware.ai/build/nmea_navsat' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat -- -j12 -l12
+[0.594s] Invoking command in '/home/capstone/autoware.ai/build/nmea_navsat': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat --target tests -- -j12 -l12
+[1.047s] Built target tests
+[1.112s] Invoked command in '/home/capstone/autoware.ai/build/nmea_navsat' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat --target tests -- -j12 -l12
+[1.364s] Invoking command in '/home/capstone/autoware.ai/build/nmea_navsat': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat --target install -- -j12 -l12
+[1.733s] [36mInstall the project...[0m
+[1.790s] -- Install configuration: "Release"
+[1.790s] -- Up-to-date: /home/capstone/autoware.ai/install/nmea_navsat/lib/pkgconfig/nmea_navsat.pc
+[1.791s] -- Up-to-date: /home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig.cmake
+[1.791s] -- Up-to-date: /home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig-version.cmake
+[1.791s] -- Up-to-date: /home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/package.xml
+[1.791s] -- Up-to-date: /home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch
+[1.792s] -- Up-to-date: /home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch/nmea_navsat.launch
+[1.792s] -- Up-to-date: /home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch/README.md
+[1.800s] Invoked command in '/home/capstone/autoware.ai/build/nmea_navsat' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat --target install -- -j12 -l12

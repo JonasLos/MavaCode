@@ -1,0 +1,8 @@
+/home/capstone/autoware.ai/install/gnss_localizer/lib/pkgconfig/gnss_localizer.pc
+/home/capstone/autoware.ai/install/gnss_localizer/share/gnss_localizer/cmake/gnss_localizerConfig.cmake
+/home/capstone/autoware.ai/install/gnss_localizer/share/gnss_localizer/cmake/gnss_localizerConfig-version.cmake
+/home/capstone/autoware.ai/install/gnss_localizer/share/gnss_localizer/package.xml
+/home/capstone/autoware.ai/install/gnss_localizer/lib/gnss_localizer/nmea2tfpose
+/home/capstone/autoware.ai/install/gnss_localizer/lib/gnss_localizer/fix2tfpose
+/home/capstone/autoware.ai/install/gnss_localizer/share/gnss_localizer/launch/nmea2tfpose.launch
+/home/capstone/autoware.ai/install/gnss_localizer/share/gnss_localizer/launch/fix2tfpose.launch

@@ -1,0 +1,6 @@
+[0.064s] Invoking command in '/home/capstone/autoware.ai/build/nmea_navsat': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat -- -j12 -l12
+[0.383s] Invoked command in '/home/capstone/autoware.ai/build/nmea_navsat' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat -- -j12 -l12
+[0.633s] Invoking command in '/home/capstone/autoware.ai/build/nmea_navsat': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat --target tests -- -j12 -l12
+[1.102s] Invoked command in '/home/capstone/autoware.ai/build/nmea_navsat' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat --target tests -- -j12 -l12
+[1.398s] Invoking command in '/home/capstone/autoware.ai/build/nmea_navsat': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat --target install -- -j12 -l12
+[1.780s] Invoked command in '/home/capstone/autoware.ai/build/nmea_navsat' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/nmea_navsat --target install -- -j12 -l12

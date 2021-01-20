@@ -1,0 +1,25 @@
+[0.514s] [ 50%] Built target adxl345_node
+[0.702s] [100%] Built target adis16470_node
+[1.890s] Built target tests
+[2.932s] [ 50%] Built target adxl345_node
+[3.089s] [100%] Built target adis16470_node
+[3.221s] [36mInstall the project...[0m
+[3.277s] -- Install configuration: "Release"
+[3.278s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/lib/pkgconfig/adi_driver.pc
+[3.278s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/cmake/adi_driverConfig.cmake
+[3.278s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/cmake/adi_driverConfig-version.cmake
+[3.278s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/package.xml
+[3.278s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/lib/adi_driver/adis16470_node
+[3.279s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/lib/adi_driver/adxl345_node
+[3.281s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/include/adi_driver
+[3.282s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/include/adi_driver/adis16470.h
+[3.282s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/include/adi_driver/adxl345.h
+[3.282s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/launch
+[3.282s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/launch/imu.rviz
+[3.282s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/launch/adxl345.launch
+[3.282s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/launch/adis16470.launch
+[3.283s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/test
+[3.283s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/test/test_adis16470.py
+[3.283s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/test/test_adxl345.py
+[3.283s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/urdf
+[3.283s] -- Up-to-date: /home/capstone/autoware.ai/install/adi_driver/share/adi_driver/urdf/adis16470_breakout.urdf

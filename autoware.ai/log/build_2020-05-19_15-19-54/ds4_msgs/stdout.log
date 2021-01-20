@@ -1,0 +1,128 @@
+[1.513s] -- The C compiler identification is GNU 7.5.0
+[2.298s] -- The CXX compiler identification is GNU 7.5.0
+[2.347s] -- Check for working C compiler: /usr/bin/cc
+[3.196s] -- Check for working C compiler: /usr/bin/cc -- works
+[3.197s] -- Detecting C compiler ABI info
+[3.800s] -- Detecting C compiler ABI info - done
+[3.873s] -- Detecting C compile features
+[6.280s] -- Detecting C compile features - done
+[6.290s] -- Check for working CXX compiler: /usr/bin/c++
+[7.095s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[7.097s] -- Detecting CXX compiler ABI info
+[7.689s] -- Detecting CXX compiler ABI info - done
+[7.716s] -- Detecting CXX compile features
+[10.650s] -- Detecting CXX compile features - done
+[10.656s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/ds4_msgs/devel
+[10.657s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[10.659s] -- This workspace overlays: /home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[10.758s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[10.761s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[10.761s] -- Using Debian Python package layout
+[10.763s] -- Using empy: /usr/bin/empy
+[11.219s] -- Using CATKIN_ENABLE_TESTING: ON
+[11.219s] -- Call enable_testing()
+[11.232s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/ds4_msgs/test_results
+[11.432s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[11.432s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[11.515s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[11.518s] -- Looking for pthread.h
+[12.166s] -- Looking for pthread.h - found
+[12.168s] -- Looking for pthread_create
+[12.688s] -- Looking for pthread_create - not found
+[12.689s] -- Looking for pthread_create in pthreads
+[13.130s] -- Looking for pthread_create in pthreads - not found
+[13.130s] -- Looking for pthread_create in pthread
+[13.663s] -- Looking for pthread_create in pthread - found
+[13.666s] -- Found Threads: TRUE  
+[13.679s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[13.892s] -- catkin 0.7.23
+[13.892s] -- BUILD_SHARED_LIBS is on
+[14.815s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[15.903s] -- ds4_msgs: 1 messages, 0 services
+[16.534s] -- Configuring done
+[16.647s] -- Generating done
+[16.682s] -- Build files have been written to: /home/capstone/autoware.ai/build/ds4_msgs
+[17.009s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[17.104s] [  0%] Built target std_msgs_generate_messages_cpp
+[17.261s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[17.317s] [  0%] Built target std_msgs_generate_messages_lisp
+[17.401s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[17.554s] [  0%] Built target std_msgs_generate_messages_nodejs
+[17.645s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[17.728s] [  0%] Built target std_msgs_generate_messages_eus
+[17.857s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[17.980s] [  0%] Built target std_msgs_generate_messages_py
+[18.080s] [35m[1mScanning dependencies of target _ds4_msgs_generate_messages_check_deps_DS4[0m
+[18.341s] [  0%] Built target _ds4_msgs_generate_messages_check_deps_DS4
+[18.451s] [35m[1mScanning dependencies of target ds4_msgs_generate_messages_cpp[0m
+[18.566s] [ 14%] [34m[1mGenerating C++ code from ds4_msgs/DS4.msg[0m
+[19.045s] [ 14%] Built target ds4_msgs_generate_messages_cpp
+[19.151s] [35m[1mScanning dependencies of target ds4_msgs_generate_messages_lisp[0m
+[19.253s] [ 28%] [34m[1mGenerating Lisp code from ds4_msgs/DS4.msg[0m
+[19.558s] [ 28%] Built target ds4_msgs_generate_messages_lisp
+[19.623s] [35m[1mScanning dependencies of target ds4_msgs_generate_messages_nodejs[0m
+[19.688s] [ 42%] [34m[1mGenerating Javascript code from ds4_msgs/DS4.msg[0m
+[19.933s] [ 42%] Built target ds4_msgs_generate_messages_nodejs
+[20.032s] [35m[1mScanning dependencies of target ds4_msgs_generate_messages_eus[0m
+[20.171s] [ 57%] [34m[1mGenerating EusLisp code from ds4_msgs/DS4.msg[0m
+[20.541s] [ 71%] [34m[1mGenerating EusLisp manifest code for ds4_msgs[0m
+[22.266s] [ 71%] Built target ds4_msgs_generate_messages_eus
+[22.385s] [35m[1mScanning dependencies of target ds4_msgs_generate_messages_py[0m
+[22.518s] [ 85%] [34m[1mGenerating Python from MSG ds4_msgs/DS4[0m
+[22.965s] [100%] [34m[1mGenerating Python msg __init__.py for ds4_msgs[0m
+[23.347s] [100%] Built target ds4_msgs_generate_messages_py
+[23.436s] [35m[1mScanning dependencies of target ds4_msgs_generate_messages[0m
+[23.593s] [100%] Built target ds4_msgs_generate_messages
+[25.096s] [35m[1mScanning dependencies of target tests[0m
+[25.164s] Built target tests
+[26.512s] [  0%] Built target std_msgs_generate_messages_cpp
+[26.645s] [  0%] Built target std_msgs_generate_messages_lisp
+[26.797s] [  0%] Built target std_msgs_generate_messages_nodejs
+[26.939s] [  0%] Built target std_msgs_generate_messages_eus
+[27.078s] [  0%] Built target std_msgs_generate_messages_py
+[27.372s] [  0%] Built target _ds4_msgs_generate_messages_check_deps_DS4
+[27.515s] [ 14%] Built target ds4_msgs_generate_messages_cpp
+[27.626s] [ 28%] Built target ds4_msgs_generate_messages_lisp
+[27.774s] [ 42%] Built target ds4_msgs_generate_messages_nodejs
+[27.935s] [ 71%] Built target ds4_msgs_generate_messages_eus
+[28.067s] [100%] Built target ds4_msgs_generate_messages_py
+[28.248s] [100%] Built target ds4_msgs_generate_messages
+[28.345s] [36mInstall the project...[0m
+[28.375s] -- Install configuration: "Release"
+[28.376s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/ds4_msgs/msg/DS4.msg
+[28.376s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/ds4_msgs/cmake/ds4_msgs-msg-paths.cmake
+[28.376s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/include/ds4_msgs
+[28.377s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/include/ds4_msgs/DS4.h
+[28.377s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/roseus/ros/ds4_msgs
+[28.378s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/roseus/ros/ds4_msgs/manifest.l
+[28.378s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/roseus/ros/ds4_msgs/msg
+[28.378s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/roseus/ros/ds4_msgs/msg/DS4.l
+[28.379s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/common-lisp/ros/ds4_msgs
+[28.379s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/common-lisp/ros/ds4_msgs/msg
+[28.381s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/common-lisp/ros/ds4_msgs/msg/_package.lisp
+[28.381s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/common-lisp/ros/ds4_msgs/msg/_package_DS4.lisp
+[28.382s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/common-lisp/ros/ds4_msgs/msg/ds4_msgs-msg.asd
+[28.382s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/common-lisp/ros/ds4_msgs/msg/DS4.lisp
+[28.382s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/gennodejs/ros/ds4_msgs
+[28.382s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/gennodejs/ros/ds4_msgs/_index.js
+[28.382s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/gennodejs/ros/ds4_msgs/msg
+[28.383s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/gennodejs/ros/ds4_msgs/msg/_index.js
+[28.383s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/gennodejs/ros/ds4_msgs/msg/DS4.js
+[28.459s] Listing /home/capstone/autoware.ai/build/ds4_msgs/devel/lib/python2.7/dist-packages/ds4_msgs ...
+[28.459s] Compiling /home/capstone/autoware.ai/build/ds4_msgs/devel/lib/python2.7/dist-packages/ds4_msgs/__init__.py ...
+[28.459s] Listing /home/capstone/autoware.ai/build/ds4_msgs/devel/lib/python2.7/dist-packages/ds4_msgs/msg ...
+[28.459s] Compiling /home/capstone/autoware.ai/build/ds4_msgs/devel/lib/python2.7/dist-packages/ds4_msgs/msg/_DS4.py ...
+[28.460s] Compiling /home/capstone/autoware.ai/build/ds4_msgs/devel/lib/python2.7/dist-packages/ds4_msgs/msg/__init__.py ...
+[28.463s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages/ds4_msgs
+[28.464s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages/ds4_msgs/__init__.pyc
+[28.466s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages/ds4_msgs/__init__.py
+[28.466s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages/ds4_msgs/msg
+[28.467s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages/ds4_msgs/msg/_DS4.pyc
+[28.467s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages/ds4_msgs/msg/_DS4.py
+[28.467s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages/ds4_msgs/msg/__init__.pyc
+[28.468s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages/ds4_msgs/msg/__init__.py
+[28.468s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/lib/pkgconfig/ds4_msgs.pc
+[28.468s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/ds4_msgs/cmake/ds4_msgs-msg-extras.cmake
+[28.468s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/ds4_msgs/cmake/ds4_msgsConfig.cmake
+[28.469s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/ds4_msgs/cmake/ds4_msgsConfig-version.cmake
+[28.469s] -- Installing: /home/capstone/autoware.ai/install/ds4_msgs/share/ds4_msgs/package.xml

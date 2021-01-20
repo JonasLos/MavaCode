@@ -1,0 +1,147 @@
+[0.843s] -- The C compiler identification is GNU 7.5.0
+[1.203s] -- The CXX compiler identification is GNU 7.5.0
+[1.222s] -- Check for working C compiler: /usr/bin/cc
+[1.850s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.852s] -- Detecting C compiler ABI info
+[2.557s] -- Detecting C compiler ABI info - done
+[2.585s] -- Detecting C compile features
+[4.743s] -- Detecting C compile features - done
+[4.753s] -- Check for working CXX compiler: /usr/bin/c++
+[5.475s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[5.476s] -- Detecting CXX compiler ABI info
+[6.252s] -- Detecting CXX compiler ABI info - done
+[6.273s] -- Detecting CXX compile features
+[9.433s] -- Detecting CXX compile features - done
+[9.448s] -- MRT_ARCH not set and X86 target detected (x86_64)
+[9.449s] -- Setting -march to sandybridge
+[11.902s] -- Found OpenMP_C: -fopenmp (found version "4.5") 
+[12.852s] -- Found OpenMP_CXX: -fopenmp (found version "4.5") 
+[12.866s] -- Found OpenMP: TRUE (found version "4.5")  
+[12.880s] -- Performing Test FLAG_AVAILABLE
+[13.738s] -- Performing Test FLAG_AVAILABLE - Success
+[13.829s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/lanelet2_routing/devel
+[13.830s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[13.846s] -- This workspace overlays: /home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[14.000s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[14.001s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[14.002s] -- Using Debian Python package layout
+[14.006s] -- Using empy: /usr/bin/empy
+[14.516s] -- Using CATKIN_ENABLE_TESTING: ON
+[14.517s] -- Call enable_testing()
+[14.545s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/lanelet2_routing/test_results
+[14.654s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[14.654s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[14.883s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[14.886s] -- Looking for pthread.h
+[15.614s] -- Looking for pthread.h - found
+[15.616s] -- Looking for pthread_create
+[16.325s] -- Looking for pthread_create - found
+[16.332s] -- Found Threads: TRUE  
+[16.341s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[16.603s] -- catkin 0.7.23
+[16.603s] -- BUILD_SHARED_LIBS is on
+[20.387s] -- Boost version: 1.65.1
+[20.387s] -- Found the following Boost libraries:
+[20.387s] --   wserialization
+[20.388s] --   thread
+[20.388s] --   random
+[20.388s] --   serialization
+[20.389s] --   log_setup
+[20.389s] --   prg_exec_monitor
+[20.389s] --   wave
+[20.389s] --   system
+[20.390s] --   signals
+[20.390s] --   chrono
+[20.390s] --   filesystem
+[20.390s] --   locale
+[20.390s] --   timer
+[20.391s] --   date_time
+[20.391s] --   regex
+[20.391s] --   graph
+[20.391s] --   program_options
+[20.391s] --   unit_test_framework
+[20.391s] --   log
+[20.391s] --   atomic
+[21.387s] -- Adding library "lanelet2_routing" with source src/LaneletPath.cpp;src/Route.cpp;src/RouteBuilder.cpp;src/RoutingCost.cpp;src/RoutingGraph.cpp;src/RoutingGraphBuilder.cpp
+[21.388s] -- Marking targets "lanelet2_routing" of package "lanelet2_routing" for installation
+[21.389s] -- Marking HEADER FILES in "include" folder of package "lanelet2_routing" for installation
+[21.389s] -- Marking SHARED CONTENT FOLDER "res" of package "lanelet2_routing" for installation
+[21.391s] -- Adding gtest unittest "lanelet2_routing-test_relations-test" with working dir /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_routing/test
+[21.395s] -- Adding gtest unittest "lanelet2_routing-test_route-test" with working dir /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_routing/test
+[21.398s] -- Adding gtest unittest "lanelet2_routing-test_routing-test" with working dir /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_routing/test
+[21.401s] -- Adding gtest unittest "lanelet2_routing-test_routing_graph_container-test" with working dir /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_routing/test
+[21.404s] -- Adding gtest unittest "lanelet2_routing-test_routing_visualization-test" with working dir /home/capstone/autoware.ai/src/vendor/lanelet2/lanelet2_routing/test
+[21.420s] -- Adding nosetests in folder test
+[21.427s] -- Configuring done
+[21.641s] -- Generating done
+[21.667s] -- Build files have been written to: /home/capstone/autoware.ai/build/lanelet2_routing
+[22.248s] [35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[22.444s] [  0%] Built target _catkin_empty_exported_target
+[22.658s] [35m[1mScanning dependencies of target lanelet2_routing[0m
+[23.006s] [ 14%] [32mBuilding CXX object CMakeFiles/lanelet2_routing.dir/src/LaneletPath.cpp.o[0m
+[33.415s] [ 28%] [32mBuilding CXX object CMakeFiles/lanelet2_routing.dir/src/RoutingGraphBuilder.cpp.o[0m
+[59.212s] [ 42%] [32mBuilding CXX object CMakeFiles/lanelet2_routing.dir/src/RoutingGraph.cpp.o[0m
+[91.987s] [ 57%] [32mBuilding CXX object CMakeFiles/lanelet2_routing.dir/src/RoutingCost.cpp.o[0m
+[103.051s] [ 71%] [32mBuilding CXX object CMakeFiles/lanelet2_routing.dir/src/RouteBuilder.cpp.o[0m
+[114.737s] [ 85%] [32mBuilding CXX object CMakeFiles/lanelet2_routing.dir/src/Route.cpp.o[0m
+[129.420s] [100%] [32m[1mLinking CXX shared library devel/lib/liblanelet2_routing.so[0m
+[129.736s] [100%] Built target lanelet2_routing
+[131.941s] [35m[1mScanning dependencies of target gtest[0m
+[132.074s] [  4%] [32mBuilding CXX object gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[142.634s] [  9%] [32m[1mLinking CXX shared library libgtest.so[0m
+[142.918s] [  9%] Built target gtest
+[143.142s] [  9%] Built target _catkin_empty_exported_target
+[143.295s] [35m[1mScanning dependencies of target gtest_main[0m
+[143.435s] [ 14%] [32mBuilding CXX object gtest/googlemock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[144.864s] [ 19%] [32m[1mLinking CXX shared library libgtest_main.so[0m
+[145.185s] [ 19%] Built target gtest_main
+[145.428s] [ 52%] Built target lanelet2_routing
+[145.559s] [35m[1mScanning dependencies of target lanelet2_routing-test_route-test[0m
+[145.748s] [ 57%] [32mBuilding CXX object CMakeFiles/lanelet2_routing-test_route-test.dir/test/test_route.cpp.o[0m
+[167.899s] [ 61%] [32m[1mLinking CXX executable devel/lib/lanelet2_routing/lanelet2_routing-test_route-test[0m
+[168.249s] [ 61%] Built target lanelet2_routing-test_route-test
+[168.370s] [35m[1mScanning dependencies of target lanelet2_routing-test_routing_visualization-test[0m
+[168.597s] [ 66%] [32mBuilding CXX object CMakeFiles/lanelet2_routing-test_routing_visualization-test.dir/test/test_routing_visualization.cpp.o[0m
+[182.937s] [ 71%] [32m[1mLinking CXX executable devel/lib/lanelet2_routing/lanelet2_routing-test_routing_visualization-test[0m
+[183.318s] [ 71%] Built target lanelet2_routing-test_routing_visualization-test
+[183.431s] [35m[1mScanning dependencies of target lanelet2_routing-test_routing-test[0m
+[183.641s] [ 76%] [32mBuilding CXX object CMakeFiles/lanelet2_routing-test_routing-test.dir/test/test_routing.cpp.o[0m
+[200.892s] [ 80%] [32m[1mLinking CXX executable devel/lib/lanelet2_routing/lanelet2_routing-test_routing-test[0m
+[201.340s] [ 80%] Built target lanelet2_routing-test_routing-test
+[201.453s] [35m[1mScanning dependencies of target lanelet2_routing-test_relations-test[0m
+[201.640s] [ 85%] [32mBuilding CXX object CMakeFiles/lanelet2_routing-test_relations-test.dir/test/test_relations.cpp.o[0m
+[219.904s] [ 90%] [32m[1mLinking CXX executable devel/lib/lanelet2_routing/lanelet2_routing-test_relations-test[0m
+[220.403s] [ 90%] Built target lanelet2_routing-test_relations-test
+[220.612s] [35m[1mScanning dependencies of target lanelet2_routing-test_routing_graph_container-test[0m
+[220.985s] [ 95%] [32mBuilding CXX object CMakeFiles/lanelet2_routing-test_routing_graph_container-test.dir/test/test_routing_graph_container.cpp.o[0m
+[245.775s] [100%] [32m[1mLinking CXX executable devel/lib/lanelet2_routing/lanelet2_routing-test_routing_graph_container-test[0m
+[246.140s] [100%] Built target lanelet2_routing-test_routing_graph_container-test
+[246.280s] [35m[1mScanning dependencies of target tests[0m
+[246.422s] [100%] Built target tests
+[248.840s] [  0%] Built target _catkin_empty_exported_target
+[249.129s] [100%] Built target lanelet2_routing
+[249.310s] [36mInstall the project...[0m
+[249.392s] -- Install configuration: "Release"
+[249.393s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/lib/pkgconfig/lanelet2_routing.pc
+[249.395s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/share/lanelet2_routing/cmake/lanelet2_routingConfig.cmake
+[249.396s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/share/lanelet2_routing/cmake/lanelet2_routingConfig-version.cmake
+[249.397s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/share/lanelet2_routing/package.xml
+[249.398s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/lib/liblanelet2_routing.so
+[249.402s] -- Set runtime path of "/home/capstone/autoware.ai/install/lanelet2_routing/lib/liblanelet2_routing.so" to ""
+[249.403s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing
+[249.403s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/Exceptions.h
+[249.403s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/RouteElement.h
+[249.404s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/RoutingGraph.h
+[249.404s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/RoutingGraphVisualization.h
+[249.405s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/ShortestPath.h
+[249.405s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/Graph.h
+[249.421s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/LaneletPath.h
+[249.421s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/RoutingCost.h
+[249.422s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/RoutingGraphContainer.h
+[249.423s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/Forward.h
+[249.425s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/Route.h
+[249.425s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/internal
+[249.426s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/internal/RouteBuilder.h
+[249.426s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/include/lanelet2_routing/internal/RoutingGraphBuilder.h
+[249.426s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/share/lanelet2_routing/res
+[249.426s] -- Installing: /home/capstone/autoware.ai/install/lanelet2_routing/share/lanelet2_routing/res/routing.mapcss

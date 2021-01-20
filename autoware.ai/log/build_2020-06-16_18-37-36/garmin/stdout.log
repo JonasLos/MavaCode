@@ -1,0 +1,10 @@
+[0.550s] [100%] Built target garmin_gps_18x_lvc
+[1.606s] Built target tests
+[2.581s] [100%] Built target garmin_gps_18x_lvc
+[2.708s] [36mInstall the project...[0m
+[2.764s] -- Install configuration: "Release"
+[2.765s] -- Up-to-date: /home/capstone/autoware.ai/install/garmin/lib/pkgconfig/garmin.pc
+[2.765s] -- Up-to-date: /home/capstone/autoware.ai/install/garmin/share/garmin/cmake/garminConfig.cmake
+[2.765s] -- Up-to-date: /home/capstone/autoware.ai/install/garmin/share/garmin/cmake/garminConfig-version.cmake
+[2.766s] -- Up-to-date: /home/capstone/autoware.ai/install/garmin/share/garmin/package.xml
+[2.766s] -- Up-to-date: /home/capstone/autoware.ai/install/garmin/lib/garmin/garmin_gps_18x_lvc

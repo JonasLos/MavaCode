@@ -1,0 +1,16 @@
+[3.238s] Built target tests
+[4.286s] [36mInstall the project...[0m
+[4.355s] -- Install configuration: "Release"
+[4.355s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/lib/pkgconfig/sick_ldmrs_description.pc
+[4.356s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/cmake/sick_ldmrs_descriptionConfig.cmake
+[4.356s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/cmake/sick_ldmrs_descriptionConfig-version.cmake
+[4.357s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/package.xml
+[4.357s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/launch
+[4.358s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/launch/show_urdf.launch
+[4.358s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/launch/upload_urdf.launch
+[4.358s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/meshes
+[4.359s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/meshes/sick_ldmrs.dae
+[4.360s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/meshes/sick_ldmrs_color.png
+[4.360s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/urdf
+[4.361s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/urdf/sick_ldmrs.urdf.xacro
+[4.361s] -- Up-to-date: /home/capstone/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/urdf/sick_ldmrs_macros.urdf.xacro

@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/memsic_imu/lib/pkgconfig/memsic_imu.pc
+/home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig.cmake
+/home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig-version.cmake
+/home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/package.xml
+/home/capstone/autoware.ai/install/memsic_imu/lib/memsic_imu/vg440_node
+/home/capstone/autoware.ai/install/memsic_imu/share/memsic_imu/launch/vg440.launch

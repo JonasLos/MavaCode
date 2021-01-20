@@ -1,0 +1,6 @@
+[0.100s] Invoking command in '/home/capstone/autoware.ai/build/gazebo_world_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_world_description -- -j12 -l12
+[0.386s] Invoked command in '/home/capstone/autoware.ai/build/gazebo_world_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_world_description -- -j12 -l12
+[0.640s] Invoking command in '/home/capstone/autoware.ai/build/gazebo_world_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_world_description --target tests -- -j12 -l12
+[1.123s] Invoked command in '/home/capstone/autoware.ai/build/gazebo_world_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_world_description --target tests -- -j12 -l12
+[1.362s] Invoking command in '/home/capstone/autoware.ai/build/gazebo_world_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_world_description --target install -- -j12 -l12
+[1.878s] Invoked command in '/home/capstone/autoware.ai/build/gazebo_world_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_world_description --target install -- -j12 -l12

@@ -1,0 +1,14 @@
+[0.073s] Invoking command in '/home/capstone/autoware.ai/build/marker_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler -- -j12 -l12
+[0.341s] Invoked command in '/home/capstone/autoware.ai/build/marker_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler -- -j12 -l12
+[0.846s] Invoking command in '/home/capstone/autoware.ai/build/marker_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler --target tests -- -j12 -l12
+[1.256s] Built target tests
+[1.331s] Invoked command in '/home/capstone/autoware.ai/build/marker_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler --target tests -- -j12 -l12
+[1.818s] Invoking command in '/home/capstone/autoware.ai/build/marker_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler --target install -- -j12 -l12
+[2.145s] [36mInstall the project...[0m
+[2.202s] -- Install configuration: "Release"
+[2.202s] -- Up-to-date: /home/capstone/autoware.ai/install/marker_downsampler/lib/pkgconfig/marker_downsampler.pc
+[2.202s] -- Up-to-date: /home/capstone/autoware.ai/install/marker_downsampler/share/marker_downsampler/cmake/marker_downsamplerConfig.cmake
+[2.203s] -- Up-to-date: /home/capstone/autoware.ai/install/marker_downsampler/share/marker_downsampler/cmake/marker_downsamplerConfig-version.cmake
+[2.203s] -- Up-to-date: /home/capstone/autoware.ai/install/marker_downsampler/share/marker_downsampler/package.xml
+[2.203s] -- Up-to-date: /home/capstone/autoware.ai/install/marker_downsampler/lib/marker_downsampler/app.py
+[2.224s] Invoked command in '/home/capstone/autoware.ai/build/marker_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/marker_downsampler --target install -- -j12 -l12

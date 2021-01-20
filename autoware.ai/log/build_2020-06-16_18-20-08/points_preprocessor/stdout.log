@@ -1,0 +1,325 @@
+[0.650s] -- CUDA compilation status: 1.
+[0.652s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/points_preprocessor/devel
+[0.652s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/ymc;/home/capstone/autoware.ai/install/xsens_driver;/home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/lattice_planner;/home/capstone/autoware.ai/install/waypoint_planner;/home/capstone/autoware.ai/install/waypoint_maker;/home/capstone/autoware.ai/install/way_planner;/home/capstone/autoware.ai/install/vlg22c_cam;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/trafficlight_recognizer;/home/capstone/autoware.ai/install/op_utilities;/home/capstone/autoware.ai/install/op_simulation_package;/home/capstone/autoware.ai/install/op_local_planner;/home/capstone/autoware.ai/install/op_global_planner;/home/capstone/autoware.ai/install/lidar_kf_contour_track;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/ff_waypoint_follower;/home/capstone/autoware.ai/install/dp_planner;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/lidar_euclidean_cluster_detect;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/road_occupancy_processor;/home/capstone/autoware.ai/install/costmap_generator;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/naive_motion_predict;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/lane_planner;/home/capstone/autoware.ai/install/imm_ukf_pda_track;/home/capstone/autoware.ai/install/decision_maker;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/vectacam;/home/capstone/autoware.ai/install/udon_socket;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist_gate;/home/capstone/autoware.ai/install/twist_filter;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/tablet_socket;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/mqtt_socket;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/state_machine_lib;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/sick_lms5xx;/home/capstone/autoware.ai/install/sick_ldmrs_tools;/home/capstone/autoware.ai/install/sick_ldmrs_driver;/home/capstone/autoware.ai/install/sick_ldmrs_msgs;/home/capstone/autoware.ai/install/sick_ldmrs_description;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/pure_pursuit;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/mpc_follower;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/as;/home/capstone/autoware.ai/install/roi_object_filter;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/oculus_socket;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/microstrain_driver;/home/capstone/autoware.ai/install/memsic_imu;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/lidar_shape_estimation;/home/capstone/autoware.ai/install/lidar_point_pillars;/home/capstone/autoware.ai/install/lidar_naive_l_shape_detect;/home/capstone/autoware.ai/install/lidar_fake_perception;/home/capstone/autoware.ai/install/lidar_apollo_cnn_seg_detect;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/kvaser;/home/capstone/autoware.ai/install/kitti_launch;/home/capstone/autoware.ai/install/kitti_player;/home/capstone/autoware.ai/install/kitti_box_publisher;/home/capstone/autoware.ai/install/javad_navsat_driver;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/hokuyo;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/garmin;/home/capstone/autoware.ai/install/freespace_planner;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/ds4_msgs;/home/capstone/autoware.ai/install/ds4_driver;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/custom_msgs;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/astar_search;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_bag_tools;/home/capstone/autoware.ai/install/adi_driver;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[0.671s] -- This workspace overlays: /home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/ymc;/home/capstone/autoware.ai/install/xsens_driver;/home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/lattice_planner;/home/capstone/autoware.ai/install/waypoint_planner;/home/capstone/autoware.ai/install/waypoint_maker;/home/capstone/autoware.ai/install/way_planner;/home/capstone/autoware.ai/install/vlg22c_cam;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/trafficlight_recognizer;/home/capstone/autoware.ai/install/op_utilities;/home/capstone/autoware.ai/install/op_simulation_package;/home/capstone/autoware.ai/install/op_local_planner;/home/capstone/autoware.ai/install/op_global_planner;/home/capstone/autoware.ai/install/lidar_kf_contour_track;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/ff_waypoint_follower;/home/capstone/autoware.ai/install/dp_planner;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/lidar_euclidean_cluster_detect;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/road_occupancy_processor;/home/capstone/autoware.ai/install/costmap_generator;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/naive_motion_predict;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/lane_planner;/home/capstone/autoware.ai/install/imm_ukf_pda_track;/home/capstone/autoware.ai/install/decision_maker;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/vectacam;/home/capstone/autoware.ai/install/udon_socket;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist_gate;/home/capstone/autoware.ai/install/twist_filter;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/tablet_socket;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/mqtt_socket;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/state_machine_lib;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/sick_lms5xx;/home/capstone/autoware.ai/install/sick_ldmrs_tools;/home/capstone/autoware.ai/install/sick_ldmrs_driver;/home/capstone/autoware.ai/install/sick_ldmrs_msgs;/home/capstone/autoware.ai/install/sick_ldmrs_description;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/pure_pursuit;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/mpc_follower;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/as;/home/capstone/autoware.ai/install/roi_object_filter;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/oculus_socket;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/microstrain_driver;/home/capstone/autoware.ai/install/memsic_imu;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/lidar_shape_estimation;/home/capstone/autoware.ai/install/lidar_point_pillars;/home/capstone/autoware.ai/install/lidar_naive_l_shape_detect;/home/capstone/autoware.ai/install/lidar_fake_perception;/home/capstone/autoware.ai/install/lidar_apollo_cnn_seg_detect;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/kvaser;/home/capstone/autoware.ai/install/kitti_launch;/home/capstone/autoware.ai/install/kitti_player;/home/capstone/autoware.ai/install/kitti_box_publisher;/home/capstone/autoware.ai/install/javad_navsat_driver;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/hokuyo;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/garmin;/home/capstone/autoware.ai/install/freespace_planner;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/ds4_msgs;/home/capstone/autoware.ai/install/ds4_driver;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/custom_msgs;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/astar_search;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_bag_tools;/home/capstone/autoware.ai/install/adi_driver;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[0.753s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[0.753s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[0.754s] -- Using Debian Python package layout
+[0.755s] -- Using empy: /usr/bin/empy
+[1.106s] -- Using CATKIN_ENABLE_TESTING: ON
+[1.106s] -- Call enable_testing()
+[1.110s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/points_preprocessor/test_results
+[1.250s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[1.250s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.369s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[1.381s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[1.559s] -- catkin 0.7.23
+[1.559s] -- BUILD_SHARED_LIBS is on
+[3.801s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[6.970s] -- Boost version: 1.65.1
+[6.971s] -- Found the following Boost libraries:
+[6.971s] --   system
+[6.971s] --   filesystem
+[6.972s] --   thread
+[6.972s] --   date_time
+[6.972s] --   iostreams
+[6.972s] --   serialization
+[6.972s] --   chrono
+[6.973s] --   atomic
+[6.973s] --   regex
+[7.012s] -- Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+[7.033s] -- Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+[7.042s] -- Could NOT find DSSDK (missing: _DSSDK_LIBRARIES) 
+[7.177s] -- The imported target "vtkRenderingPythonTkWidgets" references the file
+[7.177s]    "/usr/lib/x86_64-linux-gnu/libvtkRenderingPythonTkWidgets.so"
+[7.177s] but this file does not exist.  Possible reasons include:
+[7.177s] * The file was deleted, renamed, or moved to another location.
+[7.177s] * An install or uninstall procedure did not complete successfully.
+[7.178s] * The installation package was faulty and contained
+[7.178s]    "/usr/lib/cmake/vtk-6.3/VTKTargets.cmake"
+[7.178s] but not all the files it references.
+[7.178s] 
+[7.178s] -- The imported target "vtk" references the file
+[7.179s]    "/usr/bin/vtk"
+[7.179s] but this file does not exist.  Possible reasons include:
+[7.179s] * The file was deleted, renamed, or moved to another location.
+[7.179s] * An install or uninstall procedure did not complete successfully.
+[7.179s] * The installation package was faulty and contained
+[7.179s]    "/usr/lib/cmake/vtk-6.3/VTKTargets.cmake"
+[7.180s] but not all the files it references.
+[7.180s] 
+[7.448s] -- Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+[7.469s] -- Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+[7.474s] -- Could NOT find DSSDK (missing: _DSSDK_LIBRARIES) 
+[7.480s] -- Could NOT find RSSDK (missing: _RSSDK_LIBRARIES) 
+[7.634s] -- looking for PCL_COMMON
+[7.635s] -- looking for PCL_OCTREE
+[7.637s] -- looking for PCL_IO
+[7.640s] -- looking for PCL_KDTREE
+[7.641s] -- looking for PCL_SEARCH
+[7.643s] -- looking for PCL_SAMPLE_CONSENSUS
+[7.645s] -- looking for PCL_FILTERS
+[7.648s] -- looking for PCL_2D
+[7.650s] -- looking for PCL_GEOMETRY
+[7.652s] -- looking for PCL_FEATURES
+[7.654s] -- looking for PCL_ML
+[7.656s] -- looking for PCL_SEGMENTATION
+[7.659s] -- looking for PCL_VISUALIZATION
+[7.662s] -- looking for PCL_SURFACE
+[7.664s] -- looking for PCL_REGISTRATION
+[7.674s] -- looking for PCL_KEYPOINTS
+[7.675s] -- looking for PCL_TRACKING
+[7.675s] -- looking for PCL_RECOGNITION
+[7.675s] -- looking for PCL_STEREO
+[7.676s] -- looking for PCL_APPS
+[7.684s] -- looking for PCL_IN_HAND_SCANNER
+[7.685s] -- looking for PCL_MODELER
+[7.686s] -- looking for PCL_POINT_CLOUD_EDITOR
+[7.688s] -- looking for PCL_OUTOFCORE
+[7.690s] -- looking for PCL_PEOPLE
+[7.761s] -- Found OpenMP_C: -fopenmp  
+[7.764s] -- Found OpenMP_CXX: -fopenmp  
+[7.766s] -- Found OpenMP: TRUE   
+[7.834s] -- Configuring done
+[9.504s] -- Generating done
+[9.588s] -- Build files have been written to: /home/capstone/autoware.ai/build/points_preprocessor
+[9.857s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[10.013s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[10.165s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[10.334s] [  0%] Built target pcl_msgs_generate_messages_eus
+[10.560s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[10.712s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[10.867s] [  0%] Built target velodyne_driver_gencfg
+[11.032s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[11.200s] [  0%] Built target velodyne_msgs_generate_messages_nodejs
+[11.469s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[11.621s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[11.765s] [  0%] Built target std_msgs_generate_messages_lisp
+[11.910s] [  0%] Built target std_srvs_generate_messages_cpp
+[12.052s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[12.207s] [  0%] Built target actionlib_generate_messages_eus
+[12.454s] [  0%] Built target std_msgs_generate_messages_cpp
+[12.609s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[12.756s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[12.902s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[13.046s] [  0%] Built target sensor_msgs_generate_messages_eus
+[13.198s] [  0%] Built target nodelet_topic_tools_gencfg
+[13.410s] [  0%] Built target bond_generate_messages_eus
+[13.563s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[13.710s] [  0%] Built target tf2_msgs_generate_messages_py
+[13.857s] [  0%] Built target roscpp_generate_messages_py
+[14.003s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[14.144s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[14.323s] [  0%] Built target nodelet_generate_messages_cpp
+[14.513s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[14.655s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[14.806s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[14.947s] [  0%] Built target tf_generate_messages_eus
+[15.095s] [  0%] Built target actionlib_generate_messages_lisp
+[15.256s] [  0%] Built target nodelet_generate_messages_lisp
+[15.438s] [  0%] Built target std_msgs_generate_messages_nodejs
+[15.582s] [  0%] Built target geometry_msgs_generate_messages_eus
+[15.734s] [  0%] Built target roscpp_generate_messages_eus
+[15.877s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[16.023s] [  0%] Built target dynamic_reconfigure_gencfg
+[16.168s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[16.377s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[16.540s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[16.688s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[16.835s] [  0%] Built target sensor_msgs_generate_messages_py
+[16.979s] [  0%] Built target tf2_msgs_generate_messages_eus
+[17.120s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[17.311s] [  0%] Built target std_srvs_generate_messages_eus
+[17.479s] [  0%] Built target std_msgs_generate_messages_py
+[17.627s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[17.789s] [  0%] Built target roscpp_generate_messages_lisp
+[17.939s] [  0%] Built target std_srvs_generate_messages_lisp
+[18.078s] [  0%] Built target std_msgs_generate_messages_eus
+[18.229s] [  0%] Built target tf_generate_messages_py
+[18.421s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[18.564s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[18.707s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[18.855s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[19.008s] [  0%] Built target topic_tools_generate_messages_cpp
+[19.151s] [  0%] Built target pcl_ros_gencfg
+[19.340s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[19.507s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[19.649s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[19.807s] [  0%] Built target roscpp_generate_messages_cpp
+[19.949s] [  0%] Built target bond_generate_messages_lisp
+[20.092s] [  0%] Built target bond_generate_messages_nodejs
+[20.247s] [  0%] Built target bond_generate_messages_py
+[20.416s] [  0%] Built target topic_tools_generate_messages_eus
+[20.560s] [  0%] Built target geometry_msgs_generate_messages_py
+[20.709s] [  0%] Built target topic_tools_generate_messages_lisp
+[20.855s] [  0%] Built target topic_tools_generate_messages_nodejs
+[20.999s] [  0%] Built target tf_generate_messages_cpp
+[21.142s] [  0%] Built target tf_generate_messages_lisp
+[21.303s] [  0%] Built target topic_tools_generate_messages_py
+[21.521s] [  0%] Built target tf_generate_messages_nodejs
+[21.664s] [  0%] Built target actionlib_generate_messages_cpp
+[21.815s] [  0%] Built target std_srvs_generate_messages_py
+[21.960s] [  0%] Built target actionlib_generate_messages_nodejs
+[22.100s] [  0%] Built target actionlib_generate_messages_py
+[22.277s] [  0%] Built target velodyne_pointcloud_gencfg
+[22.475s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[22.618s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[22.769s] [  0%] Built target actionlib_msgs_generate_messages_py
+[22.909s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[23.080s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[23.232s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[23.482s] [  0%] Built target velodyne_msgs_generate_messages_cpp
+[23.627s] [  0%] Built target velodyne_msgs_generate_messages_eus
+[23.770s] [  0%] Built target bond_generate_messages_cpp
+[23.925s] [  0%] Built target velodyne_msgs_generate_messages_py
+[24.072s] [  0%] Built target velodyne_msgs_generate_messages_lisp
+[24.224s] [  0%] Built target pcl_msgs_generate_messages_py
+[24.439s] [  0%] Built target roscpp_generate_messages_nodejs
+[24.634s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[24.806s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[24.949s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[25.094s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[25.258s] [  0%] Built target nodelet_generate_messages_eus
+[25.444s] [  0%] Built target nodelet_generate_messages_nodejs
+[25.590s] [  0%] Built target std_srvs_generate_messages_nodejs
+[25.742s] [  0%] Built target nodelet_generate_messages_py
+[25.932s] [ 14%] Built target points_concat_filter
+[26.123s] [ 28%] Built target compare_map_filter
+[26.355s] [ 42%] Built target ring_ground_filter
+[26.566s] [ 57%] Built target ray_ground_filter_lib
+[26.759s] [ 71%] Built target cloud_transformer
+[26.961s] [ 85%] Built target ray_ground_filter
+[27.140s] [100%] Built target space_filter
+[29.065s] Built target tests
+[30.904s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[31.049s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[31.194s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[31.416s] [  0%] Built target pcl_msgs_generate_messages_eus
+[31.552s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[31.693s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[31.849s] [  0%] Built target velodyne_driver_gencfg
+[32.032s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[32.195s] [  0%] Built target velodyne_msgs_generate_messages_nodejs
+[32.392s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[32.547s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[32.690s] [  0%] Built target std_msgs_generate_messages_lisp
+[32.831s] [  0%] Built target std_srvs_generate_messages_cpp
+[32.977s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[33.120s] [  0%] Built target actionlib_generate_messages_eus
+[33.277s] [  0%] Built target std_msgs_generate_messages_cpp
+[33.473s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[33.620s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[33.774s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[33.917s] [  0%] Built target sensor_msgs_generate_messages_eus
+[34.060s] [  0%] Built target nodelet_topic_tools_gencfg
+[34.202s] [  0%] Built target bond_generate_messages_eus
+[34.443s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[34.587s] [  0%] Built target tf2_msgs_generate_messages_py
+[34.732s] [  0%] Built target roscpp_generate_messages_py
+[34.878s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[35.023s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[35.174s] [  0%] Built target nodelet_generate_messages_cpp
+[35.332s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[35.519s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[35.697s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35.856s] [  0%] Built target tf_generate_messages_eus
+[36.002s] [  0%] Built target actionlib_generate_messages_lisp
+[36.151s] [  0%] Built target nodelet_generate_messages_lisp
+[36.306s] [  0%] Built target std_msgs_generate_messages_nodejs
+[36.496s] [  0%] Built target geometry_msgs_generate_messages_eus
+[36.639s] [  0%] Built target roscpp_generate_messages_eus
+[36.784s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[36.928s] [  0%] Built target dynamic_reconfigure_gencfg
+[37.075s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[37.219s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[37.439s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[37.585s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[37.726s] [  0%] Built target sensor_msgs_generate_messages_py
+[37.868s] [  0%] Built target tf2_msgs_generate_messages_eus
+[38.012s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[38.155s] [  0%] Built target std_srvs_generate_messages_eus
+[38.321s] [  0%] Built target std_msgs_generate_messages_py
+[38.506s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[38.655s] [  0%] Built target roscpp_generate_messages_lisp
+[38.828s] [  0%] Built target std_srvs_generate_messages_lisp
+[38.990s] [  0%] Built target std_msgs_generate_messages_eus
+[39.142s] [  0%] Built target tf_generate_messages_py
+[39.376s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[39.533s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[39.677s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[39.826s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[39.975s] [  0%] Built target topic_tools_generate_messages_cpp
+[40.132s] [  0%] Built target pcl_ros_gencfg
+[40.357s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[40.514s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[40.662s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[40.821s] [  0%] Built target roscpp_generate_messages_cpp
+[40.956s] [  0%] Built target bond_generate_messages_lisp
+[41.096s] [  0%] Built target bond_generate_messages_nodejs
+[41.244s] [  0%] Built target bond_generate_messages_py
+[41.474s] [  0%] Built target topic_tools_generate_messages_eus
+[41.627s] [  0%] Built target geometry_msgs_generate_messages_py
+[41.774s] [  0%] Built target topic_tools_generate_messages_lisp
+[41.915s] [  0%] Built target topic_tools_generate_messages_nodejs
+[42.060s] [  0%] Built target tf_generate_messages_cpp
+[42.208s] [  0%] Built target tf_generate_messages_lisp
+[42.407s] [  0%] Built target topic_tools_generate_messages_py
+[42.553s] [  0%] Built target tf_generate_messages_nodejs
+[42.692s] [  0%] Built target actionlib_generate_messages_cpp
+[42.847s] [  0%] Built target std_srvs_generate_messages_py
+[42.992s] [  0%] Built target actionlib_generate_messages_nodejs
+[43.137s] [  0%] Built target actionlib_generate_messages_py
+[43.311s] [  0%] Built target velodyne_pointcloud_gencfg
+[43.476s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[43.618s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[43.765s] [  0%] Built target actionlib_msgs_generate_messages_py
+[43.906s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[44.048s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[44.197s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[44.423s] [  0%] Built target velodyne_msgs_generate_messages_cpp
+[44.569s] [  0%] Built target velodyne_msgs_generate_messages_eus
+[44.720s] [  0%] Built target bond_generate_messages_cpp
+[44.872s] [  0%] Built target velodyne_msgs_generate_messages_py
+[45.021s] [  0%] Built target velodyne_msgs_generate_messages_lisp
+[45.164s] [  0%] Built target pcl_msgs_generate_messages_py
+[45.360s] [  0%] Built target roscpp_generate_messages_nodejs
+[45.532s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[45.675s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[45.817s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[45.959s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[46.106s] [  0%] Built target nodelet_generate_messages_eus
+[46.265s] [  0%] Built target nodelet_generate_messages_nodejs
+[46.459s] [  0%] Built target std_srvs_generate_messages_nodejs
+[46.606s] [  0%] Built target nodelet_generate_messages_py
+[46.794s] [ 14%] Built target points_concat_filter
+[46.997s] [ 28%] Built target compare_map_filter
+[47.183s] [ 42%] Built target ring_ground_filter
+[47.430s] [ 57%] Built target ray_ground_filter_lib
+[47.618s] [ 71%] Built target cloud_transformer
+[47.813s] [ 85%] Built target ray_ground_filter
+[47.993s] [100%] Built target space_filter
+[48.142s] [36mInstall the project...[0m
+[48.200s] -- Install configuration: "Release"
+[48.206s] -- Installing: /home/capstone/autoware.ai/install/points_preprocessor/lib/pkgconfig/points_preprocessor.pc
+[48.207s] -- Installing: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/cmake/points_preprocessorConfig.cmake
+[48.209s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/cmake/points_preprocessorConfig-version.cmake
+[48.209s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/package.xml
+[48.216s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/cloud_transformer
+[48.223s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/points_concat_filter
+[48.224s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/libray_ground_filter_lib.so
+[48.226s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/ray_ground_filter
+[48.231s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/ring_ground_filter
+[48.232s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/space_filter
+[48.232s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/compare_map_filter
+[48.232s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/include
+[48.232s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/include/points_preprocessor
+[48.233s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/include/points_preprocessor/ray_ground_filter
+[48.233s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/include/points_preprocessor/ray_ground_filter/ray_ground_filter.h
+[48.233s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/include/gencolors.cpp
+[48.233s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch
+[48.234s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/points_concat_filter.launch
+[48.234s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/space_filter.launch
+[48.234s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/compare_map_filter.launch
+[48.234s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/ring_ground_filter.launch
+[48.234s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/ray_ground_filter.launch
+[48.235s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/cloud_transformer.launch

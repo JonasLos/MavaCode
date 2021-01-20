@@ -1,0 +1,88 @@
+[0.062s] Invoking command in '/home/capstone/autoware.ai/build/citysim': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim -- -j12 -l12
+[0.409s] [  8%] [34m[1mAutomatic MOC for target TrafficLightsGUIPlugin[0m
+[0.538s] [  8%] Built target TrafficLightsGUIPlugin_autogen
+[0.760s] [ 16%] [34m[1mAutomatic MOC for target LensFlareVisualPlugin[0m
+[0.889s] [ 16%] Built target LensFlareVisualPlugin_autogen
+[1.122s] [ 41%] Built target TrafficLightsGUIPlugin
+[1.298s] [ 66%] Built target LensFlareVisualPlugin
+[1.442s] [ 75%] [34m[1mAutomatic MOC for target BloomVisualPlugin[0m
+[1.607s] [ 75%] Built target BloomVisualPlugin_autogen
+[1.819s] [100%] Built target BloomVisualPlugin
+[1.878s] Invoked command in '/home/capstone/autoware.ai/build/citysim' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim -- -j12 -l12
+[2.116s] Invoking command in '/home/capstone/autoware.ai/build/citysim': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim --target install -- -j12 -l12
+[2.455s] [  8%] [34m[1mAutomatic MOC for target TrafficLightsGUIPlugin[0m
+[2.588s] [  8%] Built target TrafficLightsGUIPlugin_autogen
+[2.784s] [ 16%] [34m[1mAutomatic MOC for target LensFlareVisualPlugin[0m
+[2.906s] [ 16%] Built target LensFlareVisualPlugin_autogen
+[3.127s] [ 41%] Built target TrafficLightsGUIPlugin
+[3.301s] [ 66%] Built target LensFlareVisualPlugin
+[3.443s] [ 75%] [34m[1mAutomatic MOC for target BloomVisualPlugin[0m
+[3.610s] [ 75%] Built target BloomVisualPlugin_autogen
+[3.820s] [100%] Built target BloomVisualPlugin
+[3.958s] [36mInstall the project...[0m
+[4.016s] -- Install configuration: "Release"
+[4.017s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/setup.sh
+[4.018s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim/setup.sh
+[4.020s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/lib/citysim-0/plugins/libLensFlareVisualPlugin.so
+[4.022s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/lib/citysim-0/plugins/libBloomVisualPlugin.so
+[4.024s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/lib/citysim-0/plugins/libTrafficLightsGUIPlugin.so
+[4.025s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor
+[4.026s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor/model.sdf
+[4.026s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes
+[4.027s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/SKIN_man_green_shirt.dae
+[4.027s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/SKIN_man_blue_shirt.dae
+[4.027s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/SKIN_man_red_shirt.dae
+[4.028s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_running.dae
+[4.028s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_talking_a.dae
+[4.028s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_walking.dae
+[4.028s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_talking_b.dae
+[4.028s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/actor/model.config
+[4.028s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/city_terrain
+[4.029s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials
+[4.029s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures
+[4.030s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures/city_terrain (original).jpg
+[4.030s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures/city_terrain.jpg
+[4.030s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures/forest.jpg
+[4.031s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/model.sdf
+[4.031s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/model.config
+[4.031s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean
+[4.031s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials
+[4.032s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs
+[4.032s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs/GLSL
+[4.032s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs/GLSL/Waves.frag
+[4.032s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs/GLSL/Waves.vert
+[4.032s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/scripts
+[4.032s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/scripts/ocean.material
+[4.033s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures
+[4.033s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_lf.jpg
+[4.033s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds.jpg
+[4.033s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_up.jpg
+[4.033s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/License and source soil_sand_0045_01.txt
+[4.034s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/normals.dds
+[4.034s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_fr.jpg
+[4.034s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_bk.jpg
+[4.034s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/soil_sand_0045_01.jpg
+[4.034s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_dn.jpg
+[4.035s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_rt.jpg
+[4.035s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/model.sdf
+[4.035s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/model.config
+[4.035s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh.blend
+[4.035s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh.dae
+[4.035s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh-simple.dae
+[4.035s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh_below.dae
+[4.036s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/worlds/citysim_gazebo7.world
+[4.036s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/worlds/citysim_gazebo9.world
+[4.036s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/worlds/rendering.world
+[4.036s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/worlds/simple_city.world
+[4.036s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/Bloom2.material
+[4.036s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/citysim.material
+[4.037s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/Bloom2.compositor
+[4.037s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/StdQuad_vp.program
+[4.037s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/Bloom2_ps20.glsl
+[4.037s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/BlurH_ps20.glsl
+[4.037s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/BlurV_ps20.glsl
+[4.037s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/Blur_vs.glsl
+[4.037s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/BrightBloom2_ps20.glsl
+[4.038s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/StdQuad_Tex2a_vp.glsl
+[4.038s] -- Up-to-date: /home/capstone/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/StdQuad_vp.glsl
+[4.042s] Invoked command in '/home/capstone/autoware.ai/build/citysim' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim --target install -- -j12 -l12

@@ -1,0 +1,9 @@
+[2.030s] Built target tests
+[4.325s] [36mInstall the project...[0m
+[4.576s] -- Install configuration: "Release"
+[4.576s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/lib/pkgconfig/gazebo_imu_description.pc
+[4.581s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/cmake/gazebo_imu_descriptionConfig.cmake
+[4.582s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/cmake/gazebo_imu_descriptionConfig-version.cmake
+[4.582s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/package.xml
+[4.583s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/urdf
+[4.583s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/urdf/imu.xacro

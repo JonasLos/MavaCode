@@ -1,0 +1,13 @@
+[1.239s] [100%] Built target ndt_tku
+[4.591s] Built target tests
+[7.869s] [100%] Built target ndt_tku
+[8.108s] [36mInstall the project...[0m
+[8.161s] -- Install configuration: "Release"
+[8.162s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_tku/lib/pkgconfig/ndt_tku.pc
+[8.162s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_tku/share/ndt_tku/cmake/ndt_tkuConfig.cmake
+[8.162s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_tku/share/ndt_tku/cmake/ndt_tkuConfig-version.cmake
+[8.163s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_tku/share/ndt_tku/package.xml
+[8.164s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_tku/lib/libndt_tku.so
+[8.164s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_tku/include
+[8.165s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_tku/include/algebra.h
+[8.165s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_tku/include/ndt.h

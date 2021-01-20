@@ -1,0 +1,476 @@
+[0.785s] -- The C compiler identification is GNU 7.5.0
+[1.089s] -- The CXX compiler identification is GNU 7.5.0
+[1.116s] -- Check for working C compiler: /usr/bin/cc
+[1.602s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.607s] -- Detecting C compiler ABI info
+[2.062s] -- Detecting C compiler ABI info - done
+[2.096s] -- Detecting C compile features
+[3.539s] -- Detecting C compile features - done
+[3.547s] -- Check for working CXX compiler: /usr/bin/c++
+[4.041s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[4.043s] -- Detecting CXX compiler ABI info
+[4.501s] -- Detecting CXX compiler ABI info - done
+[4.525s] -- Detecting CXX compile features
+[6.955s] -- Detecting CXX compile features - done
+[6.997s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/sick_ldmrs_tools/devel
+[6.998s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/sick_ldmrs_driver;/home/capstone/autoware.ai/install/sick_ldmrs_msgs;/home/capstone/autoware.ai/install/sick_ldmrs_description;/home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[7.011s] -- This workspace overlays: /home/capstone/autoware.ai/install/sick_ldmrs_driver;/home/capstone/autoware.ai/install/sick_ldmrs_msgs;/home/capstone/autoware.ai/install/sick_ldmrs_description;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[7.130s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[7.131s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[7.131s] -- Using Debian Python package layout
+[7.145s] -- Using empy: /usr/bin/empy
+[7.577s] -- Using CATKIN_ENABLE_TESTING: ON
+[7.578s] -- Call enable_testing()
+[7.591s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/sick_ldmrs_tools/test_results
+[7.704s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[7.704s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[7.820s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[7.822s] -- Looking for pthread.h
+[8.353s] -- Looking for pthread.h - found
+[8.355s] -- Looking for pthread_create
+[8.839s] -- Looking for pthread_create - not found
+[8.839s] -- Looking for pthread_create in pthreads
+[9.277s] -- Looking for pthread_create in pthreads - not found
+[9.278s] -- Looking for pthread_create in pthread
+[9.660s] -- Looking for pthread_create in pthread - found
+[9.668s] -- Found Threads: TRUE  
+[9.681s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[9.897s] -- catkin 0.7.23
+[9.897s] -- BUILD_SHARED_LIBS is on
+[13.362s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[14.910s] -- Checking for module 'eigen3'
+[15.080s] --   Found eigen3, version 3.3.7
+[15.470s] -- Found eigen: /usr/local/include/eigen3  
+[16.188s] -- Boost version: 1.65.1
+[16.189s] -- Found the following Boost libraries:
+[16.189s] --   system
+[16.189s] --   filesystem
+[16.189s] --   thread
+[16.189s] --   date_time
+[16.190s] --   iostreams
+[16.190s] --   serialization
+[16.190s] --   chrono
+[16.190s] --   atomic
+[16.190s] --   regex
+[16.200s] -- Checking for module 'libopenni'
+[16.391s] --   Found libopenni, version 1.5.4.0
+[16.896s] -- Found openni: /usr/lib/libOpenNI.so  
+[16.898s] -- Checking for module 'libopenni2'
+[17.045s] --   Found libopenni2, version 2.2.0.3
+[17.586s] -- Found OpenNI2: /usr/lib/libOpenNI2.so  
+[17.618s] -- Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+[17.635s] -- Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+[17.640s] -- Could NOT find DSSDK (missing: _DSSDK_LIBRARIES) 
+[17.786s] -- The imported target "vtkRenderingPythonTkWidgets" references the file
+[17.787s]    "/usr/lib/x86_64-linux-gnu/libvtkRenderingPythonTkWidgets.so"
+[17.787s] but this file does not exist.  Possible reasons include:
+[17.787s] * The file was deleted, renamed, or moved to another location.
+[17.787s] * An install or uninstall procedure did not complete successfully.
+[17.787s] * The installation package was faulty and contained
+[17.788s]    "/usr/lib/cmake/vtk-6.3/VTKTargets.cmake"
+[17.788s] but not all the files it references.
+[17.788s] 
+[17.788s] -- The imported target "vtk" references the file
+[17.789s]    "/usr/bin/vtk"
+[17.789s] but this file does not exist.  Possible reasons include:
+[17.789s] * The file was deleted, renamed, or moved to another location.
+[17.789s] * An install or uninstall procedure did not complete successfully.
+[17.789s] * The installation package was faulty and contained
+[17.790s]    "/usr/lib/cmake/vtk-6.3/VTKTargets.cmake"
+[17.790s] but not all the files it references.
+[17.790s] 
+[18.003s] -- Found libusb-1.0: /usr/include  
+[18.006s] -- Checking for module 'flann'
+[18.222s] --   Found flann, version 1.9.1
+[18.677s] -- Found Flann: /usr/lib/x86_64-linux-gnu/libflann_cpp_s.a  
+[18.800s] -- Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+[18.817s] -- Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+[18.822s] -- Could NOT find DSSDK (missing: _DSSDK_LIBRARIES) 
+[18.827s] -- Could NOT find RSSDK (missing: _RSSDK_LIBRARIES) 
+[18.974s] -- Found qhull: /usr/lib/x86_64-linux-gnu/libqhull.so  
+[19.060s] -- looking for PCL_COMMON
+[19.063s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[19.063s] -- looking for PCL_OCTREE
+[19.067s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[19.068s] -- looking for PCL_IO
+[19.071s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[19.072s] -- looking for PCL_KDTREE
+[19.075s] -- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  
+[19.076s] -- looking for PCL_SEARCH
+[19.079s] -- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  
+[19.080s] -- looking for PCL_SAMPLE_CONSENSUS
+[19.084s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  
+[19.085s] -- looking for PCL_FILTERS
+[19.088s] -- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  
+[19.089s] -- looking for PCL_2D
+[19.091s] -- Found PCL_2D: /usr/include/pcl-1.8  
+[19.092s] -- looking for PCL_GEOMETRY
+[19.094s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.8  
+[19.095s] -- looking for PCL_FEATURES
+[19.098s] -- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  
+[19.100s] -- looking for PCL_ML
+[19.103s] -- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  
+[19.104s] -- looking for PCL_SEGMENTATION
+[19.108s] -- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  
+[19.110s] -- looking for PCL_VISUALIZATION
+[19.114s] -- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  
+[19.116s] -- looking for PCL_SURFACE
+[19.120s] -- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  
+[19.121s] -- looking for PCL_REGISTRATION
+[19.125s] -- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  
+[19.127s] -- looking for PCL_KEYPOINTS
+[19.132s] -- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  
+[19.134s] -- looking for PCL_TRACKING
+[19.138s] -- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  
+[19.139s] -- looking for PCL_RECOGNITION
+[19.143s] -- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  
+[19.146s] -- looking for PCL_STEREO
+[19.150s] -- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  
+[19.151s] -- looking for PCL_APPS
+[19.155s] -- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  
+[19.161s] -- looking for PCL_IN_HAND_SCANNER
+[19.164s] -- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.8  
+[19.164s] -- looking for PCL_MODELER
+[19.166s] -- Found PCL_MODELER: /usr/include/pcl-1.8  
+[19.167s] -- looking for PCL_POINT_CLOUD_EDITOR
+[19.169s] -- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.8  
+[19.170s] -- looking for PCL_OUTOFCORE
+[19.175s] -- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  
+[19.176s] -- looking for PCL_PEOPLE
+[19.179s] -- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  
+[19.248s] -- Found PCL: /usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;/usr/lib/x86_64-linux-gnu/libboost_thread.so;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;/usr/lib/x86_64-linux-gnu/libboost_serialization.so;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;/usr/lib/x86_64-linux-gnu/libboost_regex.so;/usr/lib/x86_64-linux-gnu/libpthread.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_common.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_common.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_octree.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_octree.so;/usr/lib/libOpenNI.so;/usr/lib/libOpenNI2.so;vtkChartsCore;vtkCommonColor;vtkCommonDataModel;vtkCommonMath;vtkCommonCore;vtksys;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkInfovisCore;vtkFiltersExtraction;vtkCommonExecutionModel;vtkFiltersCore;vtkFiltersGeneral;vtkCommonComputationalGeometry;vtkFiltersStatistics;vtkImagingFourier;vtkImagingCore;vtkalglib;vtkRenderingContext2D;vtkRenderingCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingFreeType;/usr/lib/x86_64-linux-gnu/libfreetype.so;/usr/lib/x86_64-linux-gnu/libz.so;vtkftgl;vtkDICOMParser;vtkDomainsChemistry;vtkIOXML;vtkIOGeometry;vtkIOCore;vtkIOXMLParser;/usr/lib/x86_64-linux-gnu/libexpat.so;vtkFiltersAMR;vtkParallelCore;vtkIOLegacy;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkFiltersHybrid;vtkImagingSources;vtkFiltersHyperTree;vtkFiltersImaging;vtkImagingGeneral;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelFlowPaths;vtkParallelMPI;vtkFiltersParallelGeometry;vtkFiltersParallelImaging;vtkFiltersParallelMPI;vtkFiltersParallelStatistics;vtkFiltersProgrammable;vtkFiltersPython;/usr/lib/x86_64-linux-gnu/libpython2.7.so;vtkWrappingPythonCore;vtkWrappingTools;vtkFiltersReebGraph;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersVerdict;verdict;vtkGUISupportQt;vtkInteractionStyle;vtkRenderingOpenGL;vtkImagingHybrid;vtkIOImage;vtkmetaio;/usr/lib/x86_64-linux-gnu/libjpeg.so;/usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libtiff.so;vtkGUISupportQtOpenGL;vtkGUISupportQtSQL;vtkIOSQL;sqlite3;vtkGUISupportQtWebkit;vtkViewsQt;vtkViewsInfovis;vtkInfovisLayout;vtkInfovisBoostGraphAlgorithms;vtkRenderingLabel;vtkViewsCore;vtkInteractionWidgets;vtkRenderingAnnotation;vtkImagingColor;vtkRenderingVolume;vtkGeovisCore;/usr/lib/x86_64-linux-gnu/libproj.so;vtkIOAMR;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/libhdf5.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so;vtkIOEnSight;vtkIOExodus;vtkexoIIc;/usr/lib/x86_64-linux-gnu/libnetcdf_c++.so;/usr/lib/x86_64-linux-gnu/libnetcdf.so;vtkIOExport;vtkRenderingGL2PS;vtkRenderingContextOpenGL;/usr/lib/x86_64-linux-gnu/libgl2ps.so;vtkIOFFMPEG;vtkIOMovie;/usr/lib/x86_64-linux-gnu/libtheoraenc.so;/usr/lib/x86_64-linux-gnu/libtheoradec.so;/usr/lib/x86_64-linux-gnu/libogg.so;vtkIOGDAL;vtkIOGeoJSON;vtkIOImport;vtkIOInfovis;/usr/lib/x86_64-linux-gnu/libxml2.so;vtkIOLSDyna;vtkIOMINC;vtkIOMPIImage;vtkIOMPIParallel;vtkIOParallel;vtkIONetCDF;/usr/lib/x86_64-linux-gnu/libjsoncpp.so;vtkIOMySQL;vtkIOODBC;vtkIOPLY;vtkIOParallelExodus;vtkIOParallelLSDyna;vtkIOParallelNetCDF;vtkIOParallelXML;vtkIOPostgreSQL;vtkIOVPIC;VPIC;vtkIOVideo;vtkIOXdmf2;vtkxdmf2;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInteractionImage;vtkLocalExample;vtkParallelMPI4Py;vtkPythonInterpreter;vtkRenderingExternal;vtkRenderingFreeTypeFontConfig;vtkRenderingImage;vtkRenderingLIC;vtkRenderingLOD;vtkRenderingMatplotlib;vtkRenderingParallel;vtkRenderingParallelLIC;vtkRenderingQt;vtkRenderingVolumeAMR;vtkRenderingVolumeOpenGL;vtkTestingGenericBridge;vtkTestingIOSQL;vtkTestingRendering;vtkViewsContext2D;vtkViewsGeovis;vtkWrappingJava;optimized;/usr/lib/x86_64-linux-gnu/libpcl_io.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_io.so;optimized;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;debug;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;optimized;/usr/lib/x86_64-linux-gnu/libpcl_kdtree.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_kdtree.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_search.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_search.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_filters.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_filters.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_features.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_features.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_ml.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_ml.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_segmentation.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_segmentation.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_visualization.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_visualization.so;optimized;/usr/lib/x86_64-linux-gnu/libqhull.so;debug;/usr/lib/x86_64-linux-gnu/libqhull.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_surface.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_surface.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_registration.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_registration.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_keypoints.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_keypoints.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_tracking.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_tracking.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_recognition.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_recognition.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_stereo.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_stereo.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_apps.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_apps.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_outofcore.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_outofcore.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_people.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_people.so;/usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;/usr/lib/x86_64-linux-gnu/libboost_thread.so;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;/usr/lib/x86_64-linux-gnu/libboost_serialization.so;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;/usr/lib/x86_64-linux-gnu/libboost_regex.so;/usr/lib/x86_64-linux-gnu/libpthread.so;optimized;/usr/lib/x86_64-linux-gnu/libqhull.so;debug;/usr/lib/x86_64-linux-gnu/libqhull.so;/usr/lib/libOpenNI.so;/usr/lib/libOpenNI2.so;optimized;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;debug;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;vtkChartsCore;vtkCommonColor;vtkCommonDataModel;vtkCommonMath;vtkCommonCore;vtksys;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkInfovisCore;vtkFiltersExtraction;vtkCommonExecutionModel;vtkFiltersCore;vtkFiltersGeneral;vtkCommonComputationalGeometry;vtkFiltersStatistics;vtkImagingFourier;vtkImagingCore;vtkalglib;vtkRenderingContext2D;vtkRenderingCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingFreeType;/usr/lib/x86_64-linux-gnu/libfreetype.so;/usr/lib/x86_64-linux-gnu/libz.so;vtkftgl;vtkDICOMParser;vtkDomainsChemistry;vtkIOXML;vtkIOGeometry;vtkIOCore;vtkIOXMLParser;/usr/lib/x86_64-linux-gnu/libexpat.so;vtkFiltersAMR;vtkParallelCore;vtkIOLegacy;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkFiltersHybrid;vtkImagingSources;vtkFiltersHyperTree;vtkFiltersImaging;vtkImagingGeneral;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelFlowPaths;vtkParallelMPI;vtkFiltersParallelGeometry;vtkFiltersParallelImaging;vtkFiltersParallelMPI;vtkFiltersParallelStatistics;vtkFiltersProgrammable;vtkFiltersPython;/usr/lib/x86_64-linux-gnu/libpython2.7.so;vtkWrappingPythonCore;vtkWrappingTools;vtkFiltersReebGraph;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersVerdict;verdict;vtkGUISupportQt;vtkInteractionStyle;vtkRenderingOpenGL;vtkImagingHybrid;vtkIOImage;vtkmetaio;/usr/lib/x86_64-linux-gnu/libjpeg.so;/usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libtiff.so;vtkGUISupportQtOpenGL;vtkGUISupportQtSQL;vtkIOSQL;sqlite3;vtkGUISupportQtWebkit;vtkViewsQt;vtkViewsInfovis;vtkInfovisLayout;vtkInfovisBoostGraphAlgorithms;vtkRenderingLabel;vtkViewsCore;vtkInteractionWidgets;vtkRenderingAnnotation;vtkImagingColor;vtkRenderingVolume;vtkGeovisCore;/usr/lib/x86_64-linux-gnu/libproj.so;vtkIOAMR;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/libhdf5.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so;vtkIOEnSight;vtkIOExodus;vtkexoIIc;/usr/lib/x86_64-linux-gnu/libnetcdf_c++.so;/usr/lib/x86_64-linux-gnu/libnetcdf.so;vtkIOExport;vtkRenderingGL2PS;vtkRenderingContextOpenGL;/usr/lib/x86_64-linux-gnu/libgl2ps.so;vtkIOFFMPEG;vtkIOMovie;/usr/lib/x86_64-linux-gnu/libtheoraenc.so;/usr/lib/x86_64-linux-gnu/libtheoradec.so;/usr/lib/x86_64-linux-gnu/libogg.so;vtkIOGDAL;vtkIOGeoJSON;vtkIOImport;vtkIOInfovis;/usr/lib/x86_64-linux-gnu/libxml2.so;vtkIOLSDyna;vtkIOMINC;vtkIOMPIImage;vtkIOMPIParallel;vtkIOParallel;vtkIONetCDF;/usr/lib/x86_64-linux-gnu/libjsoncpp.so;vtkIOMySQL;vtkIOODBC;vtkIOPLY;vtkIOParallelExodus;vtkIOParallelLSDyna;vtkIOParallelNetCDF;vtkIOParallelXML;vtkIOPostgreSQL;vtkIOVPIC;VPIC;vtkIOVideo;vtkIOXdmf2;vtkxdmf2;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInteractionImage;vtkLocalExample;vtkParallelMPI4Py;vtkPythonInterpreter;vtkRenderingExternal;vtkRenderingFreeTypeFontConfig;vtkRenderingImage;vtkRenderingLIC;vtkRenderingLOD;vtkRenderingMatplotlib;vtkRenderingParallel;vtkRenderingParallelLIC;vtkRenderingQt;vtkRenderingVolumeAMR;vtkRenderingVolumeOpenGL;vtkTestingGenericBridge;vtkTestingIOSQL;vtkTestingRendering;vtkViewsContext2D;vtkViewsGeovis;vtkWrappingJava (Required is at least version "1.7") 
+[19.940s] -- Configuring done
+[21.306s] -- Generating done
+[21.375s] -- Build files have been written to: /home/capstone/autoware.ai/build/sick_ldmrs_tools
+[21.751s] [35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[21.825s] [  0%] Built target std_srvs_generate_messages_eus
+[21.902s] [35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[21.987s] [  0%] Built target actionlib_generate_messages_py
+[22.087s] [35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[22.170s] [  0%] Built target actionlib_generate_messages_nodejs
+[22.260s] [35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[22.326s] [  0%] Built target actionlib_generate_messages_cpp
+[22.399s] [35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[22.464s] [  0%] Built target tf_generate_messages_nodejs
+[22.550s] [35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[22.631s] [  0%] Built target tf_generate_messages_lisp
+[22.728s] [35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[22.823s] [  0%] Built target tf_generate_messages_cpp
+[22.901s] [35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[22.988s] [  0%] Built target topic_tools_generate_messages_nodejs
+[23.070s] [35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[23.176s] [  0%] Built target topic_tools_generate_messages_lisp
+[23.255s] [35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[23.331s] [  0%] Built target topic_tools_generate_messages_eus
+[23.407s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[23.477s] [  0%] Built target pcl_msgs_generate_messages_py
+[23.571s] [35m[1mScanning dependencies of target sick_ldmrs_msgs_generate_messages_nodejs[0m
+[23.651s] [  0%] Built target sick_ldmrs_msgs_generate_messages_nodejs
+[23.738s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[23.816s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[23.881s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[23.957s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[24.069s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[24.148s] [  0%] Built target std_msgs_generate_messages_py
+[24.236s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[24.316s] [  0%] Built target geometry_msgs_generate_messages_eus
+[24.388s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[24.476s] [  0%] Built target std_msgs_generate_messages_cpp
+[24.550s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[24.631s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[24.708s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[24.794s] [  0%] Built target std_msgs_generate_messages_nodejs
+[24.864s] [35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[24.942s] [  0%] Built target nodelet_generate_messages_lisp
+[25.018s] [35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[25.123s] [  0%] Built target actionlib_generate_messages_lisp
+[25.194s] [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[25.261s] [  0%] Built target roscpp_generate_messages_lisp
+[25.338s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[25.435s] [  0%] Built target std_msgs_generate_messages_lisp
+[25.510s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[25.596s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[25.696s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[25.796s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[25.893s] [35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[26.011s] [  0%] Built target std_srvs_generate_messages_cpp
+[26.089s] [35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[26.194s] [  0%] Built target tf_generate_messages_eus
+[26.300s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[26.371s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[26.489s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[26.571s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[26.655s] [35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[26.752s] [  0%] Built target topic_tools_generate_messages_py
+[26.839s] [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[26.917s] [  0%] Built target roscpp_generate_messages_cpp
+[26.998s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[27.078s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[27.163s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[27.256s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[27.354s] [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[27.432s] [  0%] Built target roscpp_generate_messages_py
+[27.520s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[27.599s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[27.675s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[27.751s] [  0%] Built target tf2_msgs_generate_messages_py
+[27.845s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[27.926s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[27.999s] [35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[28.082s] [  0%] Built target bond_generate_messages_cpp
+[28.144s] [35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[28.251s] [  0%] Built target bond_generate_messages_eus
+[28.346s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[28.411s] [  0%] Built target visualization_msgs_generate_messages_cpp
+[28.504s] [35m[1mScanning dependencies of target nodelet_topic_tools_gencfg[0m
+[28.604s] [  0%] Built target nodelet_topic_tools_gencfg
+[28.706s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[28.789s] [  0%] Built target sensor_msgs_generate_messages_eus
+[28.853s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[28.919s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[29.043s] [35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[29.164s] [  0%] Built target bond_generate_messages_lisp
+[29.240s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[29.319s] [  0%] Built target pcl_msgs_generate_messages_eus
+[29.409s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[29.485s] [  0%] Built target visualization_msgs_generate_messages_py
+[29.558s] [35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[29.633s] [  0%] Built target topic_tools_generate_messages_cpp
+[29.708s] [35m[1mScanning dependencies of target sick_ldmrs_msgs_generate_messages_eus[0m
+[29.795s] [  0%] Built target sick_ldmrs_msgs_generate_messages_eus
+[29.886s] [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[29.979s] [  0%] Built target roscpp_generate_messages_eus
+[30.057s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[30.147s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[30.280s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[30.381s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[30.488s] [35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[30.609s] [  0%] Built target tf_generate_messages_py
+[30.717s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[30.829s] [  0%] Built target std_msgs_generate_messages_eus
+[30.941s] [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[31.036s] [  0%] Built target roscpp_generate_messages_nodejs
+[31.109s] [35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[31.177s] [  0%] Built target actionlib_generate_messages_eus
+[31.258s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[31.342s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[31.445s] [35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[31.511s] [  0%] Built target std_srvs_generate_messages_py
+[31.577s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[31.651s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[31.729s] [35m[1mScanning dependencies of target pcl_ros_gencfg[0m
+[31.812s] [  0%] Built target pcl_ros_gencfg
+[31.899s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[32.010s] [  0%] Built target tf2_msgs_generate_messages_eus
+[32.146s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[32.220s] [  0%] Built target sensor_msgs_generate_messages_py
+[32.351s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[32.518s] [  0%] Built target geometry_msgs_generate_messages_py
+[32.629s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[32.748s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[32.856s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[32.948s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[33.064s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[33.169s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[33.283s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[33.392s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[33.460s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[33.548s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[33.670s] [35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[33.755s] [  0%] Built target dynamic_reconfigure_gencfg
+[33.854s] [35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[33.991s] [  0%] Built target nodelet_generate_messages_cpp
+[34.127s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[34.243s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[34.344s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[34.444s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[34.541s] [35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[34.662s] [  0%] Built target std_srvs_generate_messages_lisp
+[34.771s] [35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[34.891s] [  0%] Built target nodelet_generate_messages_eus
+[34.988s] [35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[35.078s] [  0%] Built target nodelet_generate_messages_nodejs
+[35.155s] [35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[35.251s] [  0%] Built target bond_generate_messages_nodejs
+[35.338s] [35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35.453s] [  0%] Built target std_srvs_generate_messages_nodejs
+[35.542s] [35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[35.675s] [  0%] Built target nodelet_generate_messages_py
+[35.831s] [35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[35.929s] [  0%] Built target bond_generate_messages_py
+[36.013s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[36.176s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[36.268s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[36.365s] [  0%] Built target actionlib_msgs_generate_messages_py
+[36.444s] [35m[1mScanning dependencies of target sick_ldmrs_msgs_generate_messages_cpp[0m
+[36.571s] [  0%] Built target sick_ldmrs_msgs_generate_messages_cpp
+[36.659s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[36.773s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[36.959s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[37.123s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[37.316s] [35m[1mScanning dependencies of target sick_ldmrs_msgs_generate_messages_lisp[0m
+[37.393s] [  0%] Built target sick_ldmrs_msgs_generate_messages_lisp
+[37.511s] [35m[1mScanning dependencies of target sick_ldmrs_msgs_generate_messages_py[0m
+[37.641s] [  0%] Built target sick_ldmrs_msgs_generate_messages_py
+[37.737s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[37.878s] [  0%] Built target visualization_msgs_generate_messages_eus
+[37.984s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[38.133s] [  0%] Built target visualization_msgs_generate_messages_lisp
+[38.243s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[38.351s] [  0%] Built target visualization_msgs_generate_messages_nodejs
+[38.473s] [35m[1mScanning dependencies of target sick_ldmrs_remove_background[0m
+[38.755s] [  6%] [32mBuilding CXX object CMakeFiles/sick_ldmrs_remove_background.dir/src/sick_ldmrs_remove_background.cpp.o[0m
+[54.186s] [ 12%] [32m[1mLinking CXX executable devel/lib/sick_ldmrs_tools/sick_ldmrs_remove_background[0m
+[56.486s] [ 12%] Built target sick_ldmrs_remove_background
+[56.565s] [35m[1mScanning dependencies of target sick_ldmrs_make_organized[0m
+[56.766s] [ 18%] [32mBuilding CXX object CMakeFiles/sick_ldmrs_make_organized.dir/src/sick_ldmrs_make_organized.cpp.o[0m
+[71.451s] [ 25%] [32m[1mLinking CXX executable devel/lib/sick_ldmrs_tools/sick_ldmrs_make_organized[0m
+[73.974s] [ 25%] Built target sick_ldmrs_make_organized
+[74.093s] [35m[1mScanning dependencies of target sick_ldmrs_filter_first[0m
+[74.368s] [ 31%] [32mBuilding CXX object CMakeFiles/sick_ldmrs_filter_first.dir/src/sick_ldmrs_filter_first.cpp.o[0m
+[89.952s] [ 37%] [32m[1mLinking CXX executable devel/lib/sick_ldmrs_tools/sick_ldmrs_filter_first[0m
+[92.245s] [ 37%] Built target sick_ldmrs_filter_first
+[92.366s] [35m[1mScanning dependencies of target sick_ldmrs_object_marker[0m
+[92.520s] [ 43%] [32mBuilding CXX object CMakeFiles/sick_ldmrs_object_marker.dir/src/sick_ldmrs_object_marker.cpp.o[0m
+[98.354s] [ 50%] [32m[1mLinking CXX executable devel/lib/sick_ldmrs_tools/sick_ldmrs_object_marker[0m
+[99.412s] [ 50%] Built target sick_ldmrs_object_marker
+[99.527s] [35m[1mScanning dependencies of target sick_ldmrs_print_resolution[0m
+[99.774s] [ 56%] [32mBuilding CXX object CMakeFiles/sick_ldmrs_print_resolution.dir/src/sick_ldmrs_print_resolution.cpp.o[0m
+[115.169s] [ 62%] [32m[1mLinking CXX executable devel/lib/sick_ldmrs_tools/sick_ldmrs_print_resolution[0m
+[117.865s] [ 62%] Built target sick_ldmrs_print_resolution
+[117.960s] [35m[1mScanning dependencies of target sick_ldmrs_filter_layer[0m
+[118.307s] [ 68%] [32mBuilding CXX object CMakeFiles/sick_ldmrs_filter_layer.dir/src/sick_ldmrs_filter_layer.cpp.o[0m
+[133.417s] [ 75%] [32m[1mLinking CXX executable devel/lib/sick_ldmrs_tools/sick_ldmrs_filter_layer[0m
+[135.837s] [ 75%] Built target sick_ldmrs_filter_layer
+[135.953s] [35m[1mScanning dependencies of target sick_ldmrs_filter_last[0m
+[136.173s] [ 81%] [32mBuilding CXX object CMakeFiles/sick_ldmrs_filter_last.dir/src/sick_ldmrs_filter_last.cpp.o[0m
+[150.966s] [ 87%] [32m[1mLinking CXX executable devel/lib/sick_ldmrs_tools/sick_ldmrs_filter_last[0m
+[153.412s] [ 87%] Built target sick_ldmrs_filter_last
+[153.510s] [35m[1mScanning dependencies of target sick_ldmrs_all_layer_assembler[0m
+[153.839s] [ 93%] [32mBuilding CXX object CMakeFiles/sick_ldmrs_all_layer_assembler.dir/src/sick_ldmrs_all_layer_assembler.cpp.o[0m
+[181.444s] [100%] [32m[1mLinking CXX executable devel/lib/sick_ldmrs_tools/sick_ldmrs_all_layer_assembler[0m
+[184.343s] [100%] Built target sick_ldmrs_all_layer_assembler
+[187.932s] [35m[1mScanning dependencies of target tests[0m
+[188.042s] Built target tests
+[191.609s] [  0%] Built target std_srvs_generate_messages_eus
+[191.846s] [  0%] Built target actionlib_generate_messages_py
+[192.061s] [  0%] Built target actionlib_generate_messages_nodejs
+[192.331s] [  0%] Built target actionlib_generate_messages_cpp
+[192.570s] [  0%] Built target tf_generate_messages_nodejs
+[192.871s] [  0%] Built target tf_generate_messages_lisp
+[193.098s] [  0%] Built target tf_generate_messages_cpp
+[193.283s] [  0%] Built target topic_tools_generate_messages_nodejs
+[193.515s] [  0%] Built target topic_tools_generate_messages_lisp
+[193.716s] [  0%] Built target topic_tools_generate_messages_eus
+[193.948s] [  0%] Built target pcl_msgs_generate_messages_py
+[194.281s] [  0%] Built target sick_ldmrs_msgs_generate_messages_nodejs
+[194.503s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[194.721s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[194.982s] [  0%] Built target std_msgs_generate_messages_py
+[195.242s] [  0%] Built target geometry_msgs_generate_messages_eus
+[195.517s] [  0%] Built target std_msgs_generate_messages_cpp
+[195.850s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[196.138s] [  0%] Built target std_msgs_generate_messages_nodejs
+[196.443s] [  0%] Built target nodelet_generate_messages_lisp
+[196.706s] [  0%] Built target actionlib_generate_messages_lisp
+[197.025s] [  0%] Built target roscpp_generate_messages_lisp
+[197.335s] [  0%] Built target std_msgs_generate_messages_lisp
+[197.600s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[197.845s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[198.135s] [  0%] Built target std_srvs_generate_messages_cpp
+[198.421s] [  0%] Built target tf_generate_messages_eus
+[198.703s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[199.009s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[199.350s] [  0%] Built target topic_tools_generate_messages_py
+[199.648s] [  0%] Built target roscpp_generate_messages_cpp
+[200.010s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[200.255s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[200.466s] [  0%] Built target roscpp_generate_messages_py
+[200.714s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[200.892s] [  0%] Built target tf2_msgs_generate_messages_py
+[201.117s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[201.421s] [  0%] Built target bond_generate_messages_cpp
+[201.735s] [  0%] Built target bond_generate_messages_eus
+[202.175s] [  0%] Built target visualization_msgs_generate_messages_cpp
+[202.425s] [  0%] Built target nodelet_topic_tools_gencfg
+[202.714s] [  0%] Built target sensor_msgs_generate_messages_eus
+[203.005s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[203.233s] [  0%] Built target bond_generate_messages_lisp
+[203.572s] [  0%] Built target pcl_msgs_generate_messages_eus
+[203.961s] [  0%] Built target visualization_msgs_generate_messages_py
+[204.172s] [  0%] Built target topic_tools_generate_messages_cpp
+[204.488s] [  0%] Built target sick_ldmrs_msgs_generate_messages_eus
+[204.786s] [  0%] Built target roscpp_generate_messages_eus
+[205.051s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[205.284s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[205.477s] [  0%] Built target tf_generate_messages_py
+[205.708s] [  0%] Built target std_msgs_generate_messages_eus
+[205.953s] [  0%] Built target roscpp_generate_messages_nodejs
+[206.141s] [  0%] Built target actionlib_generate_messages_eus
+[206.411s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[206.622s] [  0%] Built target std_srvs_generate_messages_py
+[206.883s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[207.153s] [  0%] Built target pcl_ros_gencfg
+[207.428s] [  0%] Built target tf2_msgs_generate_messages_eus
+[207.677s] [  0%] Built target sensor_msgs_generate_messages_py
+[207.944s] [  0%] Built target geometry_msgs_generate_messages_py
+[208.143s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[208.408s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[208.660s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[208.888s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[209.156s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[209.369s] [  0%] Built target dynamic_reconfigure_gencfg
+[209.572s] [  0%] Built target nodelet_generate_messages_cpp
+[209.805s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[210.093s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[210.396s] [  0%] Built target std_srvs_generate_messages_lisp
+[210.682s] [  0%] Built target nodelet_generate_messages_eus
+[210.947s] [  0%] Built target nodelet_generate_messages_nodejs
+[211.169s] [  0%] Built target bond_generate_messages_nodejs
+[211.403s] [  0%] Built target std_srvs_generate_messages_nodejs
+[211.666s] [  0%] Built target nodelet_generate_messages_py
+[211.865s] [  0%] Built target bond_generate_messages_py
+[212.073s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[212.300s] [  0%] Built target actionlib_msgs_generate_messages_py
+[212.523s] [  0%] Built target sick_ldmrs_msgs_generate_messages_cpp
+[212.773s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[212.981s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[213.290s] [  0%] Built target sick_ldmrs_msgs_generate_messages_lisp
+[213.486s] [  0%] Built target sick_ldmrs_msgs_generate_messages_py
+[213.741s] [  0%] Built target visualization_msgs_generate_messages_eus
+[214.042s] [  0%] Built target visualization_msgs_generate_messages_lisp
+[214.324s] [  0%] Built target visualization_msgs_generate_messages_nodejs
+[214.706s] [ 12%] Built target sick_ldmrs_remove_background
+[214.971s] [ 25%] Built target sick_ldmrs_make_organized
+[215.195s] [ 37%] Built target sick_ldmrs_filter_first
+[215.407s] [ 50%] Built target sick_ldmrs_object_marker
+[215.654s] [ 62%] Built target sick_ldmrs_print_resolution
+[215.930s] [ 75%] Built target sick_ldmrs_filter_layer
+[216.206s] [ 87%] Built target sick_ldmrs_filter_last
+[216.495s] [100%] Built target sick_ldmrs_all_layer_assembler
+[216.711s] [36mInstall the project...[0m
+[216.764s] -- Install configuration: "Release"
+[216.765s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/pkgconfig/sick_ldmrs_tools.pc
+[216.766s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/share/sick_ldmrs_tools/cmake/sick_ldmrs_toolsConfig.cmake
+[216.767s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/share/sick_ldmrs_tools/cmake/sick_ldmrs_toolsConfig-version.cmake
+[216.771s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/share/sick_ldmrs_tools/package.xml
+[216.772s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_object_marker
+[216.774s] -- Set runtime path of "/home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_object_marker" to ""
+[216.775s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_filter_layer
+[216.777s] -- Set runtime path of "/home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_filter_layer" to ""
+[216.777s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_filter_first
+[216.783s] -- Set runtime path of "/home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_filter_first" to ""
+[216.784s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_filter_last
+[216.784s] -- Set runtime path of "/home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_filter_last" to ""
+[216.784s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_all_layer_assembler
+[216.785s] -- Set runtime path of "/home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_all_layer_assembler" to ""
+[216.785s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_make_organized
+[216.787s] -- Set runtime path of "/home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_make_organized" to ""
+[216.787s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_remove_background
+[216.797s] -- Set runtime path of "/home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_remove_background" to ""
+[216.807s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_print_resolution
+[216.807s] -- Set runtime path of "/home/capstone/autoware.ai/install/sick_ldmrs_tools/lib/sick_ldmrs_tools/sick_ldmrs_print_resolution" to ""
+[216.807s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/share/sick_ldmrs_tools/config
+[216.808s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/share/sick_ldmrs_tools/config/sick_ldmrs.rviz
+[216.808s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/share/sick_ldmrs_tools/launch
+[216.808s] -- Installing: /home/capstone/autoware.ai/install/sick_ldmrs_tools/share/sick_ldmrs_tools/launch/sick_ldmrs_demo.launch

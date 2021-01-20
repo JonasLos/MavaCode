@@ -1,0 +1,8 @@
+[0.073s] Invoking command in '/home/capstone/autoware.ai/build/memsic_imu': /usr/bin/cmake /home/capstone/autoware.ai/src/drivers/awf_drivers/memsic -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/memsic_imu
+[10.923s] Invoked command in '/home/capstone/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/drivers/awf_drivers/memsic -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/memsic_imu
+[10.930s] Invoking command in '/home/capstone/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu -- -j12 -l12
+[22.334s] Invoked command in '/home/capstone/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu -- -j12 -l12
+[23.842s] Invoking command in '/home/capstone/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target tests -- -j12 -l12
+[24.394s] Invoked command in '/home/capstone/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target tests -- -j12 -l12
+[25.768s] Invoking command in '/home/capstone/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target install -- -j12 -l12
+[26.390s] Invoked command in '/home/capstone/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target install -- -j12 -l12

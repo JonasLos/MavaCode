@@ -1,0 +1,7 @@
+/home/capstone/autoware.ai/install/ymc/lib/pkgconfig/ymc.pc
+/home/capstone/autoware.ai/install/ymc/share/ymc/cmake/ymcConfig.cmake
+/home/capstone/autoware.ai/install/ymc/share/ymc/cmake/ymcConfig-version.cmake
+/home/capstone/autoware.ai/install/ymc/share/ymc/package.xml
+/home/capstone/autoware.ai/install/ymc/lib/ymc/g30esli_interface
+/home/capstone/autoware.ai/install/ymc/share/ymc/launch/g30esli_interface.launch
+/home/capstone/autoware.ai/install/ymc/share/ymc/scripts/canset

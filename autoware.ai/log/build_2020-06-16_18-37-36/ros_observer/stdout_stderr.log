@@ -1,0 +1,67 @@
+[0.942s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.236s] [  0%] Built target roscpp_generate_messages_py
+[1.414s] [  0%] Built target roscpp_generate_messages_lisp
+[1.417s] [  0%] Built target roscpp_generate_messages_cpp
+[1.419s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.449s] [  0%] Built target std_msgs_generate_messages_py
+[1.459s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[1.477s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[1.701s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.706s] [  0%] Built target roscpp_generate_messages_eus
+[1.731s] [  0%] Built target std_msgs_generate_messages_eus
+[1.760s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.929s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[1.997s] [  0%] Built target roscpp_generate_messages_nodejs
+[2.231s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[2.742s] [ 50%] Built target ros_observer
+[2.871s] [100%] Built target lib_ros_observer
+[5.811s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[5.838s] [  0%] Built target std_msgs_generate_messages_lisp
+[5.844s] [  0%] Built target roscpp_generate_messages_eus
+[5.857s] [  0%] Built target std_msgs_generate_messages_cpp
+[5.861s] [  0%] Built target std_msgs_generate_messages_eus
+[5.884s] [  0%] Built target std_msgs_generate_messages_py
+[5.884s] [  0%] Built target roscpp_generate_messages_cpp
+[5.884s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[5.884s] [  0%] Built target roscpp_generate_messages_py
+[5.895s] [  0%] Built target std_msgs_generate_messages_nodejs
+[5.904s] [  0%] Built target roscpp_generate_messages_lisp
+[5.916s] [ 33%] Built target gtest
+[5.985s] [ 33%] Built target rosgraph_msgs_generate_messages_cpp
+[5.995s] [ 33%] Built target rosgraph_msgs_generate_messages_py
+[6.042s] [ 33%] Built target roscpp_generate_messages_nodejs
+[6.056s] [ 33%] Built target rosgraph_msgs_generate_messages_lisp
+[6.208s] [ 66%] Built target lib_ros_observer
+[6.400s] [100%] Built target test_ros_observer
+[6.575s] [100%] Built target tests
+[8.273s] [  0%] Built target roscpp_generate_messages_eus
+[8.286s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[8.303s] [  0%] Built target roscpp_generate_messages_lisp
+[8.335s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[8.338s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[8.346s] [  0%] Built target std_msgs_generate_messages_py
+[8.357s] [  0%] Built target std_msgs_generate_messages_eus
+[8.363s] [  0%] Built target roscpp_generate_messages_py
+[8.365s] [  0%] Built target std_msgs_generate_messages_nodejs
+[8.378s] [  0%] Built target std_msgs_generate_messages_cpp
+[8.381s] [  0%] Built target std_msgs_generate_messages_lisp
+[8.388s] [  0%] Built target roscpp_generate_messages_cpp
+[8.445s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[8.470s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[8.521s] [  0%] Built target roscpp_generate_messages_nodejs
+[8.714s] [ 50%] Built target lib_ros_observer
+[8.906s] [100%] Built target ros_observer
+[9.283s] [36mInstall the project...[0m
+[9.349s] -- Install configuration: "Release"
+[9.349s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/lib/pkgconfig/ros_observer.pc
+[9.349s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/cmake/ros_observerConfig.cmake
+[9.349s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/cmake/ros_observerConfig-version.cmake
+[9.350s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/package.xml
+[9.350s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/include/ros_observer
+[9.350s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/include/ros_observer/lib_ros_observer.h
+[9.350s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/include/ros_observer/ros_observer.h
+[9.351s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/lib/ros_observer/ros_observer
+[9.351s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/lib/liblib_ros_observer.so
+[9.351s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/launch
+[9.351s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/launch/ros_observer.launch
+[9.351s] -- Up-to-date: /home/capstone/autoware.ai/install/ros_observer/share/ros_observer/launch/test.launch

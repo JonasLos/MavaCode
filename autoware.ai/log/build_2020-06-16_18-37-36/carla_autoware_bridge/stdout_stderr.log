@@ -1,0 +1,29 @@
+[1.496s] Built target tests
+[2.501s] [36mInstall the project...[0m
+[2.557s] -- Install configuration: "Release"
+[2.565s] + cd /home/capstone/autoware.ai/src/autoware/simulation/carla_simulator_bridge/carla_autoware_bridge
+[2.566s] + mkdir -p /home/capstone/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages
+[2.578s] + /usr/bin/env PYTHONPATH=/home/capstone/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/build/carla_autoware_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/tablet_socket_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/sick_ldmrs_driver/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/sick_ldmrs_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/lanelet2_python/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/kitti_player/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_map_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_config_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_can_msgs/lib/python2.7/dist-packages:/opt/carla-ros-bridge/melodic/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/capstone/autoware.ai/build/carla_autoware_bridge /usr/bin/python2 /home/capstone/autoware.ai/src/autoware/simulation/carla_simulator_bridge/carla_autoware_bridge/setup.py build --build-base /home/capstone/autoware.ai/build/carla_autoware_bridge install --root=/ --install-layout=deb --prefix=/home/capstone/autoware.ai/install/carla_autoware_bridge --install-scripts=/home/capstone/autoware.ai/install/carla_autoware_bridge/bin
+[2.758s] running build
+[2.758s] running build_py
+[2.762s] running install
+[2.763s] running install_lib
+[2.767s] running install_egg_info
+[2.767s] Removing /home/capstone/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages/carla_autoware_bridge-0.0.0.egg-info
+[2.768s] Writing /home/capstone/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages/carla_autoware_bridge-0.0.0.egg-info
+[2.775s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/lib/pkgconfig/carla_autoware_bridge.pc
+[2.775s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/cmake/carla_autoware_bridgeConfig.cmake
+[2.775s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/cmake/carla_autoware_bridgeConfig-version.cmake
+[2.776s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/package.xml
+[2.777s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/lib/carla_autoware_bridge/carla_to_autoware_vehicle_status
+[2.777s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/lib/carla_autoware_bridge/carla_to_autoware_waypoints
+[2.777s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/lib/carla_autoware_bridge/odometry_to_posestamped
+[2.778s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/lib/carla_autoware_bridge/vehiclecmd_to_ackermanndrive
+[2.778s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/lib/carla_autoware_bridge/carla_to_autoware_detected_objects
+[2.778s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/launch
+[2.778s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/launch/tf.launch
+[2.778s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/launch/carla_autoware_bridge_with_manual_control.launch
+[2.779s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/launch/carla_autoware_bridge_common.launch
+[2.779s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/launch/carla_autoware_bridge.launch
+[2.779s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/config
+[2.779s] -- Up-to-date: /home/capstone/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/config/sensors.json

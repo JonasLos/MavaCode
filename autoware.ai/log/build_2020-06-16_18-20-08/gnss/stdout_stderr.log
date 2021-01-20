@@ -1,0 +1,29 @@
+[1.232s] [100%] Built target gnss
+[4.079s] [  0%] Built target roscpp_generate_messages_nodejs
+[4.101s] [  0%] Built target roscpp_generate_messages_eus
+[4.120s] [  0%] Built target std_msgs_generate_messages_py
+[4.147s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[4.147s] [  0%] Built target std_msgs_generate_messages_lisp
+[4.169s] [  0%] Built target std_msgs_generate_messages_cpp
+[4.177s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[4.179s] [ 40%] Built target gtest
+[4.181s] [ 40%] Built target rosgraph_msgs_generate_messages_nodejs
+[4.201s] [ 40%] Built target roscpp_generate_messages_lisp
+[4.204s] [ 40%] Built target std_msgs_generate_messages_eus
+[4.226s] [ 40%] Built target std_msgs_generate_messages_nodejs
+[4.291s] [ 40%] Built target roscpp_generate_messages_cpp
+[4.360s] [ 40%] Built target rosgraph_msgs_generate_messages_py
+[4.361s] [ 40%] Built target roscpp_generate_messages_py
+[4.367s] [ 40%] Built target rosgraph_msgs_generate_messages_lisp
+[4.618s] [100%] Built target test_gnss
+[4.753s] [100%] Built target tests
+[6.455s] [100%] Built target gnss
+[6.574s] [36mInstall the project...[0m
+[6.633s] -- Install configuration: "Release"
+[6.635s] -- Up-to-date: /home/capstone/autoware.ai/install/gnss/lib/pkgconfig/gnss.pc
+[6.637s] -- Up-to-date: /home/capstone/autoware.ai/install/gnss/share/gnss/cmake/gnssConfig.cmake
+[6.637s] -- Up-to-date: /home/capstone/autoware.ai/install/gnss/share/gnss/cmake/gnssConfig-version.cmake
+[6.637s] -- Up-to-date: /home/capstone/autoware.ai/install/gnss/share/gnss/package.xml
+[6.637s] -- Up-to-date: /home/capstone/autoware.ai/install/gnss/include/gnss
+[6.638s] -- Up-to-date: /home/capstone/autoware.ai/install/gnss/include/gnss/geo_pos_conv.hpp
+[6.638s] -- Up-to-date: /home/capstone/autoware.ai/install/gnss/lib/libgnss.so

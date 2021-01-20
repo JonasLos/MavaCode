@@ -1,0 +1,6 @@
+[0.146s] Invoking command in '/home/capstone/autoware.ai/build/autoware_external_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs -- -j12 -l12
+[0.403s] Invoked command in '/home/capstone/autoware.ai/build/autoware_external_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs -- -j12 -l12
+[0.634s] Invoking command in '/home/capstone/autoware.ai/build/autoware_external_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs --target tests -- -j12 -l12
+[1.201s] Invoked command in '/home/capstone/autoware.ai/build/autoware_external_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs --target tests -- -j12 -l12
+[1.424s] Invoking command in '/home/capstone/autoware.ai/build/autoware_external_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs --target install -- -j12 -l12
+[1.810s] Invoked command in '/home/capstone/autoware.ai/build/autoware_external_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs --target install -- -j12 -l12

@@ -1,0 +1,15 @@
+[0.111s] Invoking command in '/home/capstone/autoware.ai/build/gazebo_imu_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_imu_description -- -j12 -l12
+[0.641s] Invoked command in '/home/capstone/autoware.ai/build/gazebo_imu_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_imu_description -- -j12 -l12
+[1.355s] Invoking command in '/home/capstone/autoware.ai/build/gazebo_imu_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_imu_description --target tests -- -j12 -l12
+[2.030s] Built target tests
+[2.154s] Invoked command in '/home/capstone/autoware.ai/build/gazebo_imu_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_imu_description --target tests -- -j12 -l12
+[3.279s] Invoking command in '/home/capstone/autoware.ai/build/gazebo_imu_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_imu_description --target install -- -j12 -l12
+[4.325s] [36mInstall the project...[0m
+[4.576s] -- Install configuration: "Release"
+[4.576s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/lib/pkgconfig/gazebo_imu_description.pc
+[4.581s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/cmake/gazebo_imu_descriptionConfig.cmake
+[4.582s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/cmake/gazebo_imu_descriptionConfig-version.cmake
+[4.582s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/package.xml
+[4.583s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/urdf
+[4.583s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/urdf/imu.xacro
+[4.597s] Invoked command in '/home/capstone/autoware.ai/build/gazebo_imu_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gazebo_imu_description --target install -- -j12 -l12

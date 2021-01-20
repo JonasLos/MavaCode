@@ -1,0 +1,8 @@
+[0.088s] Invoking command in '/home/capstone/autoware.ai/build/ds4_driver': /usr/bin/cmake /home/capstone/autoware.ai/src/drivers/ds4/ds4_driver -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/ds4_driver
+[12.758s] Invoked command in '/home/capstone/autoware.ai/build/ds4_driver' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/drivers/ds4/ds4_driver -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/ds4_driver
+[12.760s] Invoking command in '/home/capstone/autoware.ai/build/ds4_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver -- -j12 -l12
+[12.992s] Invoked command in '/home/capstone/autoware.ai/build/ds4_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver -- -j12 -l12
+[13.788s] Invoking command in '/home/capstone/autoware.ai/build/ds4_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver --target tests -- -j12 -l12
+[14.278s] Invoked command in '/home/capstone/autoware.ai/build/ds4_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver --target tests -- -j12 -l12
+[14.934s] Invoking command in '/home/capstone/autoware.ai/build/ds4_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver --target install -- -j12 -l12
+[15.233s] Invoked command in '/home/capstone/autoware.ai/build/ds4_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver --target install -- -j12 -l12

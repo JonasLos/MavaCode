@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/ds4_driver/lib/pkgconfig/ds4_driver.pc
+/home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/cmake/ds4_driverConfig.cmake
+/home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/cmake/ds4_driverConfig-version.cmake
+/home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/package.xml
+/home/capstone/autoware.ai/install/ds4_driver/lib/ds4_driver/ds4_driver
+/home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/launch/ds4_driver.launch

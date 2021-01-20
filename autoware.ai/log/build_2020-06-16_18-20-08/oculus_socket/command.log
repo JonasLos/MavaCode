@@ -1,0 +1,6 @@
+[0.069s] Invoking command in '/home/capstone/autoware.ai/build/oculus_socket': /usr/bin/cmake --build /home/capstone/autoware.ai/build/oculus_socket -- -j12 -l12
+[0.536s] Invoked command in '/home/capstone/autoware.ai/build/oculus_socket' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/oculus_socket -- -j12 -l12
+[1.564s] Invoking command in '/home/capstone/autoware.ai/build/oculus_socket': /usr/bin/cmake --build /home/capstone/autoware.ai/build/oculus_socket --target tests -- -j12 -l12
+[2.131s] Invoked command in '/home/capstone/autoware.ai/build/oculus_socket' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/oculus_socket --target tests -- -j12 -l12
+[3.103s] Invoking command in '/home/capstone/autoware.ai/build/oculus_socket': /usr/bin/cmake --build /home/capstone/autoware.ai/build/oculus_socket --target install -- -j12 -l12
+[3.772s] Invoked command in '/home/capstone/autoware.ai/build/oculus_socket' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/oculus_socket --target install -- -j12 -l12

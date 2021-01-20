@@ -1,0 +1,8 @@
+[3.549s] Built target tests
+[4.750s] [36mInstall the project...[0m
+[4.822s] -- Install configuration: "Release"
+[4.822s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_box_publisher/lib/pkgconfig/kitti_box_publisher.pc
+[4.823s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_box_publisher/share/kitti_box_publisher/cmake/kitti_box_publisherConfig.cmake
+[4.823s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_box_publisher/share/kitti_box_publisher/cmake/kitti_box_publisherConfig-version.cmake
+[4.823s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_box_publisher/share/kitti_box_publisher/package.xml
+[4.823s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_box_publisher/lib/kitti_box_publisher/kitti_box_publisher.py

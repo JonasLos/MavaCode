@@ -1,0 +1,6 @@
+[0.212s] Invoking command in '/home/capstone/autoware.ai/build/autoware_lanelet2_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_lanelet2_msgs -- -j12 -l12
+[3.502s] Invoked command in '/home/capstone/autoware.ai/build/autoware_lanelet2_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_lanelet2_msgs -- -j12 -l12
+[4.886s] Invoking command in '/home/capstone/autoware.ai/build/autoware_lanelet2_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_lanelet2_msgs --target tests -- -j12 -l12
+[6.044s] Invoked command in '/home/capstone/autoware.ai/build/autoware_lanelet2_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_lanelet2_msgs --target tests -- -j12 -l12
+[6.585s] Invoking command in '/home/capstone/autoware.ai/build/autoware_lanelet2_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_lanelet2_msgs --target install -- -j12 -l12
+[8.016s] Invoked command in '/home/capstone/autoware.ai/build/autoware_lanelet2_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_lanelet2_msgs --target install -- -j12 -l12

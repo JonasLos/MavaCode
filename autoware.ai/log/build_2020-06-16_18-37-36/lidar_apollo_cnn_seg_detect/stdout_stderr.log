@@ -1,0 +1,7 @@
+[1.949s] Built target tests
+[3.460s] [36mInstall the project...[0m
+[3.517s] -- Install configuration: "Release"
+[3.518s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_apollo_cnn_seg_detect/lib/pkgconfig/lidar_apollo_cnn_seg_detect.pc
+[3.518s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_apollo_cnn_seg_detect/share/lidar_apollo_cnn_seg_detect/cmake/lidar_apollo_cnn_seg_detectConfig.cmake
+[3.518s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_apollo_cnn_seg_detect/share/lidar_apollo_cnn_seg_detect/cmake/lidar_apollo_cnn_seg_detectConfig-version.cmake
+[3.518s] -- Up-to-date: /home/capstone/autoware.ai/install/lidar_apollo_cnn_seg_detect/share/lidar_apollo_cnn_seg_detect/package.xml

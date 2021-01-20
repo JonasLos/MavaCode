@@ -1,0 +1,6 @@
+[0.187s] Invoking command in '/home/capstone/autoware.ai/build/pcl_omp_registration': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration -- -j12 -l12
+[1.408s] Invoked command in '/home/capstone/autoware.ai/build/pcl_omp_registration' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration -- -j12 -l12
+[2.841s] Invoking command in '/home/capstone/autoware.ai/build/pcl_omp_registration': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration --target tests -- -j12 -l12
+[5.035s] Invoked command in '/home/capstone/autoware.ai/build/pcl_omp_registration' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration --target tests -- -j12 -l12
+[6.544s] Invoking command in '/home/capstone/autoware.ai/build/pcl_omp_registration': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration --target install -- -j12 -l12
+[7.812s] Invoked command in '/home/capstone/autoware.ai/build/pcl_omp_registration' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration --target install -- -j12 -l12

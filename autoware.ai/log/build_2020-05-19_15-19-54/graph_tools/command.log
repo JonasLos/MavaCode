@@ -1,0 +1,8 @@
+[0.142s] Invoking command in '/home/capstone/autoware.ai/build/graph_tools': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/utilities/graph_tools -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/graph_tools
+[9.378s] Invoked command in '/home/capstone/autoware.ai/build/graph_tools' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/utilities/graph_tools -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/graph_tools
+[9.380s] Invoking command in '/home/capstone/autoware.ai/build/graph_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools -- -j12 -l12
+[9.619s] Invoked command in '/home/capstone/autoware.ai/build/graph_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools -- -j12 -l12
+[9.996s] Invoking command in '/home/capstone/autoware.ai/build/graph_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target tests -- -j12 -l12
+[10.449s] Invoked command in '/home/capstone/autoware.ai/build/graph_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target tests -- -j12 -l12
+[10.978s] Invoking command in '/home/capstone/autoware.ai/build/graph_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target install -- -j12 -l12
+[11.381s] Invoked command in '/home/capstone/autoware.ai/build/graph_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target install -- -j12 -l12

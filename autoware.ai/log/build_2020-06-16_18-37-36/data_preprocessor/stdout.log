@@ -1,0 +1,16 @@
+[0.564s] [ 33%] Built target get_PCD
+[0.766s] [ 66%] Built target get_Depth
+[0.933s] [100%] Built target get_Image
+[2.398s] Built target tests
+[3.858s] [ 33%] Built target get_PCD
+[4.034s] [ 66%] Built target get_Depth
+[4.205s] [100%] Built target get_Image
+[4.345s] [36mInstall the project...[0m
+[4.404s] -- Install configuration: "Release"
+[4.404s] -- Up-to-date: /home/capstone/autoware.ai/install/data_preprocessor/lib/pkgconfig/data_preprocessor.pc
+[4.405s] -- Up-to-date: /home/capstone/autoware.ai/install/data_preprocessor/share/data_preprocessor/cmake/data_preprocessorConfig.cmake
+[4.405s] -- Up-to-date: /home/capstone/autoware.ai/install/data_preprocessor/share/data_preprocessor/cmake/data_preprocessorConfig-version.cmake
+[4.405s] -- Up-to-date: /home/capstone/autoware.ai/install/data_preprocessor/share/data_preprocessor/package.xml
+[4.405s] -- Up-to-date: /home/capstone/autoware.ai/install/data_preprocessor/lib/data_preprocessor/get_Image
+[4.407s] -- Up-to-date: /home/capstone/autoware.ai/install/data_preprocessor/lib/data_preprocessor/get_PCD
+[4.408s] -- Up-to-date: /home/capstone/autoware.ai/install/data_preprocessor/lib/data_preprocessor/get_Depth

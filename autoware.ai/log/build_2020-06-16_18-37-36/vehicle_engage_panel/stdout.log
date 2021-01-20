@@ -1,0 +1,15 @@
+[0.583s] [ 25%] [34m[1mAutomatic MOC for target vehicle_engage_panel[0m
+[0.701s] [ 25%] Built target vehicle_engage_panel_autogen
+[0.870s] [100%] Built target vehicle_engage_panel
+[2.324s] Built target tests
+[3.721s] [ 25%] [34m[1mAutomatic MOC for target vehicle_engage_panel[0m
+[3.844s] [ 25%] Built target vehicle_engage_panel_autogen
+[4.044s] [100%] Built target vehicle_engage_panel
+[4.195s] [36mInstall the project...[0m
+[4.253s] -- Install configuration: "Release"
+[4.253s] -- Up-to-date: /home/capstone/autoware.ai/install/vehicle_engage_panel/lib/pkgconfig/vehicle_engage_panel.pc
+[4.253s] -- Up-to-date: /home/capstone/autoware.ai/install/vehicle_engage_panel/share/vehicle_engage_panel/cmake/vehicle_engage_panelConfig.cmake
+[4.254s] -- Up-to-date: /home/capstone/autoware.ai/install/vehicle_engage_panel/share/vehicle_engage_panel/cmake/vehicle_engage_panelConfig-version.cmake
+[4.254s] -- Up-to-date: /home/capstone/autoware.ai/install/vehicle_engage_panel/share/vehicle_engage_panel/package.xml
+[4.254s] -- Up-to-date: /home/capstone/autoware.ai/install/vehicle_engage_panel/lib/libvehicle_engage_panel.so
+[4.255s] -- Up-to-date: /home/capstone/autoware.ai/install/vehicle_engage_panel/share/vehicle_engage_panel/plugin_description.xml

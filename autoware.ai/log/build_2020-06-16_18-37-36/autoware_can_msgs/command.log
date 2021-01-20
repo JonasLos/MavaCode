@@ -1,0 +1,6 @@
+[0.140s] Invoking command in '/home/capstone/autoware.ai/build/autoware_can_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_can_msgs -- -j12 -l12
+[3.330s] Invoked command in '/home/capstone/autoware.ai/build/autoware_can_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_can_msgs -- -j12 -l12
+[4.997s] Invoking command in '/home/capstone/autoware.ai/build/autoware_can_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_can_msgs --target tests -- -j12 -l12
+[5.942s] Invoked command in '/home/capstone/autoware.ai/build/autoware_can_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_can_msgs --target tests -- -j12 -l12
+[6.551s] Invoking command in '/home/capstone/autoware.ai/build/autoware_can_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_can_msgs --target install -- -j12 -l12
+[8.133s] Invoked command in '/home/capstone/autoware.ai/build/autoware_can_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_can_msgs --target install -- -j12 -l12

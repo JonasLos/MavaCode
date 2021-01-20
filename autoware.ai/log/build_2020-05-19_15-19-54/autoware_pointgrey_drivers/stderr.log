@@ -1,0 +1,32 @@
+[12.735s] 'SDK for Ladybug' is not installed. 'ladybug_camera' will not be built.
+[17.207s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:[m[K In constructor ‘[01m[KSpinnakerCamera::SpinnakerCamera()[m[K’:
+[17.207s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:97:23:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[17.207s]      for (int i = 0; [01;35m[Ki < camList_.GetSize()[m[K; i++)
+[17.207s]                      [01;35m[K~~^~~~~~~~~~~~~~~~~~~~[m[K
+[17.235s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:[m[K In destructor ‘[01m[KSpinnakerCamera::~SpinnakerCamera()[m[K’:
+[17.235s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:226:21:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[17.236s]    for (int i = 0; [01;35m[Ki < camList_.GetSize()[m[K; i++)
+[17.236s]                    [01;35m[K~~^~~~~~~~~~~~~~~~~~~~[m[K
+[17.237s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:230:20:[m[K [01;35m[Kwarning: [m[Kpassing NULL to non-pointer argument 1 of ‘[01m[KSpinnaker::CameraPtr::CameraPtr(long int)[m[K’ [[01;35m[K-Wconversion-null[m[K]
+[17.237s]      pCamList_[i] = [01;35m[KNULL[m[K;
+[17.237s]                     [01;35m[K^~~~[m[K
+[17.241s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:[m[K In member function ‘[01m[Kvoid SpinnakerCamera::publish_image(int)[m[K’:
+[17.242s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:281:22:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KXPadding[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[17.242s]          unsigned int [01;35m[KXPadding[m[K = pResultImage->GetXPadding();
+[17.242s]                       [01;35m[K^~~~~~~~[m[K
+[17.243s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:282:22:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[KYPadding[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[17.243s]          unsigned int [01;35m[KYPadding[m[K = pResultImage->GetYPadding();
+[17.244s]                       [01;35m[K^~~~~~~~[m[K
+[17.244s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:283:22:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Krowsize[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[17.244s]          unsigned int [01;35m[Krowsize[m[K = pResultImage->GetWidth();
+[17.244s]                       [01;35m[K^~~~~~~[m[K
+[17.245s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:284:22:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kcolsize[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[17.245s]          unsigned int [01;35m[Kcolsize[m[K = pResultImage->GetHeight();
+[17.245s]                       [01;35m[K^~~~~~~[m[K
+[17.247s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:[m[K In member function ‘[01m[Kvoid SpinnakerCamera::spin()[m[K’:
+[17.248s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:314:21:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[17.248s]    for (int i = 0; [01;35m[Ki < camList_.GetSize()[m[K; i++)
+[17.248s]                    [01;35m[K~~^~~~~~~~~~~~~~~~~~~~[m[K
+[17.253s] [01m[K/home/capstone/autoware.ai/src/drivers/awf_drivers/pointgrey/nodes/spinnaker/spinnaker.cpp:320:21:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[17.253s]    for (int i = 0; [01;35m[Ki < camList_.GetSize()[m[K; i++)
+[17.253s]                    [01;35m[K~~^~~~~~~~~~~~~~~~~~~~[m[K

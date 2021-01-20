@@ -1,0 +1,13 @@
+[0.509s] [100%] Built target hokuyo_3d
+[1.527s] Built target tests
+[2.438s] [100%] Built target hokuyo_3d
+[2.564s] [36mInstall the project...[0m
+[2.618s] -- Install configuration: "Release"
+[2.619s] -- Up-to-date: /home/capstone/autoware.ai/install/hokuyo/lib/pkgconfig/hokuyo.pc
+[2.619s] -- Up-to-date: /home/capstone/autoware.ai/install/hokuyo/share/hokuyo/cmake/hokuyoConfig.cmake
+[2.619s] -- Up-to-date: /home/capstone/autoware.ai/install/hokuyo/share/hokuyo/cmake/hokuyoConfig-version.cmake
+[2.619s] -- Up-to-date: /home/capstone/autoware.ai/install/hokuyo/share/hokuyo/package.xml
+[2.620s] -- Up-to-date: /home/capstone/autoware.ai/install/hokuyo/lib/hokuyo/hokuyo_3d
+[2.621s] -- Up-to-date: /home/capstone/autoware.ai/install/hokuyo/share/hokuyo/launch
+[2.622s] -- Up-to-date: /home/capstone/autoware.ai/install/hokuyo/share/hokuyo/launch/top_urg.launch
+[2.622s] -- Up-to-date: /home/capstone/autoware.ai/install/hokuyo/share/hokuyo/launch/hokuyo_3d.launch

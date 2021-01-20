@@ -1,0 +1,9 @@
+[3.209s] Built target tests
+[5.036s] [36mInstall the project...[0m
+[5.142s] -- Install configuration: "Release"
+[5.144s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/lib/pkgconfig/gazebo_camera_description.pc
+[5.144s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/share/gazebo_camera_description/cmake/gazebo_camera_descriptionConfig.cmake
+[5.144s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/share/gazebo_camera_description/cmake/gazebo_camera_descriptionConfig-version.cmake
+[5.144s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/share/gazebo_camera_description/package.xml
+[5.145s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/share/gazebo_camera_description/urdf
+[5.145s] -- Up-to-date: /home/capstone/autoware.ai/install/gazebo_camera_description/share/gazebo_camera_description/urdf/monocular_camera.xacro

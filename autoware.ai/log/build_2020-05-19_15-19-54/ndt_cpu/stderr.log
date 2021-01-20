@@ -1,0 +1,18 @@
+[11.466s] ** WARNING ** io features related to ensenso will be disabled
+[11.483s] ** WARNING ** io features related to davidSDK will be disabled
+[11.489s] ** WARNING ** io features related to dssdk will be disabled
+[11.489s] ** WARNING ** io features related to pcap will be disabled
+[11.490s] ** WARNING ** io features related to png will be disabled
+[11.986s] ** WARNING ** io features related to libusb-1.0 will be disabled
+[12.676s] ** WARNING ** visualization features related to ensenso will be disabled
+[12.692s] ** WARNING ** visualization features related to davidSDK will be disabled
+[12.698s] ** WARNING ** visualization features related to dssdk will be disabled
+[12.702s] ** WARNING ** visualization features related to rssdk will be disabled
+[14.036s] CMake Warning at CMakeLists.txt:49 (message):
+[14.036s]   Adding 'EIGEN_DISABLE_UNALIGNED_ARRAY_ASSERT' macro to prevent
+[14.037s]   ndt_matching's runtime error in debug mode.
+[14.037s] 
+[14.037s]     The bug reasons and solutions are written in http://eigen.tuxfamily.org/dox-devel/group__TopicUnalignedArrayAssert.html .
+[14.037s]     This workaround was discussed on https://gitlab.com/autowarefoundation/autoware.ai/core_perception/merge_requests/57 .
+[14.037s] 
+[14.038s] 

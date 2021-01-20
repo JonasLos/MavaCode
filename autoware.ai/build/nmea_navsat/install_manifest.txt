@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/nmea_navsat/lib/pkgconfig/nmea_navsat.pc
+/home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig.cmake
+/home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig-version.cmake
+/home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/package.xml
+/home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch/nmea_navsat.launch
+/home/capstone/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch/README.md

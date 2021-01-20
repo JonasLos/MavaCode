@@ -1,0 +1,28 @@
+[0.528s] [ 14%] Built target pcd_grid_divider
+[0.721s] [ 28%] Built target pcd2csv
+[0.891s] [ 42%] Built target pcd_filter
+[1.077s] [ 57%] Built target pcd_binarizer
+[1.253s] [ 71%] Built target pcd_arealist
+[1.421s] [ 85%] Built target csv2pcd
+[1.656s] [100%] Built target map_extender
+[3.238s] Built target tests
+[4.827s] [ 14%] Built target pcd_grid_divider
+[4.999s] [ 28%] Built target pcd2csv
+[5.171s] [ 42%] Built target pcd_filter
+[5.344s] [ 57%] Built target pcd_binarizer
+[5.558s] [ 71%] Built target pcd_arealist
+[5.760s] [ 85%] Built target csv2pcd
+[5.943s] [100%] Built target map_extender
+[6.078s] [36mInstall the project...[0m
+[6.135s] -- Install configuration: "Release"
+[6.135s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/lib/pkgconfig/map_tools.pc
+[6.136s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/share/map_tools/cmake/map_toolsConfig.cmake
+[6.136s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/share/map_tools/cmake/map_toolsConfig-version.cmake
+[6.136s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/share/map_tools/package.xml
+[6.136s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/csv2pcd
+[6.137s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/map_extender
+[6.138s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd2csv
+[6.140s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_arealist
+[6.141s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_binarizer
+[6.142s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_filter
+[6.143s] -- Up-to-date: /home/capstone/autoware.ai/install/map_tools/lib/map_tools/pcd_grid_divider

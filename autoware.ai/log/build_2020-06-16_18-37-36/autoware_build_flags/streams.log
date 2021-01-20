@@ -1,0 +1,14 @@
+[0.262s] Invoking command in '/home/capstone/autoware.ai/build/autoware_build_flags': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags -- -j12 -l12
+[0.585s] Invoked command in '/home/capstone/autoware.ai/build/autoware_build_flags' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags -- -j12 -l12
+[2.236s] Invoking command in '/home/capstone/autoware.ai/build/autoware_build_flags': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags --target tests -- -j12 -l12
+[3.809s] Built target tests
+[3.982s] Invoked command in '/home/capstone/autoware.ai/build/autoware_build_flags' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags --target tests -- -j12 -l12
+[5.000s] Invoking command in '/home/capstone/autoware.ai/build/autoware_build_flags': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags --target install -- -j12 -l12
+[5.732s] [36mInstall the project...[0m
+[5.841s] -- Install configuration: "Release"
+[5.841s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_build_flags/lib/pkgconfig/autoware_build_flags.pc
+[5.851s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_build_flags/share/autoware_build_flags/cmake/autoware_build_flags-extras.cmake
+[5.851s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_build_flags/share/autoware_build_flags/cmake/autoware_build_flagsConfig.cmake
+[5.851s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_build_flags/share/autoware_build_flags/cmake/autoware_build_flagsConfig-version.cmake
+[5.851s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_build_flags/share/autoware_build_flags/package.xml
+[5.867s] Invoked command in '/home/capstone/autoware.ai/build/autoware_build_flags' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags --target install -- -j12 -l12

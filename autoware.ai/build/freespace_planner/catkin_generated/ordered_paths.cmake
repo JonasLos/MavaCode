@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/capstone/autoware.ai/install/astar_search/lib;/opt/ros/melodic/lib")

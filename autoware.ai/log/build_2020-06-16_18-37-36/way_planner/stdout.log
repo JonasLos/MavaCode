@@ -1,0 +1,12 @@
+[1.334s] [100%] Built target way_planner
+[3.066s] Built target tests
+[4.772s] [100%] Built target way_planner
+[4.914s] [36mInstall the project...[0m
+[4.971s] -- Install configuration: "Release"
+[4.972s] -- Up-to-date: /home/capstone/autoware.ai/install/way_planner/lib/pkgconfig/way_planner.pc
+[4.972s] -- Up-to-date: /home/capstone/autoware.ai/install/way_planner/share/way_planner/cmake/way_plannerConfig.cmake
+[4.972s] -- Up-to-date: /home/capstone/autoware.ai/install/way_planner/share/way_planner/cmake/way_plannerConfig-version.cmake
+[4.972s] -- Up-to-date: /home/capstone/autoware.ai/install/way_planner/share/way_planner/package.xml
+[4.973s] -- Up-to-date: /home/capstone/autoware.ai/install/way_planner/lib/way_planner/way_planner
+[4.974s] -- Up-to-date: /home/capstone/autoware.ai/install/way_planner/share/way_planner/launch
+[4.974s] -- Up-to-date: /home/capstone/autoware.ai/install/way_planner/share/way_planner/launch/way_planner.launch

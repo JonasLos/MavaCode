@@ -1,0 +1,22 @@
+[0.187s] Invoking command in '/home/capstone/autoware.ai/build/pcl_omp_registration': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration -- -j12 -l12
+[1.294s] [100%] Built target pcl_omp_registration
+[1.408s] Invoked command in '/home/capstone/autoware.ai/build/pcl_omp_registration' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration -- -j12 -l12
+[2.841s] Invoking command in '/home/capstone/autoware.ai/build/pcl_omp_registration': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration --target tests -- -j12 -l12
+[4.777s] Built target tests
+[5.035s] Invoked command in '/home/capstone/autoware.ai/build/pcl_omp_registration' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration --target tests -- -j12 -l12
+[6.544s] Invoking command in '/home/capstone/autoware.ai/build/pcl_omp_registration': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration --target install -- -j12 -l12
+[7.531s] [100%] Built target pcl_omp_registration
+[7.718s] [36mInstall the project...[0m
+[7.802s] -- Install configuration: "Release"
+[7.802s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/lib/pkgconfig/pcl_omp_registration.pc
+[7.803s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/share/pcl_omp_registration/cmake/pcl_omp_registrationConfig.cmake
+[7.803s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/share/pcl_omp_registration/cmake/pcl_omp_registrationConfig-version.cmake
+[7.803s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/share/pcl_omp_registration/package.xml
+[7.803s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration
+[7.803s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/registration.h
+[7.804s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/impl
+[7.804s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/impl/registration.hpp
+[7.804s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/impl/ndt.hpp
+[7.804s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/ndt.h
+[7.804s] -- Up-to-date: /home/capstone/autoware.ai/install/pcl_omp_registration/lib/libpcl_omp_registration.so
+[7.812s] Invoked command in '/home/capstone/autoware.ai/build/pcl_omp_registration' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pcl_omp_registration --target install -- -j12 -l12

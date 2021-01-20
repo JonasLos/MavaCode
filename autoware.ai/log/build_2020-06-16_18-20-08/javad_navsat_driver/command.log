@@ -1,0 +1,6 @@
+[0.078s] Invoking command in '/home/capstone/autoware.ai/build/javad_navsat_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver -- -j12 -l12
+[0.409s] Invoked command in '/home/capstone/autoware.ai/build/javad_navsat_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver -- -j12 -l12
+[0.798s] Invoking command in '/home/capstone/autoware.ai/build/javad_navsat_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver --target tests -- -j12 -l12
+[1.307s] Invoked command in '/home/capstone/autoware.ai/build/javad_navsat_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver --target tests -- -j12 -l12
+[1.684s] Invoking command in '/home/capstone/autoware.ai/build/javad_navsat_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver --target install -- -j12 -l12
+[2.378s] Invoked command in '/home/capstone/autoware.ai/build/javad_navsat_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/javad_navsat_driver --target install -- -j12 -l12

@@ -1,0 +1,23 @@
+[0.249s] Invoking command in '/home/capstone/autoware.ai/build/ndt_cpu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu -- -j12 -l12
+[1.400s] [100%] Built target ndt_cpu
+[1.532s] Invoked command in '/home/capstone/autoware.ai/build/ndt_cpu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu -- -j12 -l12
+[2.611s] Invoking command in '/home/capstone/autoware.ai/build/ndt_cpu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu --target tests -- -j12 -l12
+[3.851s] Built target tests
+[3.939s] Invoked command in '/home/capstone/autoware.ai/build/ndt_cpu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu --target tests -- -j12 -l12
+[4.826s] Invoking command in '/home/capstone/autoware.ai/build/ndt_cpu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu --target install -- -j12 -l12
+[5.212s] [100%] Built target ndt_cpu
+[5.342s] [36mInstall the project...[0m
+[5.397s] -- Install configuration: "Release"
+[5.398s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/lib/pkgconfig/ndt_cpu.pc
+[5.399s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/share/ndt_cpu/cmake/ndt_cpuConfig.cmake
+[5.399s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/share/ndt_cpu/cmake/ndt_cpuConfig-version.cmake
+[5.400s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/share/ndt_cpu/package.xml
+[5.400s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/include/ndt_cpu
+[5.400s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/include/ndt_cpu/Registration.h
+[5.400s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/include/ndt_cpu/Octree.h
+[5.401s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/include/ndt_cpu/VoxelGrid.h
+[5.401s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/include/ndt_cpu/SymmetricEigenSolver.h
+[5.401s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/include/ndt_cpu/NormalDistributionsTransform.h
+[5.401s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/include/ndt_cpu/debug.h
+[5.401s] -- Up-to-date: /home/capstone/autoware.ai/install/ndt_cpu/lib/libndt_cpu.so
+[5.411s] Invoked command in '/home/capstone/autoware.ai/build/ndt_cpu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu --target install -- -j12 -l12

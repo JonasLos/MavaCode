@@ -1,0 +1,11 @@
+[0.511s] [100%] Built target rosbag_controller
+[1.918s] Built target tests
+[3.213s] [100%] Built target rosbag_controller
+[3.352s] [36mInstall the project...[0m
+[3.432s] -- Install configuration: "Release"
+[3.435s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/lib/pkgconfig/rosbag_controller.pc
+[3.435s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/cmake/rosbag_controllerConfig.cmake
+[3.435s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/cmake/rosbag_controllerConfig-version.cmake
+[3.436s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/package.xml
+[3.442s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/lib/librosbag_controller.so
+[3.442s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/plugin_description.xml

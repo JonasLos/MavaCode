@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/rosinterface/lib/pkgconfig/rosinterface.pc
+/home/capstone/autoware.ai/install/rosinterface/share/rosinterface/cmake/rosinterfaceConfig.cmake
+/home/capstone/autoware.ai/install/rosinterface/share/rosinterface/cmake/rosinterfaceConfig-version.cmake
+/home/capstone/autoware.ai/install/rosinterface/share/rosinterface/package.xml
+/home/capstone/autoware.ai/install/rosinterface/include/rosinterface/rosinterface.h
+/home/capstone/autoware.ai/install/rosinterface/lib/librosinterface.so

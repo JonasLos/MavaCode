@@ -1,0 +1,171 @@
+[0.656s] -- The C compiler identification is GNU 7.5.0
+[1.009s] -- The CXX compiler identification is GNU 7.5.0
+[1.027s] -- Check for working C compiler: /usr/bin/cc
+[1.642s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.644s] -- Detecting C compiler ABI info
+[2.248s] -- Detecting C compiler ABI info - done
+[2.269s] -- Detecting C compile features
+[3.824s] -- Detecting C compile features - done
+[3.831s] -- Check for working CXX compiler: /usr/bin/c++
+[4.387s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[4.389s] -- Detecting CXX compiler ABI info
+[4.957s] -- Detecting CXX compiler ABI info - done
+[4.987s] -- Detecting CXX compile features
+[7.636s] -- Detecting CXX compile features - done
+[7.652s] -- CUDA compilation status: 1.
+[7.730s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/obj_db/devel
+[7.731s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[7.752s] -- This workspace overlays: /home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[8.013s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[8.014s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[8.015s] -- Using Debian Python package layout
+[8.018s] -- Using empy: /usr/bin/empy
+[8.690s] -- Using CATKIN_ENABLE_TESTING: ON
+[8.691s] -- Call enable_testing()
+[8.760s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/obj_db/test_results
+[8.871s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[8.872s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[8.978s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[8.981s] -- Looking for pthread.h
+[9.506s] -- Looking for pthread.h - found
+[9.510s] -- Looking for pthread_create
+[10.198s] -- Looking for pthread_create - not found
+[10.198s] -- Looking for pthread_create in pthreads
+[10.958s] -- Looking for pthread_create in pthreads - not found
+[10.958s] -- Looking for pthread_create in pthread
+[11.705s] -- Looking for pthread_create in pthread - found
+[11.707s] -- Found Threads: TRUE  
+[11.723s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[11.988s] -- catkin 0.7.23
+[11.988s] -- BUILD_SHARED_LIBS is on
+[14.899s] -- Configuring done
+[15.225s] -- Generating done
+[15.275s] -- Build files have been written to: /home/capstone/autoware.ai/build/obj_db
+[15.856s] [35m[1mScanning dependencies of target obj_db[0m
+[16.055s] [ 11%] [32mBuilding CXX object CMakeFiles/obj_db.dir/lib/obj_db/SendData.cpp.o[0m
+[16.795s] [ 22%] [32mBuilding CXX object CMakeFiles/obj_db.dir/lib/obj_db/util.cpp.o[0m
+[17.356s] [ 33%] [32m[1mLinking CXX shared library devel/lib/libobj_db.so[0m
+[17.627s] [ 33%] Built target obj_db
+[17.715s] [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[17.802s] [ 33%] Built target roscpp_generate_messages_cpp
+[17.965s] [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[18.094s] [ 33%] Built target roscpp_generate_messages_lisp
+[18.198s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[18.321s] [ 33%] Built target rosgraph_msgs_generate_messages_py
+[18.476s] [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[18.607s] [ 33%] Built target roscpp_generate_messages_py
+[18.721s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[18.871s] [ 33%] Built target rosgraph_msgs_generate_messages_eus
+[18.960s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[19.088s] [ 33%] Built target rosgraph_msgs_generate_messages_lisp
+[19.185s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[19.344s] [ 33%] Built target rosgraph_msgs_generate_messages_nodejs
+[19.487s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[19.644s] [ 33%] Built target rosgraph_msgs_generate_messages_cpp
+[19.784s] [35m[1mScanning dependencies of target autoware_can_msgs_generate_messages_eus[0m
+[19.959s] [ 33%] Built target autoware_can_msgs_generate_messages_eus
+[20.119s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[20.225s] [ 33%] Built target visualization_msgs_generate_messages_nodejs
+[20.352s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[20.475s] [ 33%] Built target geometry_msgs_generate_messages_eus
+[20.598s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[20.678s] [ 33%] Built target std_msgs_generate_messages_nodejs
+[20.798s] [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[20.957s] [ 33%] Built target roscpp_generate_messages_nodejs
+[21.103s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[21.220s] [ 33%] Built target std_msgs_generate_messages_cpp
+[21.366s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[21.490s] [ 33%] Built target std_msgs_generate_messages_lisp
+[21.670s] [35m[1mScanning dependencies of target autoware_can_msgs_generate_messages_nodejs[0m
+[21.797s] [ 33%] Built target autoware_can_msgs_generate_messages_nodejs
+[21.926s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[22.122s] [ 33%] Built target visualization_msgs_generate_messages_cpp
+[22.268s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[22.372s] [ 33%] Built target geometry_msgs_generate_messages_cpp
+[22.478s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[22.609s] [ 33%] Built target visualization_msgs_generate_messages_eus
+[22.695s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[22.791s] [ 33%] Built target geometry_msgs_generate_messages_nodejs
+[22.893s] [35m[1mScanning dependencies of target obj_uploader[0m
+[23.004s] [ 44%] [32mBuilding CXX object CMakeFiles/obj_uploader.dir/nodes/obj_uploader/obj_uploader.cpp.o[0m
+[27.815s] [ 55%] [32m[1mLinking CXX executable devel/lib/obj_db/obj_uploader[0m
+[28.259s] [ 55%] Built target obj_uploader
+[28.349s] [35m[1mScanning dependencies of target obj_downloader[0m
+[28.542s] [ 66%] [32mBuilding CXX object CMakeFiles/obj_downloader.dir/nodes/obj_downloader/obj_downloader.cpp.o[0m
+[32.975s] [ 77%] [32m[1mLinking CXX executable devel/lib/obj_db/obj_downloader[0m
+[33.406s] [ 77%] Built target obj_downloader
+[33.503s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[33.614s] [ 77%] Built target std_msgs_generate_messages_py
+[33.715s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[33.867s] [ 77%] Built target visualization_msgs_generate_messages_py
+[33.947s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[34.086s] [ 77%] Built target geometry_msgs_generate_messages_lisp
+[34.234s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[34.373s] [ 77%] Built target geometry_msgs_generate_messages_py
+[34.461s] [35m[1mScanning dependencies of target autoware_can_msgs_generate_messages_py[0m
+[34.546s] [ 77%] Built target autoware_can_msgs_generate_messages_py
+[34.651s] [35m[1mScanning dependencies of target autoware_can_msgs_generate_messages_cpp[0m
+[34.779s] [ 77%] Built target autoware_can_msgs_generate_messages_cpp
+[34.903s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35.018s] [ 77%] Built target std_msgs_generate_messages_eus
+[35.142s] [35m[1mScanning dependencies of target autoware_can_msgs_generate_messages_lisp[0m
+[35.255s] [ 77%] Built target autoware_can_msgs_generate_messages_lisp
+[35.361s] [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35.485s] [ 77%] Built target roscpp_generate_messages_eus
+[35.611s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[35.707s] [ 77%] Built target visualization_msgs_generate_messages_lisp
+[35.840s] [35m[1mScanning dependencies of target can_uploader[0m
+[35.965s] [ 88%] [32mBuilding CXX object CMakeFiles/can_uploader.dir/nodes/can_uploader/can_uploader.cpp.o[0m
+[40.694s] [100%] [32m[1mLinking CXX executable devel/lib/obj_db/can_uploader[0m
+[41.176s] [100%] Built target can_uploader
+[43.009s] [35m[1mScanning dependencies of target tests[0m
+[43.159s] Built target tests
+[45.163s] [ 33%] Built target obj_db
+[45.380s] [ 33%] Built target roscpp_generate_messages_cpp
+[45.580s] [ 33%] Built target roscpp_generate_messages_lisp
+[45.795s] [ 33%] Built target rosgraph_msgs_generate_messages_py
+[46.043s] [ 33%] Built target roscpp_generate_messages_py
+[46.288s] [ 33%] Built target rosgraph_msgs_generate_messages_eus
+[46.543s] [ 33%] Built target rosgraph_msgs_generate_messages_lisp
+[46.733s] [ 33%] Built target rosgraph_msgs_generate_messages_nodejs
+[46.963s] [ 33%] Built target rosgraph_msgs_generate_messages_cpp
+[47.229s] [ 33%] Built target autoware_can_msgs_generate_messages_eus
+[47.493s] [ 33%] Built target visualization_msgs_generate_messages_nodejs
+[47.668s] [ 33%] Built target geometry_msgs_generate_messages_eus
+[47.889s] [ 33%] Built target std_msgs_generate_messages_nodejs
+[48.133s] [ 33%] Built target roscpp_generate_messages_nodejs
+[48.398s] [ 33%] Built target std_msgs_generate_messages_cpp
+[48.674s] [ 33%] Built target std_msgs_generate_messages_lisp
+[48.903s] [ 33%] Built target autoware_can_msgs_generate_messages_nodejs
+[49.108s] [ 33%] Built target visualization_msgs_generate_messages_cpp
+[49.386s] [ 33%] Built target geometry_msgs_generate_messages_cpp
+[49.594s] [ 33%] Built target visualization_msgs_generate_messages_eus
+[49.847s] [ 33%] Built target geometry_msgs_generate_messages_nodejs
+[50.174s] [ 55%] Built target obj_uploader
+[50.501s] [ 77%] Built target obj_downloader
+[50.805s] [ 77%] Built target std_msgs_generate_messages_py
+[51.051s] [ 77%] Built target visualization_msgs_generate_messages_py
+[51.323s] [ 77%] Built target geometry_msgs_generate_messages_lisp
+[51.561s] [ 77%] Built target geometry_msgs_generate_messages_py
+[51.841s] [ 77%] Built target autoware_can_msgs_generate_messages_py
+[52.096s] [ 77%] Built target autoware_can_msgs_generate_messages_cpp
+[52.354s] [ 77%] Built target std_msgs_generate_messages_eus
+[52.626s] [ 77%] Built target autoware_can_msgs_generate_messages_lisp
+[52.835s] [ 77%] Built target roscpp_generate_messages_eus
+[53.112s] [ 77%] Built target visualization_msgs_generate_messages_lisp
+[53.408s] [100%] Built target can_uploader
+[53.612s] [36mInstall the project...[0m
+[53.700s] -- Install configuration: "Release"
+[53.700s] -- Installing: /home/capstone/autoware.ai/install/obj_db/lib/pkgconfig/obj_db.pc
+[53.701s] -- Installing: /home/capstone/autoware.ai/install/obj_db/share/obj_db/cmake/obj_dbConfig.cmake
+[53.702s] -- Installing: /home/capstone/autoware.ai/install/obj_db/share/obj_db/cmake/obj_dbConfig-version.cmake
+[53.704s] -- Installing: /home/capstone/autoware.ai/install/obj_db/share/obj_db/package.xml
+[53.705s] -- Installing: /home/capstone/autoware.ai/install/obj_db/lib/obj_db/can_uploader
+[53.707s] -- Set runtime path of "/home/capstone/autoware.ai/install/obj_db/lib/obj_db/can_uploader" to ""
+[53.708s] -- Installing: /home/capstone/autoware.ai/install/obj_db/lib/obj_db/obj_uploader
+[53.709s] -- Set runtime path of "/home/capstone/autoware.ai/install/obj_db/lib/obj_db/obj_uploader" to ""
+[53.709s] -- Installing: /home/capstone/autoware.ai/install/obj_db/lib/libobj_db.so
+[53.710s] -- Installing: /home/capstone/autoware.ai/install/obj_db/lib/obj_db/obj_downloader
+[53.712s] -- Set runtime path of "/home/capstone/autoware.ai/install/obj_db/lib/obj_db/obj_downloader" to ""
+[53.712s] -- Installing: /home/capstone/autoware.ai/install/obj_db/include/obj_db/include
+[53.720s] -- Installing: /home/capstone/autoware.ai/install/obj_db/include/obj_db/include/obj_db.h

@@ -1,0 +1,7 @@
+[1.283s] Built target tests
+[2.134s] [36mInstall the project...[0m
+[2.191s] -- Install configuration: "Release"
+[2.192s] -- Up-to-date: /home/capstone/autoware.ai/install/vision_segment_enet_detect/lib/pkgconfig/vision_segment_enet_detect.pc
+[2.192s] -- Up-to-date: /home/capstone/autoware.ai/install/vision_segment_enet_detect/share/vision_segment_enet_detect/cmake/vision_segment_enet_detectConfig.cmake
+[2.192s] -- Up-to-date: /home/capstone/autoware.ai/install/vision_segment_enet_detect/share/vision_segment_enet_detect/cmake/vision_segment_enet_detectConfig-version.cmake
+[2.192s] -- Up-to-date: /home/capstone/autoware.ai/install/vision_segment_enet_detect/share/vision_segment_enet_detect/package.xml

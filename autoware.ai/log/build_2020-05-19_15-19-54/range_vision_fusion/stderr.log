@@ -1,0 +1,24 @@
+[81.856s] In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+[81.856s]                  from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model_plane.h:44[m[K,
+[81.856s]                  from [01m[K/usr/include/pcl-1.8/pcl/segmentation/extract_polygonal_prism_data.h:42[m[K,
+[81.856s]                  from [01m[K/opt/ros/melodic/include/jsk_recognition_utils/geo/convex_polygon.h:40[m[K,
+[81.857s]                  from [01m[K/opt/ros/melodic/include/jsk_recognition_utils/geo/cube.h:40[m[K,
+[81.857s]                  from [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/range_vision_fusion/include/range_vision_fusion/range_vision_fusion.h:41[m[K,
+[81.857s]                  from [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/range_vision_fusion/src/range_vision_fusion.cpp:23[m[K:
+[81.857s] [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[81.857s] [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+[81.857s]    [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+[81.858s]    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[81.858s] [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[123.846s] In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+[123.847s]                  from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model_plane.h:44[m[K,
+[123.847s]                  from [01m[K/usr/include/pcl-1.8/pcl/segmentation/extract_polygonal_prism_data.h:42[m[K,
+[123.847s]                  from [01m[K/opt/ros/melodic/include/jsk_recognition_utils/geo/convex_polygon.h:40[m[K,
+[123.847s]                  from [01m[K/opt/ros/melodic/include/jsk_recognition_utils/geo/cube.h:40[m[K,
+[123.848s]                  from [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/range_vision_fusion/include/range_vision_fusion/range_vision_fusion.h:41[m[K,
+[123.848s]                  from [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/range_vision_fusion/src/range_vision_fusion_node.cpp:23[m[K:
+[123.848s] [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[123.848s] [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+[123.848s]    [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+[123.849s]    [01;35m[K^~~~~~~~~~~~~~~[m[K
+[123.849s] [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here

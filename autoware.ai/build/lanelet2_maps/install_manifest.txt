@@ -1,0 +1,10 @@
+/home/capstone/autoware.ai/install/lanelet2_maps/lib/pkgconfig/lanelet2_maps.pc
+/home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/cmake/lanelet2_mapsConfig.cmake
+/home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/cmake/lanelet2_mapsConfig-version.cmake
+/home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/package.xml
+/home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/res/mapping_example.osm
+/home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/lines.mapcss
+/home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/.gitignore
+/home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/lanelets.mapcss
+/home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/laneletpresets.xml
+/home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/style_images.zip

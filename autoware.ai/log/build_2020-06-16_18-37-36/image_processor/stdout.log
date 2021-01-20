@@ -1,0 +1,18 @@
+[0.548s] [ 50%] Built target image_rotator
+[0.706s] [100%] Built target image_rectifier
+[1.694s] Built target tests
+[2.646s] [ 50%] Built target image_rotator
+[2.809s] [100%] Built target image_rectifier
+[2.948s] [36mInstall the project...[0m
+[3.003s] -- Install configuration: "Release"
+[3.004s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/lib/pkgconfig/image_processor.pc
+[3.004s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/share/image_processor/cmake/image_processorConfig.cmake
+[3.004s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/share/image_processor/cmake/image_processorConfig-version.cmake
+[3.005s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/share/image_processor/package.xml
+[3.005s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/lib/image_processor/image_rotator
+[3.006s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/lib/image_processor/image_rectifier
+[3.006s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/share/image_processor/launch/launch
+[3.007s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/share/image_processor/launch/launch/image_rotator.launch
+[3.007s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/share/image_processor/launch/launch/image_rectifier.launch
+[3.007s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/share/image_processor/launch/launch/image_rectifier_ladybug.launch
+[3.007s] -- Up-to-date: /home/capstone/autoware.ai/install/image_processor/share/image_processor/launch/launch/image_rotator_ladybug.launch

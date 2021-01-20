@@ -1,0 +1,8 @@
+[0.048s] Invoking command in '/home/capstone/autoware.ai/build/autoware_build_flags': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/common/autoware_build_flags -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/autoware_build_flags
+[1.509s] Invoked command in '/home/capstone/autoware.ai/build/autoware_build_flags' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/common/autoware_build_flags -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/autoware_build_flags
+[1.511s] Invoking command in '/home/capstone/autoware.ai/build/autoware_build_flags': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags -- -j12 -l12
+[1.669s] Invoked command in '/home/capstone/autoware.ai/build/autoware_build_flags' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags -- -j12 -l12
+[1.847s] Invoking command in '/home/capstone/autoware.ai/build/autoware_build_flags': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags --target tests -- -j12 -l12
+[2.195s] Invoked command in '/home/capstone/autoware.ai/build/autoware_build_flags' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags --target tests -- -j12 -l12
+[2.372s] Invoking command in '/home/capstone/autoware.ai/build/autoware_build_flags': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags --target install -- -j12 -l12
+[2.657s] Invoked command in '/home/capstone/autoware.ai/build/autoware_build_flags' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_build_flags --target install -- -j12 -l12

@@ -1,0 +1,33 @@
+[27.016s] In file included from [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/way_planner_core.h:50:0[m[K,
+[27.016s]                  from [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/nodes/way_planner.cpp:27[m[K:
+[27.017s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/ROSHelpers.h:[m[K In static member function ‘[01m[Kstatic std::vector<std::__cxx11::basic_string<char> > WayPlannerNS::HMI_MSG::SplitString(const string&, const string&)[m[K’:
+[27.017s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/ROSHelpers.h:105:43:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[27.017s]      while (iSecondPart > 0 && [01;35m[KiSecondPart < str.size()[m[K)
+[27.017s]                                [01;35m[K~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[37.871s] In file included from [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/SocketServer.h:19:0[m[K,
+[37.871s]                  from [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/nodes/SocketServer.cpp:8[m[K:
+[37.871s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/ROSHelpers.h:[m[K In static member function ‘[01m[Kstatic std::vector<std::__cxx11::basic_string<char> > WayPlannerNS::HMI_MSG::SplitString(const string&, const string&)[m[K’:
+[37.871s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/ROSHelpers.h:105:43:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[37.872s]      while (iSecondPart > 0 && [01;35m[KiSecondPart < str.size()[m[K)
+[37.872s]                                [01;35m[K~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[47.889s] In file included from [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/nodes/ROSHelpers.cpp:8:0[m[K:
+[47.889s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/ROSHelpers.h:[m[K In static member function ‘[01m[Kstatic std::vector<std::__cxx11::basic_string<char> > WayPlannerNS::HMI_MSG::SplitString(const string&, const string&)[m[K’:
+[47.890s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/ROSHelpers.h:105:43:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[47.890s]      while (iSecondPart > 0 && [01;35m[KiSecondPart < str.size()[m[K)
+[47.890s]                                [01;35m[K~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[61.838s] In file included from [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/way_planner_core.h:50:0[m[K,
+[61.838s]                  from [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/nodes/way_planner_core.cpp:17[m[K:
+[61.838s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/ROSHelpers.h:[m[K In static member function ‘[01m[Kstatic std::vector<std::__cxx11::basic_string<char> > WayPlannerNS::HMI_MSG::SplitString(const string&, const string&)[m[K’:
+[61.838s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/include/ROSHelpers.h:105:43:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[61.839s]      while (iSecondPart > 0 && [01;35m[KiSecondPart < str.size()[m[K)
+[61.839s]                                [01;35m[K~~~~~~~~~~~~^~~~~~~~~~~~[m[K
+[61.927s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/nodes/way_planner_core.cpp:[m[K In member function ‘[01m[Kvoid WayPlannerNS::way_planner_core::PlannerMainLoop()[m[K’:
+[61.928s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/nodes/way_planner_core.cpp:712:72:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[61.928s]  = true && info.iGlobalPath >= 0 &&  [01;35m[Kinfo.iGlobalPath < m_GeneratedTotalPaths.size()[m[K && info.iFront > 0 && info.iFront < m_GeneratedTotalPaths.at(info.iGlobalPath).size())
+[61.928s]                                      [01;35m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[61.928s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/nodes/way_planner_core.cpp:712:137:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[61.929s]  dTotalPaths.size() && info.iFront > 0 && [01;35m[Kinfo.iFront < m_GeneratedTotalPaths.at(info.iGlobalPath).size()[m[K)
+[61.929s]                                           [01;35m[K~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[61.929s] [01m[K/home/capstone/autoware.ai/src/autoware/core_planning/way_planner/nodes/way_planner_core.cpp:718:38:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [[01;35m[K-Wsign-compare[m[K]
+[61.929s]                if([01;35m[Km_iCurrentGoalIndex >= m_GoalsPos.size()[m[K)
+[61.929s]                   [01;35m[K~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~[m[K

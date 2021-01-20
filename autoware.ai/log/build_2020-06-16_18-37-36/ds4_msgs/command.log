@@ -1,0 +1,6 @@
+[0.080s] Invoking command in '/home/capstone/autoware.ai/build/ds4_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs -- -j12 -l12
+[1.325s] Invoked command in '/home/capstone/autoware.ai/build/ds4_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs -- -j12 -l12
+[2.167s] Invoking command in '/home/capstone/autoware.ai/build/ds4_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs --target tests -- -j12 -l12
+[2.904s] Invoked command in '/home/capstone/autoware.ai/build/ds4_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs --target tests -- -j12 -l12
+[4.434s] Invoking command in '/home/capstone/autoware.ai/build/ds4_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs --target install -- -j12 -l12
+[7.129s] Invoked command in '/home/capstone/autoware.ai/build/ds4_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_msgs --target install -- -j12 -l12

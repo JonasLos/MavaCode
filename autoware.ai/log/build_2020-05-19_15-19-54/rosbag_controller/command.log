@@ -1,0 +1,8 @@
+[0.069s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/utilities/rosbag_controller -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/rosbag_controller
+[13.399s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/utilities/rosbag_controller -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/rosbag_controller
+[13.401s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller -- -j12 -l12
+[71.395s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller -- -j12 -l12
+[73.443s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target tests -- -j12 -l12
+[73.963s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target tests -- -j12 -l12
+[76.102s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target install -- -j12 -l12
+[76.789s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target install -- -j12 -l12

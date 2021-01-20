@@ -1,0 +1,7 @@
+[1.871s] Built target tests
+[3.174s] [36mInstall the project...[0m
+[3.230s] -- Install configuration: "Release"
+[3.231s] -- Up-to-date: /home/capstone/autoware.ai/install/vision_ssd_detect/lib/pkgconfig/vision_ssd_detect.pc
+[3.231s] -- Up-to-date: /home/capstone/autoware.ai/install/vision_ssd_detect/share/vision_ssd_detect/cmake/vision_ssd_detectConfig.cmake
+[3.231s] -- Up-to-date: /home/capstone/autoware.ai/install/vision_ssd_detect/share/vision_ssd_detect/cmake/vision_ssd_detectConfig-version.cmake
+[3.231s] -- Up-to-date: /home/capstone/autoware.ai/install/vision_ssd_detect/share/vision_ssd_detect/package.xml

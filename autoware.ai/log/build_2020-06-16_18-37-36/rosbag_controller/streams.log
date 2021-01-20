@@ -1,0 +1,17 @@
+[0.062s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller -- -j12 -l12
+[0.442s] [100%] Built target rosbag_controller
+[0.508s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller -- -j12 -l12
+[1.350s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target tests -- -j12 -l12
+[1.806s] Built target tests
+[1.875s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target tests -- -j12 -l12
+[2.653s] Invoking command in '/home/capstone/autoware.ai/build/rosbag_controller': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target install -- -j12 -l12
+[3.084s] [100%] Built target rosbag_controller
+[3.217s] [36mInstall the project...[0m
+[3.275s] -- Install configuration: "Release"
+[3.275s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/lib/pkgconfig/rosbag_controller.pc
+[3.275s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/cmake/rosbag_controllerConfig.cmake
+[3.276s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/cmake/rosbag_controllerConfig-version.cmake
+[3.276s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/package.xml
+[3.276s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/lib/librosbag_controller.so
+[3.277s] -- Up-to-date: /home/capstone/autoware.ai/install/rosbag_controller/share/rosbag_controller/plugin_description.xml
+[3.290s] Invoked command in '/home/capstone/autoware.ai/build/rosbag_controller' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/rosbag_controller --target install -- -j12 -l12

@@ -1,0 +1,56 @@
+[0.613s] [ 33%] Built target udon
+[0.759s] [ 33%] Built target std_msgs_generate_messages_cpp
+[0.906s] [ 33%] Built target std_msgs_generate_messages_nodejs
+[1.053s] [ 33%] Built target roscpp_generate_messages_nodejs
+[1.247s] [ 33%] Built target tablet_socket_msgs_generate_messages_lisp
+[1.396s] [ 33%] Built target tablet_socket_msgs_generate_messages_nodejs
+[1.545s] [ 33%] Built target std_msgs_generate_messages_py
+[1.687s] [ 33%] Built target tablet_socket_msgs_generate_messages_cpp
+[1.833s] [ 33%] Built target rosgraph_msgs_generate_messages_py
+[1.976s] [ 33%] Built target tablet_socket_msgs_generate_messages_eus
+[2.139s] [ 33%] Built target tablet_socket_msgs_generate_messages_py
+[2.350s] [ 66%] Built target udon_receiver
+[2.493s] [ 66%] Built target rosgraph_msgs_generate_messages_nodejs
+[2.640s] [ 66%] Built target roscpp_generate_messages_lisp
+[2.787s] [ 66%] Built target std_msgs_generate_messages_lisp
+[2.935s] [ 66%] Built target rosgraph_msgs_generate_messages_lisp
+[3.099s] [ 66%] Built target roscpp_generate_messages_py
+[3.296s] [ 66%] Built target roscpp_generate_messages_cpp
+[3.444s] [ 66%] Built target roscpp_generate_messages_eus
+[3.589s] [ 66%] Built target std_msgs_generate_messages_eus
+[3.730s] [ 66%] Built target rosgraph_msgs_generate_messages_eus
+[3.873s] [ 66%] Built target rosgraph_msgs_generate_messages_cpp
+[4.030s] [100%] Built target udon_sender
+[5.011s] Built target tests
+[5.919s] [ 33%] Built target udon
+[6.073s] [ 33%] Built target std_msgs_generate_messages_cpp
+[6.271s] [ 33%] Built target std_msgs_generate_messages_nodejs
+[6.415s] [ 33%] Built target roscpp_generate_messages_nodejs
+[6.556s] [ 33%] Built target tablet_socket_msgs_generate_messages_lisp
+[6.698s] [ 33%] Built target tablet_socket_msgs_generate_messages_nodejs
+[6.849s] [ 33%] Built target std_msgs_generate_messages_py
+[6.993s] [ 33%] Built target tablet_socket_msgs_generate_messages_cpp
+[7.172s] [ 33%] Built target rosgraph_msgs_generate_messages_py
+[7.348s] [ 33%] Built target tablet_socket_msgs_generate_messages_eus
+[7.491s] [ 33%] Built target tablet_socket_msgs_generate_messages_py
+[7.648s] [ 66%] Built target udon_receiver
+[7.792s] [ 66%] Built target rosgraph_msgs_generate_messages_nodejs
+[7.940s] [ 66%] Built target roscpp_generate_messages_lisp
+[8.100s] [ 66%] Built target std_msgs_generate_messages_lisp
+[8.279s] [ 66%] Built target rosgraph_msgs_generate_messages_lisp
+[8.422s] [ 66%] Built target roscpp_generate_messages_py
+[8.565s] [ 66%] Built target roscpp_generate_messages_cpp
+[8.706s] [ 66%] Built target roscpp_generate_messages_eus
+[8.849s] [ 66%] Built target std_msgs_generate_messages_eus
+[8.991s] [ 66%] Built target rosgraph_msgs_generate_messages_eus
+[9.178s] [ 66%] Built target rosgraph_msgs_generate_messages_cpp
+[9.351s] [100%] Built target udon_sender
+[9.485s] [36mInstall the project...[0m
+[9.542s] -- Install configuration: "Release"
+[9.542s] -- Up-to-date: /home/capstone/autoware.ai/install/udon_socket/lib/pkgconfig/udon_socket.pc
+[9.543s] -- Up-to-date: /home/capstone/autoware.ai/install/udon_socket/share/udon_socket/cmake/udon_socketConfig.cmake
+[9.543s] -- Up-to-date: /home/capstone/autoware.ai/install/udon_socket/share/udon_socket/cmake/udon_socketConfig-version.cmake
+[9.543s] -- Up-to-date: /home/capstone/autoware.ai/install/udon_socket/share/udon_socket/package.xml
+[9.543s] -- Up-to-date: /home/capstone/autoware.ai/install/udon_socket/lib/libudon.so
+[9.544s] -- Up-to-date: /home/capstone/autoware.ai/install/udon_socket/lib/udon_socket/udon_receiver
+[9.545s] -- Up-to-date: /home/capstone/autoware.ai/install/udon_socket/lib/udon_socket/udon_sender

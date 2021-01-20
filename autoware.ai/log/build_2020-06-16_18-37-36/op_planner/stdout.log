@@ -1,0 +1,25 @@
+[0.902s] [100%] Built target op_planner
+[2.567s] Built target tests
+[4.208s] [100%] Built target op_planner
+[4.345s] [36mInstall the project...[0m
+[4.403s] -- Install configuration: "Release"
+[4.404s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/lib/pkgconfig/op_planner.pc
+[4.404s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/share/op_planner/cmake/op_plannerConfig.cmake
+[4.404s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/share/op_planner/cmake/op_plannerConfig-version.cmake
+[4.405s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/share/op_planner/package.xml
+[4.405s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner
+[4.406s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/DecisionMaker.h
+[4.406s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/BehaviorPrediction.h
+[4.406s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/PlanningHelpers.h
+[4.407s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/MappingHelpers.h
+[4.407s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/PassiveDecisionMaker.h
+[4.407s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/SimuDecisionMaker.h
+[4.408s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/PlannerCommonDef.h
+[4.408s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/TrajectoryDynamicCosts.h
+[4.408s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/PlannerH.h
+[4.409s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/LocalPlannerH.h
+[4.409s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/TrajectoryCosts.h
+[4.409s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/RoadNetwork.h
+[4.410s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/MatrixOperations.h
+[4.410s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/include/op_planner/BehaviorStateMachine.h
+[4.411s] -- Up-to-date: /home/capstone/autoware.ai/install/op_planner/lib/libop_planner.so

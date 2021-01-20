@@ -1,0 +1,8 @@
+/home/capstone/autoware.ai/install/libwaypoint_follower/lib/pkgconfig/libwaypoint_follower.pc
+/home/capstone/autoware.ai/install/libwaypoint_follower/share/libwaypoint_follower/cmake/libwaypoint_followerConfig.cmake
+/home/capstone/autoware.ai/install/libwaypoint_follower/share/libwaypoint_follower/cmake/libwaypoint_followerConfig-version.cmake
+/home/capstone/autoware.ai/install/libwaypoint_follower/share/libwaypoint_follower/package.xml
+/home/capstone/autoware.ai/install/libwaypoint_follower/lib/liblibwaypoint_follower.so
+/home/capstone/autoware.ai/install/libwaypoint_follower/include/libwaypoint_follower/test_libwaypoint_follower.h
+/home/capstone/autoware.ai/install/libwaypoint_follower/include/libwaypoint_follower/libwaypoint_follower.h
+/home/capstone/autoware.ai/install/libwaypoint_follower/include/libwaypoint_follower/pure_pursuit.h

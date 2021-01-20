@@ -1,0 +1,28 @@
+[77.047s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:[m[K In member function ‘[01m[Kautoware_health_checker::ErrorLevel autoware_health_checker::HealthChecker::CHECK_MIN_VALUE(const ErrorKey&, double, double, double, double, const string&)[m[K’:
+[77.048s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:198:32:[m[K [01;35m[Kwarning: [m[Kcapture of variable ‘[01m[Kthresh_type[m[K’ with non-automatic storage duration
+[77.048s]    auto identify = [key, value, [01;35m[Kthresh_type[m[K, this](ErrorLevel level)
+[77.048s]                                 [01;35m[K^~~~~~~~~~~[m[K
+[77.049s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:195:27:[m[K [01;36m[Knote: [m[K‘[01m[Kconst ThreshType thresh_type[m[K’ declared here
+[77.049s]    static const ThreshType [01;36m[Kthresh_type[m[K = "min";
+[77.049s]                            [01;36m[K^~~~~~~~~~~[m[K
+[77.053s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:[m[K In member function ‘[01m[Kautoware_health_checker::ErrorLevel autoware_health_checker::HealthChecker::CHECK_MAX_VALUE(const ErrorKey&, double, double, double, double, const string&)[m[K’:
+[77.053s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:223:32:[m[K [01;35m[Kwarning: [m[Kcapture of variable ‘[01m[Kthresh_type[m[K’ with non-automatic storage duration
+[77.054s]    auto identify = [key, value, [01;35m[Kthresh_type[m[K, this](ErrorLevel level)
+[77.054s]                                 [01;35m[K^~~~~~~~~~~[m[K
+[77.055s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:220:27:[m[K [01;36m[Knote: [m[K‘[01m[Kconst ThreshType thresh_type[m[K’ declared here
+[77.056s]    static const ThreshType [01;36m[Kthresh_type[m[K = "max";
+[77.056s]                            [01;36m[K^~~~~~~~~~~[m[K
+[175.175s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:[m[K In member function ‘[01m[Kautoware_health_checker::ErrorLevel autoware_health_checker::HealthChecker::CHECK_MIN_VALUE(const ErrorKey&, double, double, double, double, const string&)[m[K’:
+[175.175s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:198:32:[m[K [01;35m[Kwarning: [m[Kcapture of variable ‘[01m[Kthresh_type[m[K’ with non-automatic storage duration
+[175.175s]    auto identify = [key, value, [01;35m[Kthresh_type[m[K, this](ErrorLevel level)
+[175.175s]                                 [01;35m[K^~~~~~~~~~~[m[K
+[175.176s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:195:27:[m[K [01;36m[Knote: [m[K‘[01m[Kconst ThreshType thresh_type[m[K’ declared here
+[175.176s]    static const ThreshType [01;36m[Kthresh_type[m[K = "min";
+[175.176s]                            [01;36m[K^~~~~~~~~~~[m[K
+[175.178s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:[m[K In member function ‘[01m[Kautoware_health_checker::ErrorLevel autoware_health_checker::HealthChecker::CHECK_MAX_VALUE(const ErrorKey&, double, double, double, double, const string&)[m[K’:
+[175.178s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:223:32:[m[K [01;35m[Kwarning: [m[Kcapture of variable ‘[01m[Kthresh_type[m[K’ with non-automatic storage duration
+[175.178s]    auto identify = [key, value, [01;35m[Kthresh_type[m[K, this](ErrorLevel level)
+[175.178s]                                 [01;35m[K^~~~~~~~~~~[m[K
+[175.179s] [01m[K/home/capstone/autoware.ai/src/autoware/common/autoware_health_checker/src/health_checker/health_checker.cpp:220:27:[m[K [01;36m[Knote: [m[K‘[01m[Kconst ThreshType thresh_type[m[K’ declared here
+[175.179s]    static const ThreshType [01;36m[Kthresh_type[m[K = "max";
+[175.179s]                            [01;36m[K^~~~~~~~~~~[m[K

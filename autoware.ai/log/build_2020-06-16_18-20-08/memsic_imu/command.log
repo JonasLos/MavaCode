@@ -1,0 +1,6 @@
+[0.070s] Invoking command in '/home/capstone/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu -- -j12 -l12
+[0.496s] Invoked command in '/home/capstone/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu -- -j12 -l12
+[1.254s] Invoking command in '/home/capstone/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target tests -- -j12 -l12
+[1.760s] Invoked command in '/home/capstone/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target tests -- -j12 -l12
+[2.406s] Invoking command in '/home/capstone/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target install -- -j12 -l12
+[2.995s] Invoked command in '/home/capstone/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/memsic_imu --target install -- -j12 -l12

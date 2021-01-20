@@ -1,0 +1,19 @@
+[0.432s] [ 76%] Built target microstrain_driver
+[0.645s] [ 88%] Built target 3dm_gx5_45_node
+[0.810s] [100%] Built target 3dm_gx5_15_node
+[2.332s] Built target tests
+[3.857s] [ 76%] Built target microstrain_driver
+[4.015s] [ 88%] Built target 3dm_gx5_45_node
+[4.179s] [100%] Built target 3dm_gx5_15_node
+[4.314s] [36mInstall the project...[0m
+[4.369s] -- Install configuration: "Release"
+[4.370s] -- Up-to-date: /home/capstone/autoware.ai/install/microstrain_driver/lib/pkgconfig/microstrain_driver.pc
+[4.370s] -- Up-to-date: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/cmake/microstrain_driverConfig.cmake
+[4.370s] -- Up-to-date: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/cmake/microstrain_driverConfig-version.cmake
+[4.370s] -- Up-to-date: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/package.xml
+[4.371s] -- Up-to-date: /home/capstone/autoware.ai/install/microstrain_driver/lib/libmicrostrain_driver.so
+[4.373s] -- Up-to-date: /home/capstone/autoware.ai/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_15_node
+[4.374s] -- Up-to-date: /home/capstone/autoware.ai/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_45_node
+[4.374s] -- Up-to-date: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch
+[4.375s] -- Up-to-date: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch/3dm_gx5_15.launch
+[4.375s] -- Up-to-date: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch/microstrain.launch

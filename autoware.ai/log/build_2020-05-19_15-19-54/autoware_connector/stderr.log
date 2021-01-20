@@ -1,0 +1,43 @@
+[30.535s] In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40:0[m[K,
+[30.535s]                  from [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/autoware_connector/nodes/can_odometry/can_odometry_node.cpp:18[m[K:
+[30.535s] [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/autoware_connector/nodes/can_odometry/can_odometry_core.h:[m[K In member function ‘[01m[Kvoid autoware_connector::Odometry::updateOdometry(double, double, const ros::Time&)[m[K’:
+[30.536s] [01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%f[m[K’ expects a matching ‘[01m[Kdouble[m[K’ argument [[01;35m[K-Wformat=[m[K]
+[30.536s]  evel_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+[30.536s]                                                                 [01;35m[K^[m[K
+[30.536s] [01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+[30.536s]      [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+[30.536s]      [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[30.537s] [01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+[30.537s]        [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+[30.537s]        [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[30.537s] [01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+[30.537s]  #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+[30.537s]                                    [01;36m[K^~~~~~~~~~~~[m[K
+[30.537s] [01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+[30.538s]  #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[30.538s]                        [01;36m[K^~~~~~~[m[K
+[30.538s] [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/autoware_connector/nodes/can_odometry/can_odometry_core.h:60:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+[30.538s]      [01;36m[KR[m[KOS_INFO("dt : %f delta (x y th) : (%f %f %f %f)", dt, delta_x, delta_y, delta_th);
+[30.538s]      [01;36m[K^[m[K
+[35.696s] In file included from [01m[K/opt/ros/melodic/include/ros/ros.h:40:0[m[K,
+[35.697s]                  from [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/autoware_connector/nodes/can_odometry/can_odometry_core.h:23[m[K,
+[35.697s]                  from [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/autoware_connector/nodes/can_odometry/can_odometry_core.cpp:17[m[K:
+[35.697s] [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/autoware_connector/nodes/can_odometry/can_odometry_core.h:[m[K In member function ‘[01m[Kvoid autoware_connector::Odometry::updateOdometry(double, double, const ros::Time&)[m[K’:
+[35.698s] [01m[K/opt/ros/melodic/include/ros/console.h:348:176:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%f[m[K’ expects a matching ‘[01m[Kdouble[m[K’ argument [[01;35m[K-Wformat=[m[K]
+[35.698s]  evel_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__[01;35m[K)[m[K
+[35.698s]                                                                 [01;35m[K^[m[K
+[35.698s] [01m[K/opt/ros/melodic/include/ros/console.h:351:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+[35.699s]      [01;36m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K(NULL, __VA_ARGS__)
+[35.699s]      [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[35.699s] [01m[K/opt/ros/melodic/include/ros/console.h:387:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+[35.699s]        [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+[35.700s]        [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[35.700s] [01m[K/opt/ros/melodic/include/ros/console.h:572:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+[35.700s]  #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+[35.700s]                                    [01;36m[K^~~~~~~~~~~~[m[K
+[35.700s] [01m[K/opt/ros/melodic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+[35.701s]  #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+[35.701s]                        [01;36m[K^~~~~~~[m[K
+[35.701s] [01m[K/home/capstone/autoware.ai/src/autoware/core_perception/autoware_connector/nodes/can_odometry/can_odometry_core.h:60:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+[35.701s]      [01;36m[KR[m[KOS_INFO("dt : %f delta (x y th) : (%f %f %f %f)", dt, delta_x, delta_y, delta_th);
+[35.701s]      [01;36m[K^[m[K

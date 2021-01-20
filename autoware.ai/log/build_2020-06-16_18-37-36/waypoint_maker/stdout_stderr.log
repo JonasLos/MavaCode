@@ -1,0 +1,218 @@
+[1.869s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[2.013s] [  0%] Built target nav_msgs_generate_messages_eus
+[2.156s] [  0%] Built target visualization_msgs_generate_messages_eus
+[2.304s] [  0%] Built target nav_msgs_generate_messages_cpp
+[2.521s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[2.663s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[2.806s] [  0%] Built target tf2_msgs_generate_messages_py
+[2.948s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[3.094s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[3.243s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[3.449s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[3.595s] [  0%] Built target actionlib_generate_messages_py
+[3.739s] [  0%] Built target actionlib_generate_messages_nodejs
+[3.879s] [  0%] Built target actionlib_generate_messages_cpp
+[4.022s] [  0%] Built target tablet_socket_msgs_generate_messages_py
+[4.165s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[4.317s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[4.510s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[4.657s] [  0%] Built target tf_generate_messages_cpp
+[4.801s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[4.944s] [  0%] Built target std_msgs_generate_messages_py
+[5.087s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[5.232s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[5.446s] [  0%] Built target autoware_msgs_generate_messages_eus
+[5.590s] [  0%] Built target std_msgs_generate_messages_nodejs
+[5.736s] [  0%] Built target geometry_msgs_generate_messages_eus
+[5.884s] [  0%] Built target std_msgs_generate_messages_cpp
+[6.026s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[6.176s] [  0%] Built target geometry_msgs_generate_messages_py
+[6.355s] [  0%] Built target tf2_msgs_generate_messages_eus
+[6.541s] [  0%] Built target sensor_msgs_generate_messages_py
+[6.690s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[6.834s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[6.974s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[7.119s] [  0%] Built target tf_generate_messages_eus
+[7.265s] [  0%] Built target autoware_msgs_generate_messages_py
+[7.458s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[7.608s] [  0%] Built target visualization_msgs_generate_messages_cpp
+[7.757s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[7.901s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[8.047s] [  0%] Built target sensor_msgs_generate_messages_eus
+[8.190s] [  0%] Built target roscpp_generate_messages_cpp
+[8.346s] [  0%] Built target visualization_msgs_generate_messages_py
+[8.554s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[8.696s] [  0%] Built target nav_msgs_generate_messages_nodejs
+[8.836s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[8.979s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[9.128s] [  0%] Built target tablet_socket_msgs_generate_messages_cpp
+[9.274s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[9.454s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[9.601s] [  0%] Built target std_msgs_generate_messages_lisp
+[9.746s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[9.889s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[10.035s] [  0%] Built target actionlib_generate_messages_lisp
+[10.177s] [  0%] Built target _catkin_empty_exported_target
+[10.343s] [  0%] Built target roscpp_generate_messages_lisp
+[10.528s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[10.677s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[10.820s] [  0%] Built target pcl_msgs_generate_messages_eus
+[10.967s] [  0%] Built target vector_map_msgs_generate_messages_lisp
+[11.114s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[11.259s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[11.432s] [  0%] Built target pcl_msgs_generate_messages_py
+[11.629s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[11.776s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[11.919s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[12.064s] [  0%] Built target actionlib_msgs_generate_messages_py
+[12.208s] [  0%] Built target nav_msgs_generate_messages_py
+[12.402s] [  0%] Built target tf_generate_messages_lisp
+[12.593s] [  0%] Built target tf_generate_messages_nodejs
+[12.744s] [  0%] Built target std_msgs_generate_messages_eus
+[12.891s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[13.033s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[13.182s] [  0%] Built target tf_generate_messages_py
+[13.333s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[13.531s] [  0%] Built target roscpp_generate_messages_py
+[13.677s] [  0%] Built target roscpp_generate_messages_eus
+[13.821s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[13.966s] [  0%] Built target roscpp_generate_messages_nodejs
+[14.111s] [  0%] Built target actionlib_generate_messages_eus
+[14.257s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[14.443s] [ 10%] Built target waypoint_clicker
+[14.594s] [ 10%] Built target vector_map_msgs_generate_messages_eus
+[14.739s] [ 10%] Built target nav_msgs_generate_messages_lisp
+[14.883s] [ 10%] Built target tablet_socket_msgs_generate_messages_eus
+[15.025s] [ 10%] Built target tablet_socket_msgs_generate_messages_lisp
+[15.169s] [ 10%] Built target tablet_socket_msgs_generate_messages_nodejs
+[15.341s] [ 10%] Built target visualization_msgs_generate_messages_lisp
+[15.542s] [ 10%] Built target visualization_msgs_generate_messages_nodejs
+[15.685s] [ 10%] Built target vector_map_msgs_generate_messages_cpp
+[15.826s] [ 10%] Built target vector_map_msgs_generate_messages_nodejs
+[15.971s] [ 10%] Built target vector_map_msgs_generate_messages_py
+[16.130s] [ 20%] Built target waypoint_marker_publisher
+[16.306s] [ 40%] Built target waypoint_creator
+[16.504s] [ 55%] Built target waypoint_loader
+[16.665s] [ 65%] Built target waypoint_extractor
+[16.828s] [ 75%] Built target waypoint_velocity_visualizer
+[16.986s] [ 90%] Built target waypoint_replanner
+[17.145s] [100%] Built target waypoint_saver
+[19.007s] Built target tests
+[20.767s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[20.916s] [  0%] Built target nav_msgs_generate_messages_eus
+[21.060s] [  0%] Built target visualization_msgs_generate_messages_eus
+[21.201s] [  0%] Built target nav_msgs_generate_messages_cpp
+[21.355s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[21.549s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[21.689s] [  0%] Built target tf2_msgs_generate_messages_py
+[21.837s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[21.978s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[22.119s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[22.262s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[22.479s] [  0%] Built target actionlib_generate_messages_py
+[22.620s] [  0%] Built target actionlib_generate_messages_nodejs
+[22.767s] [  0%] Built target actionlib_generate_messages_cpp
+[22.909s] [  0%] Built target tablet_socket_msgs_generate_messages_py
+[23.053s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[23.196s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[23.350s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[23.524s] [  0%] Built target tf_generate_messages_cpp
+[23.667s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[23.809s] [  0%] Built target std_msgs_generate_messages_py
+[23.953s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[24.094s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[24.240s] [  0%] Built target autoware_msgs_generate_messages_eus
+[24.432s] [  0%] Built target std_msgs_generate_messages_nodejs
+[24.579s] [  0%] Built target geometry_msgs_generate_messages_eus
+[24.724s] [  0%] Built target std_msgs_generate_messages_cpp
+[24.868s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[25.012s] [  0%] Built target geometry_msgs_generate_messages_py
+[25.154s] [  0%] Built target tf2_msgs_generate_messages_eus
+[25.300s] [  0%] Built target sensor_msgs_generate_messages_py
+[25.497s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[25.638s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[25.789s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[25.930s] [  0%] Built target tf_generate_messages_eus
+[26.076s] [  0%] Built target autoware_msgs_generate_messages_py
+[26.222s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[26.406s] [  0%] Built target visualization_msgs_generate_messages_cpp
+[26.590s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[26.732s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[26.876s] [  0%] Built target sensor_msgs_generate_messages_eus
+[27.022s] [  0%] Built target roscpp_generate_messages_cpp
+[27.166s] [  0%] Built target visualization_msgs_generate_messages_py
+[27.324s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[27.534s] [  0%] Built target nav_msgs_generate_messages_nodejs
+[27.687s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[27.829s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[27.975s] [  0%] Built target tablet_socket_msgs_generate_messages_cpp
+[28.120s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[28.266s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[28.439s] [  0%] Built target std_msgs_generate_messages_lisp
+[28.595s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[28.743s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[28.889s] [  0%] Built target actionlib_generate_messages_lisp
+[29.037s] [  0%] Built target _catkin_empty_exported_target
+[29.185s] [  0%] Built target roscpp_generate_messages_lisp
+[29.356s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[29.519s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[29.665s] [  0%] Built target pcl_msgs_generate_messages_eus
+[29.811s] [  0%] Built target vector_map_msgs_generate_messages_lisp
+[29.956s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[30.102s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[30.249s] [  0%] Built target pcl_msgs_generate_messages_py
+[30.425s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[30.584s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[30.730s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[30.875s] [  0%] Built target actionlib_msgs_generate_messages_py
+[31.018s] [  0%] Built target nav_msgs_generate_messages_py
+[31.162s] [  0%] Built target tf_generate_messages_lisp
+[31.315s] [  0%] Built target tf_generate_messages_nodejs
+[31.510s] [  0%] Built target std_msgs_generate_messages_eus
+[31.654s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[31.799s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[31.943s] [  0%] Built target tf_generate_messages_py
+[32.088s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[32.235s] [  0%] Built target roscpp_generate_messages_py
+[32.426s] [  0%] Built target roscpp_generate_messages_eus
+[32.593s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[32.734s] [  0%] Built target roscpp_generate_messages_nodejs
+[32.877s] [  0%] Built target actionlib_generate_messages_eus
+[33.020s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[33.182s] [ 10%] Built target waypoint_clicker
+[33.339s] [ 10%] Built target vector_map_msgs_generate_messages_eus
+[33.564s] [ 10%] Built target nav_msgs_generate_messages_lisp
+[33.709s] [ 10%] Built target tablet_socket_msgs_generate_messages_eus
+[33.851s] [ 10%] Built target tablet_socket_msgs_generate_messages_lisp
+[33.993s] [ 10%] Built target tablet_socket_msgs_generate_messages_nodejs
+[34.137s] [ 10%] Built target visualization_msgs_generate_messages_lisp
+[34.280s] [ 10%] Built target visualization_msgs_generate_messages_nodejs
+[34.485s] [ 10%] Built target vector_map_msgs_generate_messages_cpp
+[34.649s] [ 10%] Built target vector_map_msgs_generate_messages_nodejs
+[34.794s] [ 10%] Built target vector_map_msgs_generate_messages_py
+[34.959s] [ 20%] Built target waypoint_marker_publisher
+[35.118s] [ 40%] Built target waypoint_creator
+[35.271s] [ 55%] Built target waypoint_loader
+[35.471s] [ 65%] Built target waypoint_extractor
+[35.631s] [ 75%] Built target waypoint_velocity_visualizer
+[35.788s] [ 90%] Built target waypoint_replanner
+[35.935s] [100%] Built target waypoint_saver
+[36.057s] [36mInstall the project...[0m
+[36.113s] -- Install configuration: "Release"
+[36.113s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/lib/pkgconfig/waypoint_maker.pc
+[36.114s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/cmake/waypoint_makerConfig.cmake
+[36.114s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/cmake/waypoint_makerConfig-version.cmake
+[36.114s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/package.xml
+[36.114s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_loader
+[36.115s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_replanner
+[36.116s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_saver
+[36.117s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_clicker
+[36.118s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_marker_publisher
+[36.119s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_velocity_visualizer
+[36.120s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_extractor
+[36.121s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/lib/waypoint_maker/waypoint_creator
+[36.121s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/launch
+[36.122s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/launch/waypoint_velocity_visualizer.launch
+[36.122s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/launch/waypoint_saver.launch
+[36.122s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/launch/waypoint_loader.launch
+[36.122s] -- Up-to-date: /home/capstone/autoware.ai/install/waypoint_maker/share/waypoint_maker/launch/waypoint_creator.launch

@@ -1,0 +1,15 @@
+[0.641s] [ 25%] [34m[1mAutomatic MOC for target decision_maker_panel[0m
+[0.807s] [ 25%] Built target decision_maker_panel_autogen
+[0.977s] [100%] Built target decision_maker_panel
+[2.455s] Built target tests
+[3.926s] [ 25%] [34m[1mAutomatic MOC for target decision_maker_panel[0m
+[4.049s] [ 25%] Built target decision_maker_panel_autogen
+[4.218s] [100%] Built target decision_maker_panel
+[4.360s] [36mInstall the project...[0m
+[4.416s] -- Install configuration: "Release"
+[4.417s] -- Up-to-date: /home/capstone/autoware.ai/install/decision_maker_panel/lib/pkgconfig/decision_maker_panel.pc
+[4.417s] -- Up-to-date: /home/capstone/autoware.ai/install/decision_maker_panel/share/decision_maker_panel/cmake/decision_maker_panelConfig.cmake
+[4.417s] -- Up-to-date: /home/capstone/autoware.ai/install/decision_maker_panel/share/decision_maker_panel/cmake/decision_maker_panelConfig-version.cmake
+[4.418s] -- Up-to-date: /home/capstone/autoware.ai/install/decision_maker_panel/share/decision_maker_panel/package.xml
+[4.418s] -- Up-to-date: /home/capstone/autoware.ai/install/decision_maker_panel/lib/libdecision_maker_panel.so
+[4.418s] -- Up-to-date: /home/capstone/autoware.ai/install/decision_maker_panel/share/decision_maker_panel/plugin_description.xml

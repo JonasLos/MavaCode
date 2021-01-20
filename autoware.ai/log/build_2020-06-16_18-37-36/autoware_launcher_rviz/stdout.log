@@ -1,0 +1,14 @@
+[0.524s] [100%] Built target autoware_launcher_rviz
+[1.921s] Built target tests
+[3.141s] [100%] Built target autoware_launcher_rviz
+[3.279s] [36mInstall the project...[0m
+[3.334s] -- Install configuration: "Release"
+[3.335s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_launcher_rviz/lib/pkgconfig/autoware_launcher_rviz.pc
+[3.335s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_launcher_rviz/share/autoware_launcher_rviz/cmake/autoware_launcher_rvizConfig.cmake
+[3.335s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_launcher_rviz/share/autoware_launcher_rviz/cmake/autoware_launcher_rvizConfig-version.cmake
+[3.335s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_launcher_rviz/share/autoware_launcher_rviz/package.xml
+[3.336s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_launcher_rviz/lib/libautoware_launcher_rviz.so
+[3.337s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_launcher_rviz/share/autoware_launcher_rviz/plugin_description.xml
+[3.337s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_launcher_rviz/share/autoware_launcher_rviz/icons/icons
+[3.337s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_launcher_rviz/share/autoware_launcher_rviz/icons/icons/classes
+[3.337s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_launcher_rviz/share/autoware_launcher_rviz/icons/icons/classes/ModulePanel.png

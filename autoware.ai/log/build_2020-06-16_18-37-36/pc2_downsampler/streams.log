@@ -1,0 +1,14 @@
+[0.067s] Invoking command in '/home/capstone/autoware.ai/build/pc2_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler -- -j12 -l12
+[0.329s] Invoked command in '/home/capstone/autoware.ai/build/pc2_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler -- -j12 -l12
+[0.775s] Invoking command in '/home/capstone/autoware.ai/build/pc2_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler --target tests -- -j12 -l12
+[1.196s] Built target tests
+[1.259s] Invoked command in '/home/capstone/autoware.ai/build/pc2_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler --target tests -- -j12 -l12
+[1.718s] Invoking command in '/home/capstone/autoware.ai/build/pc2_downsampler': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler --target install -- -j12 -l12
+[2.044s] [36mInstall the project...[0m
+[2.101s] -- Install configuration: "Release"
+[2.101s] -- Up-to-date: /home/capstone/autoware.ai/install/pc2_downsampler/lib/pkgconfig/pc2_downsampler.pc
+[2.102s] -- Up-to-date: /home/capstone/autoware.ai/install/pc2_downsampler/share/pc2_downsampler/cmake/pc2_downsamplerConfig.cmake
+[2.102s] -- Up-to-date: /home/capstone/autoware.ai/install/pc2_downsampler/share/pc2_downsampler/cmake/pc2_downsamplerConfig-version.cmake
+[2.102s] -- Up-to-date: /home/capstone/autoware.ai/install/pc2_downsampler/share/pc2_downsampler/package.xml
+[2.102s] -- Up-to-date: /home/capstone/autoware.ai/install/pc2_downsampler/lib/pc2_downsampler/app.py
+[2.112s] Invoked command in '/home/capstone/autoware.ai/build/pc2_downsampler' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/pc2_downsampler --target install -- -j12 -l12

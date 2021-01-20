@@ -1,0 +1,6 @@
+[0.061s] Invoking command in '/home/capstone/autoware.ai/build/microstrain_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/microstrain_driver -- -j12 -l12
+[0.875s] Invoked command in '/home/capstone/autoware.ai/build/microstrain_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/microstrain_driver -- -j12 -l12
+[1.913s] Invoking command in '/home/capstone/autoware.ai/build/microstrain_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/microstrain_driver --target tests -- -j12 -l12
+[2.392s] Invoked command in '/home/capstone/autoware.ai/build/microstrain_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/microstrain_driver --target tests -- -j12 -l12
+[3.395s] Invoking command in '/home/capstone/autoware.ai/build/microstrain_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/microstrain_driver --target install -- -j12 -l12
+[4.383s] Invoked command in '/home/capstone/autoware.ai/build/microstrain_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/microstrain_driver --target install -- -j12 -l12

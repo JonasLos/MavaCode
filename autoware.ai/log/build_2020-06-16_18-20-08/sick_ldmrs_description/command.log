@@ -1,0 +1,6 @@
+[0.174s] Invoking command in '/home/capstone/autoware.ai/build/sick_ldmrs_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_ldmrs_description -- -j12 -l12
+[0.996s] Invoked command in '/home/capstone/autoware.ai/build/sick_ldmrs_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_ldmrs_description -- -j12 -l12
+[2.494s] Invoking command in '/home/capstone/autoware.ai/build/sick_ldmrs_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_ldmrs_description --target tests -- -j12 -l12
+[3.296s] Invoked command in '/home/capstone/autoware.ai/build/sick_ldmrs_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_ldmrs_description --target tests -- -j12 -l12
+[3.810s] Invoking command in '/home/capstone/autoware.ai/build/sick_ldmrs_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_ldmrs_description --target install -- -j12 -l12
+[4.368s] Invoked command in '/home/capstone/autoware.ai/build/sick_ldmrs_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/sick_ldmrs_description --target install -- -j12 -l12

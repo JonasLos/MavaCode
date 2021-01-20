@@ -1,0 +1,6 @@
+[0.110s] Invoking command in '/home/capstone/autoware.ai/build/tablet_socket_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/tablet_socket_msgs -- -j12 -l12
+[3.403s] Invoked command in '/home/capstone/autoware.ai/build/tablet_socket_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/tablet_socket_msgs -- -j12 -l12
+[5.173s] Invoking command in '/home/capstone/autoware.ai/build/tablet_socket_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/tablet_socket_msgs --target tests -- -j12 -l12
+[5.963s] Invoked command in '/home/capstone/autoware.ai/build/tablet_socket_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/tablet_socket_msgs --target tests -- -j12 -l12
+[6.628s] Invoking command in '/home/capstone/autoware.ai/build/tablet_socket_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/tablet_socket_msgs --target install -- -j12 -l12
+[8.248s] Invoked command in '/home/capstone/autoware.ai/build/tablet_socket_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/tablet_socket_msgs --target install -- -j12 -l12

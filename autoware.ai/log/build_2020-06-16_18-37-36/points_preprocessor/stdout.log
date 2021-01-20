@@ -1,0 +1,240 @@
+[0.801s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[0.949s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[1.161s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[1.306s] [  0%] Built target pcl_msgs_generate_messages_eus
+[1.448s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[1.591s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[1.732s] [  0%] Built target velodyne_driver_gencfg
+[1.886s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[2.090s] [  0%] Built target velodyne_msgs_generate_messages_nodejs
+[2.235s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[2.381s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[2.526s] [  0%] Built target std_msgs_generate_messages_lisp
+[2.671s] [  0%] Built target std_srvs_generate_messages_cpp
+[2.819s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[3.010s] [  0%] Built target actionlib_generate_messages_eus
+[3.162s] [  0%] Built target std_msgs_generate_messages_cpp
+[3.306s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[3.448s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[3.595s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[3.744s] [  0%] Built target sensor_msgs_generate_messages_eus
+[3.901s] [  0%] Built target nodelet_topic_tools_gencfg
+[4.081s] [  0%] Built target bond_generate_messages_eus
+[4.232s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[4.374s] [  0%] Built target tf2_msgs_generate_messages_py
+[4.521s] [  0%] Built target roscpp_generate_messages_py
+[4.673s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[4.825s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[5.044s] [  0%] Built target nodelet_generate_messages_cpp
+[5.189s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[5.331s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[5.476s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[5.621s] [  0%] Built target tf_generate_messages_eus
+[5.772s] [  0%] Built target actionlib_generate_messages_lisp
+[5.978s] [  0%] Built target nodelet_generate_messages_lisp
+[6.133s] [  0%] Built target std_msgs_generate_messages_nodejs
+[6.282s] [  0%] Built target geometry_msgs_generate_messages_eus
+[6.432s] [  0%] Built target roscpp_generate_messages_eus
+[6.576s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[6.723s] [  0%] Built target dynamic_reconfigure_gencfg
+[6.874s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[7.071s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[7.217s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[7.369s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[7.520s] [  0%] Built target sensor_msgs_generate_messages_py
+[7.668s] [  0%] Built target tf2_msgs_generate_messages_eus
+[7.813s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[8.005s] [  0%] Built target std_srvs_generate_messages_eus
+[8.149s] [  0%] Built target std_msgs_generate_messages_py
+[8.295s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[8.442s] [  0%] Built target roscpp_generate_messages_lisp
+[8.586s] [  0%] Built target std_srvs_generate_messages_lisp
+[8.737s] [  0%] Built target std_msgs_generate_messages_eus
+[8.881s] [  0%] Built target tf_generate_messages_py
+[9.058s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[9.214s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[9.356s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[9.505s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[9.647s] [  0%] Built target topic_tools_generate_messages_cpp
+[9.793s] [  0%] Built target pcl_ros_gencfg
+[9.977s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[10.121s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[10.264s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[10.408s] [  0%] Built target roscpp_generate_messages_cpp
+[10.555s] [  0%] Built target bond_generate_messages_lisp
+[10.710s] [  0%] Built target bond_generate_messages_nodejs
+[10.854s] [  0%] Built target bond_generate_messages_py
+[11.060s] [  0%] Built target topic_tools_generate_messages_eus
+[11.203s] [  0%] Built target geometry_msgs_generate_messages_py
+[11.345s] [  0%] Built target topic_tools_generate_messages_lisp
+[11.487s] [  0%] Built target topic_tools_generate_messages_nodejs
+[11.638s] [  0%] Built target tf_generate_messages_cpp
+[11.780s] [  0%] Built target tf_generate_messages_lisp
+[11.936s] [  0%] Built target topic_tools_generate_messages_py
+[12.085s] [  0%] Built target tf_generate_messages_nodejs
+[12.231s] [  0%] Built target actionlib_generate_messages_cpp
+[12.374s] [  0%] Built target std_srvs_generate_messages_py
+[12.518s] [  0%] Built target actionlib_generate_messages_nodejs
+[12.665s] [  0%] Built target actionlib_generate_messages_py
+[12.810s] [  0%] Built target velodyne_pointcloud_gencfg
+[13.029s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[13.190s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[13.336s] [  0%] Built target actionlib_msgs_generate_messages_py
+[13.481s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[13.624s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[13.767s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[13.939s] [  0%] Built target velodyne_msgs_generate_messages_cpp
+[14.135s] [  0%] Built target velodyne_msgs_generate_messages_eus
+[14.282s] [  0%] Built target bond_generate_messages_cpp
+[14.425s] [  0%] Built target velodyne_msgs_generate_messages_py
+[14.566s] [  0%] Built target velodyne_msgs_generate_messages_lisp
+[14.708s] [  0%] Built target pcl_msgs_generate_messages_py
+[14.861s] [  0%] Built target roscpp_generate_messages_nodejs
+[15.018s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[15.172s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[15.318s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[15.467s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[15.609s] [  0%] Built target nodelet_generate_messages_eus
+[15.755s] [  0%] Built target nodelet_generate_messages_nodejs
+[15.907s] [  0%] Built target std_srvs_generate_messages_nodejs
+[16.102s] [  0%] Built target nodelet_generate_messages_py
+[16.291s] [ 14%] Built target points_concat_filter
+[16.479s] [ 28%] Built target compare_map_filter
+[16.669s] [ 42%] Built target ring_ground_filter
+[16.875s] [ 57%] Built target ray_ground_filter_lib
+[17.083s] [ 71%] Built target cloud_transformer
+[17.273s] [ 85%] Built target ray_ground_filter
+[17.455s] [100%] Built target space_filter
+[19.363s] Built target tests
+[21.136s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[21.281s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[21.427s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[21.570s] [  0%] Built target pcl_msgs_generate_messages_eus
+[21.714s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[21.858s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[22.066s] [  0%] Built target velodyne_driver_gencfg
+[22.212s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[22.354s] [  0%] Built target velodyne_msgs_generate_messages_nodejs
+[22.500s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[22.644s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[22.793s] [  0%] Built target std_msgs_generate_messages_lisp
+[22.986s] [  0%] Built target std_srvs_generate_messages_cpp
+[23.139s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[23.286s] [  0%] Built target actionlib_generate_messages_eus
+[23.437s] [  0%] Built target std_msgs_generate_messages_cpp
+[23.584s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[23.734s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[23.908s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[24.085s] [  0%] Built target sensor_msgs_generate_messages_eus
+[24.248s] [  0%] Built target nodelet_topic_tools_gencfg
+[24.393s] [  0%] Built target bond_generate_messages_eus
+[24.538s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[24.683s] [  0%] Built target tf2_msgs_generate_messages_py
+[24.832s] [  0%] Built target roscpp_generate_messages_py
+[25.046s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[25.185s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[25.331s] [  0%] Built target nodelet_generate_messages_cpp
+[25.474s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[25.622s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[25.765s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[25.923s] [  0%] Built target tf_generate_messages_eus
+[26.127s] [  0%] Built target actionlib_generate_messages_lisp
+[26.270s] [  0%] Built target nodelet_generate_messages_lisp
+[26.412s] [  0%] Built target std_msgs_generate_messages_nodejs
+[26.557s] [  0%] Built target geometry_msgs_generate_messages_eus
+[26.703s] [  0%] Built target roscpp_generate_messages_eus
+[26.850s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[27.061s] [  0%] Built target dynamic_reconfigure_gencfg
+[27.207s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[27.351s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[27.496s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[27.640s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[27.786s] [  0%] Built target sensor_msgs_generate_messages_py
+[27.974s] [  0%] Built target tf2_msgs_generate_messages_eus
+[28.154s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[28.300s] [  0%] Built target std_srvs_generate_messages_eus
+[28.444s] [  0%] Built target std_msgs_generate_messages_py
+[28.589s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[28.741s] [  0%] Built target roscpp_generate_messages_lisp
+[28.903s] [  0%] Built target std_srvs_generate_messages_lisp
+[29.110s] [  0%] Built target std_msgs_generate_messages_eus
+[29.257s] [  0%] Built target tf_generate_messages_py
+[29.401s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[29.543s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[29.688s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[29.832s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[30.021s] [  0%] Built target topic_tools_generate_messages_cpp
+[30.175s] [  0%] Built target pcl_ros_gencfg
+[30.325s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[30.466s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[30.610s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[30.758s] [  0%] Built target roscpp_generate_messages_cpp
+[30.928s] [  0%] Built target bond_generate_messages_lisp
+[31.092s] [  0%] Built target bond_generate_messages_nodejs
+[31.235s] [  0%] Built target bond_generate_messages_py
+[31.380s] [  0%] Built target topic_tools_generate_messages_eus
+[31.528s] [  0%] Built target geometry_msgs_generate_messages_py
+[31.676s] [  0%] Built target topic_tools_generate_messages_lisp
+[31.817s] [  0%] Built target topic_tools_generate_messages_nodejs
+[31.998s] [  0%] Built target tf_generate_messages_cpp
+[32.154s] [  0%] Built target tf_generate_messages_lisp
+[32.300s] [  0%] Built target topic_tools_generate_messages_py
+[32.444s] [  0%] Built target tf_generate_messages_nodejs
+[32.590s] [  0%] Built target actionlib_generate_messages_cpp
+[32.734s] [  0%] Built target std_srvs_generate_messages_py
+[32.884s] [  0%] Built target actionlib_generate_messages_nodejs
+[33.091s] [  0%] Built target actionlib_generate_messages_py
+[33.242s] [  0%] Built target velodyne_pointcloud_gencfg
+[33.393s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[33.537s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[33.680s] [  0%] Built target actionlib_msgs_generate_messages_py
+[33.828s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[34.024s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[34.167s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[34.311s] [  0%] Built target velodyne_msgs_generate_messages_cpp
+[34.455s] [  0%] Built target velodyne_msgs_generate_messages_eus
+[34.597s] [  0%] Built target bond_generate_messages_cpp
+[34.745s] [  0%] Built target velodyne_msgs_generate_messages_py
+[34.908s] [  0%] Built target velodyne_msgs_generate_messages_lisp
+[35.092s] [  0%] Built target pcl_msgs_generate_messages_py
+[35.237s] [  0%] Built target roscpp_generate_messages_nodejs
+[35.384s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[35.533s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[35.675s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[35.818s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[36.035s] [  0%] Built target nodelet_generate_messages_eus
+[36.175s] [  0%] Built target nodelet_generate_messages_nodejs
+[36.316s] [  0%] Built target std_srvs_generate_messages_nodejs
+[36.462s] [  0%] Built target nodelet_generate_messages_py
+[36.650s] [ 14%] Built target points_concat_filter
+[36.838s] [ 28%] Built target compare_map_filter
+[37.096s] [ 42%] Built target ring_ground_filter
+[37.289s] [ 57%] Built target ray_ground_filter_lib
+[37.477s] [ 71%] Built target cloud_transformer
+[37.664s] [ 85%] Built target ray_ground_filter
+[37.846s] [100%] Built target space_filter
+[38.029s] [36mInstall the project...[0m
+[38.088s] -- Install configuration: "Release"
+[38.088s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/pkgconfig/points_preprocessor.pc
+[38.088s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/cmake/points_preprocessorConfig.cmake
+[38.088s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/cmake/points_preprocessorConfig-version.cmake
+[38.089s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/package.xml
+[38.089s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/cloud_transformer
+[38.090s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/points_concat_filter
+[38.091s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/libray_ground_filter_lib.so
+[38.092s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/ray_ground_filter
+[38.093s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/ring_ground_filter
+[38.094s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/space_filter
+[38.096s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/lib/points_preprocessor/compare_map_filter
+[38.096s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/include
+[38.096s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/include/points_preprocessor
+[38.097s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/include/points_preprocessor/ray_ground_filter
+[38.097s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/include/points_preprocessor/ray_ground_filter/ray_ground_filter.h
+[38.097s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/include/gencolors.cpp
+[38.098s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch
+[38.098s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/points_concat_filter.launch
+[38.098s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/space_filter.launch
+[38.098s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/compare_map_filter.launch
+[38.098s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/ring_ground_filter.launch
+[38.098s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/ray_ground_filter.launch
+[38.099s] -- Up-to-date: /home/capstone/autoware.ai/install/points_preprocessor/share/points_preprocessor/launch/cloud_transformer.launch

@@ -1,0 +1,16 @@
+[0.303s] Invoking command in '/home/capstone/autoware.ai/build/ds4_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver -- -j12 -l12
+[1.026s] Invoked command in '/home/capstone/autoware.ai/build/ds4_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver -- -j12 -l12
+[2.613s] Invoking command in '/home/capstone/autoware.ai/build/ds4_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver --target tests -- -j12 -l12
+[3.438s] Built target tests
+[3.644s] Invoked command in '/home/capstone/autoware.ai/build/ds4_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver --target tests -- -j12 -l12
+[4.946s] Invoking command in '/home/capstone/autoware.ai/build/ds4_driver': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver --target install -- -j12 -l12
+[5.487s] [36mInstall the project...[0m
+[5.541s] -- Install configuration: "Release"
+[5.542s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/lib/pkgconfig/ds4_driver.pc
+[5.542s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/cmake/ds4_driverConfig.cmake
+[5.542s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/cmake/ds4_driverConfig-version.cmake
+[5.543s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/package.xml
+[5.543s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/lib/ds4_driver/ds4_driver
+[5.543s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/launch
+[5.543s] -- Up-to-date: /home/capstone/autoware.ai/install/ds4_driver/share/ds4_driver/launch/ds4_driver.launch
+[5.565s] Invoked command in '/home/capstone/autoware.ai/build/ds4_driver' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ds4_driver --target install -- -j12 -l12

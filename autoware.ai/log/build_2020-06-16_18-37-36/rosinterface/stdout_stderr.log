@@ -1,0 +1,16 @@
+[1.973s] [ 16%] [34m[1mAutomatic MOC for target rosinterface[0m
+[2.422s] [ 16%] Built target rosinterface_autogen
+[3.005s] [100%] Built target rosinterface
+[5.706s] Built target tests
+[8.678s] [ 16%] [34m[1mAutomatic MOC for target rosinterface[0m
+[8.860s] [ 16%] Built target rosinterface_autogen
+[9.235s] [100%] Built target rosinterface
+[9.434s] [36mInstall the project...[0m
+[9.492s] -- Install configuration: "Release"
+[9.493s] -- Up-to-date: /home/capstone/autoware.ai/install/rosinterface/lib/pkgconfig/rosinterface.pc
+[9.493s] -- Up-to-date: /home/capstone/autoware.ai/install/rosinterface/share/rosinterface/cmake/rosinterfaceConfig.cmake
+[9.493s] -- Up-to-date: /home/capstone/autoware.ai/install/rosinterface/share/rosinterface/cmake/rosinterfaceConfig-version.cmake
+[9.493s] -- Up-to-date: /home/capstone/autoware.ai/install/rosinterface/share/rosinterface/package.xml
+[9.494s] -- Up-to-date: /home/capstone/autoware.ai/install/rosinterface/include/rosinterface
+[9.494s] -- Up-to-date: /home/capstone/autoware.ai/install/rosinterface/include/rosinterface/rosinterface.h
+[9.494s] -- Up-to-date: /home/capstone/autoware.ai/install/rosinterface/lib/librosinterface.so

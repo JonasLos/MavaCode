@@ -1,0 +1,24 @@
+[0.643s] [  0%] Built target _catkin_empty_exported_target
+[0.846s] [100%] Built target lanelet2_traffic_rules
+[1.855s] [ 20%] Built target gtest
+[1.999s] [ 20%] Built target _catkin_empty_exported_target
+[2.149s] [ 40%] Built target gtest_main
+[2.327s] [ 80%] Built target lanelet2_traffic_rules
+[2.554s] [100%] Built target lanelet2_traffic_rules-lanelet2_traffic_rules-test
+[2.771s] [100%] Built target tests
+[3.809s] [  0%] Built target _catkin_empty_exported_target
+[3.980s] [100%] Built target lanelet2_traffic_rules
+[4.109s] [36mInstall the project...[0m
+[4.167s] -- Install configuration: "Release"
+[4.168s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig/lanelet2_traffic_rules.pc
+[4.169s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/share/lanelet2_traffic_rules/cmake/lanelet2_traffic_rulesConfig.cmake
+[4.169s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/share/lanelet2_traffic_rules/cmake/lanelet2_traffic_rulesConfig-version.cmake
+[4.169s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/share/lanelet2_traffic_rules/package.xml
+[4.170s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/lib/liblanelet2_traffic_rules.so
+[4.171s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules
+[4.171s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/GermanTrafficRules.h
+[4.172s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/GenericTrafficRules.h
+[4.172s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/Exceptions.h
+[4.172s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/TrafficRulesFactory.h
+[4.172s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/TrafficRules.h
+[4.172s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/internal

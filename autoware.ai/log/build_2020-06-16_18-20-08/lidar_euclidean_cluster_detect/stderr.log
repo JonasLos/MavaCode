@@ -1,0 +1,4 @@
+[7.209s] -- USING ACCELERATED CLUSTERING --
+[7.209s] Version: 10.0
+[7.209s] Library: /usr/lib/x86_64-linux-gnu/libcuda.so
+[7.209s] Runtime: /usr/local/cuda/lib64/libcudart.so

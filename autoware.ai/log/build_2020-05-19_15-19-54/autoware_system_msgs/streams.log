@@ -1,0 +1,219 @@
+[0.068s] Invoking command in '/home/capstone/autoware.ai/build/autoware_system_msgs': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/messages/autoware_system_msgs -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/autoware_system_msgs
+[0.262s] -- The C compiler identification is GNU 7.5.0
+[0.453s] -- The CXX compiler identification is GNU 7.5.0
+[0.466s] -- Check for working C compiler: /usr/bin/cc
+[0.753s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.754s] -- Detecting C compiler ABI info
+[1.052s] -- Detecting C compiler ABI info - done
+[1.086s] -- Detecting C compile features
+[1.972s] -- Detecting C compile features - done
+[1.978s] -- Check for working CXX compiler: /usr/bin/c++
+[2.313s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.322s] -- Detecting CXX compiler ABI info
+[2.611s] -- Detecting CXX compiler ABI info - done
+[2.628s] -- Detecting CXX compile features
+[4.018s] -- Detecting CXX compile features - done
+[4.030s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/autoware_system_msgs/devel
+[4.031s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[4.032s] -- This workspace overlays: /opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[4.084s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[4.084s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[4.085s] -- Using Debian Python package layout
+[4.087s] -- Using empy: /usr/bin/empy
+[4.457s] -- Using CATKIN_ENABLE_TESTING: ON
+[4.458s] -- Call enable_testing()
+[4.468s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/autoware_system_msgs/test_results
+[4.534s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[4.535s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[4.592s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[4.595s] -- Looking for pthread.h
+[4.874s] -- Looking for pthread.h - found
+[4.875s] -- Looking for pthread_create
+[5.203s] -- Looking for pthread_create - not found
+[5.203s] -- Looking for pthread_create in pthreads
+[5.483s] -- Looking for pthread_create in pthreads - not found
+[5.487s] -- Looking for pthread_create in pthread
+[5.771s] -- Looking for pthread_create in pthread - found
+[5.774s] -- Found Threads: TRUE  
+[5.786s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[5.909s] -- catkin 0.7.23
+[5.910s] -- BUILD_SHARED_LIBS is on
+[6.398s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[7.036s] -- autoware_system_msgs: 5 messages, 0 services
+[7.539s] -- Configuring done
+[7.679s] -- Generating done
+[7.699s] -- Build files have been written to: /home/capstone/autoware.ai/build/autoware_system_msgs
+[7.707s] Invoked command in '/home/capstone/autoware.ai/build/autoware_system_msgs' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/messages/autoware_system_msgs -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/autoware_system_msgs
+[7.712s] Invoking command in '/home/capstone/autoware.ai/build/autoware_system_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_system_msgs -- -j12 -l12
+[7.986s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[7.994s] [35m[1mScanning dependencies of target _autoware_system_msgs_generate_messages_check_deps_DiagnosticStatus[0m
+[8.035s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[8.053s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[8.056s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[8.070s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[8.103s] [35m[1mScanning dependencies of target _autoware_system_msgs_generate_messages_check_deps_HardwareStatus[0m
+[8.103s] [35m[1mScanning dependencies of target _autoware_system_msgs_generate_messages_check_deps_DiagnosticStatusArray[0m
+[8.112s] [35m[1mScanning dependencies of target _autoware_system_msgs_generate_messages_check_deps_NodeStatus[0m
+[8.113s] [35m[1mScanning dependencies of target _autoware_system_msgs_generate_messages_check_deps_SystemStatus[0m
+[8.142s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[8.143s] [  0%] Built target std_msgs_generate_messages_py
+[8.174s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[8.182s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[8.183s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[8.226s] [  0%] Built target std_msgs_generate_messages_eus
+[8.258s] [  0%] Built target std_msgs_generate_messages_cpp
+[8.292s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[8.341s] [  0%] Built target std_msgs_generate_messages_lisp
+[8.363s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[8.372s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[8.442s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[8.519s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[8.558s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_DiagnosticStatus
+[8.580s] [  0%] Built target std_msgs_generate_messages_nodejs
+[8.661s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_DiagnosticStatusArray
+[8.672s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_SystemStatus
+[8.689s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_NodeStatus
+[8.776s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[8.782s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_HardwareStatus
+[8.928s] [35m[1mScanning dependencies of target autoware_system_msgs_generate_messages_eus[0m
+[8.937s] [35m[1mScanning dependencies of target autoware_system_msgs_generate_messages_nodejs[0m
+[9.032s] [35m[1mScanning dependencies of target autoware_system_msgs_generate_messages_cpp[0m
+[9.045s] [35m[1mScanning dependencies of target autoware_system_msgs_generate_messages_py[0m
+[9.072s] [35m[1mScanning dependencies of target autoware_system_msgs_generate_messages_lisp[0m
+[9.090s] [  3%] [34m[1mGenerating EusLisp code from autoware_system_msgs/NodeStatus.msg[0m
+[9.103s] [  7%] [34m[1mGenerating EusLisp code from autoware_system_msgs/HardwareStatus.msg[0m
+[9.105s] [ 11%] [34m[1mGenerating EusLisp code from autoware_system_msgs/SystemStatus.msg[0m
+[9.160s] [ 14%] [34m[1mGenerating EusLisp code from autoware_system_msgs/DiagnosticStatusArray.msg[0m
+[9.160s] [ 18%] [34m[1mGenerating Javascript code from autoware_system_msgs/DiagnosticStatusArray.msg[0m
+[9.174s] [ 22%] [34m[1mGenerating Javascript code from autoware_system_msgs/HardwareStatus.msg[0m
+[9.198s] [ 25%] [34m[1mGenerating Javascript code from autoware_system_msgs/DiagnosticStatus.msg[0m
+[9.199s] [ 29%] [34m[1mGenerating Javascript code from autoware_system_msgs/NodeStatus.msg[0m
+[9.334s] [ 33%] [34m[1mGenerating Lisp code from autoware_system_msgs/HardwareStatus.msg[0m
+[9.370s] [ 37%] [34m[1mGenerating Javascript code from autoware_system_msgs/SystemStatus.msg[0m
+[9.380s] [ 40%] [34m[1mGenerating C++ code from autoware_system_msgs/HardwareStatus.msg[0m
+[9.381s] [ 44%] [34m[1mGenerating Python from MSG autoware_system_msgs/HardwareStatus[0m
+[9.674s] [ 48%] [34m[1mGenerating EusLisp code from autoware_system_msgs/DiagnosticStatus.msg[0m
+[9.841s] [ 51%] [34m[1mGenerating Python from MSG autoware_system_msgs/NodeStatus[0m
+[9.905s] [ 55%] [34m[1mGenerating EusLisp manifest code for autoware_system_msgs[0m
+[10.077s] [ 59%] [34m[1mGenerating C++ code from autoware_system_msgs/NodeStatus.msg[0m
+[10.085s] [ 62%] [34m[1mGenerating Python from MSG autoware_system_msgs/SystemStatus[0m
+[10.175s] [ 66%] [34m[1mGenerating Python from MSG autoware_system_msgs/DiagnosticStatusArray[0m
+[10.203s] [ 66%] Built target autoware_system_msgs_generate_messages_nodejs
+[10.206s] [ 70%] [34m[1mGenerating Lisp code from autoware_system_msgs/NodeStatus.msg[0m
+[10.246s] [ 74%] [34m[1mGenerating C++ code from autoware_system_msgs/SystemStatus.msg[0m
+[10.369s] [ 77%] [34m[1mGenerating Lisp code from autoware_system_msgs/DiagnosticStatusArray.msg[0m
+[10.485s] [ 81%] [34m[1mGenerating Lisp code from autoware_system_msgs/SystemStatus.msg[0m
+[10.993s] [ 85%] [34m[1mGenerating Lisp code from autoware_system_msgs/DiagnosticStatus.msg[0m
+[11.269s] [ 88%] [34m[1mGenerating Python from MSG autoware_system_msgs/DiagnosticStatus[0m
+[11.297s] [ 92%] [34m[1mGenerating C++ code from autoware_system_msgs/DiagnosticStatusArray.msg[0m
+[11.548s] [ 96%] [34m[1mGenerating C++ code from autoware_system_msgs/DiagnosticStatus.msg[0m
+[12.179s] [ 96%] Built target autoware_system_msgs_generate_messages_lisp
+[12.350s] [100%] [34m[1mGenerating Python msg __init__.py for autoware_system_msgs[0m
+[13.602s] [100%] Built target autoware_system_msgs_generate_messages_py
+[13.969s] [100%] Built target autoware_system_msgs_generate_messages_cpp
+[14.858s] [100%] Built target autoware_system_msgs_generate_messages_eus
+[15.207s] [35m[1mScanning dependencies of target autoware_system_msgs_generate_messages[0m
+[15.490s] [100%] Built target autoware_system_msgs_generate_messages
+[15.564s] Invoked command in '/home/capstone/autoware.ai/build/autoware_system_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_system_msgs -- -j12 -l12
+[17.630s] Invoking command in '/home/capstone/autoware.ai/build/autoware_system_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_system_msgs --target tests -- -j12 -l12
+[18.372s] [35m[1mScanning dependencies of target tests[0m
+[18.482s] Built target tests
+[18.566s] Invoked command in '/home/capstone/autoware.ai/build/autoware_system_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_system_msgs --target tests -- -j12 -l12
+[20.417s] Invoking command in '/home/capstone/autoware.ai/build/autoware_system_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_system_msgs --target install -- -j12 -l12
+[20.948s] [  0%] Built target std_msgs_generate_messages_eus
+[21.297s] [  0%] Built target std_msgs_generate_messages_cpp
+[21.566s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[21.906s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[22.152s] [  0%] Built target std_msgs_generate_messages_nodejs
+[22.357s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[22.664s] [  0%] Built target std_msgs_generate_messages_py
+[22.940s] [  0%] Built target std_msgs_generate_messages_lisp
+[23.249s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[23.744s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_DiagnosticStatusArray
+[24.122s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_SystemStatus
+[24.383s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[24.851s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_DiagnosticStatus
+[25.229s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_NodeStatus
+[25.699s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_HardwareStatus
+[25.867s] [ 22%] Built target autoware_system_msgs_generate_messages_eus
+[26.052s] [ 40%] Built target autoware_system_msgs_generate_messages_nodejs
+[26.300s] [ 59%] Built target autoware_system_msgs_generate_messages_cpp
+[26.550s] [ 81%] Built target autoware_system_msgs_generate_messages_py
+[26.757s] [100%] Built target autoware_system_msgs_generate_messages_lisp
+[27.022s] [100%] Built target autoware_system_msgs_generate_messages
+[27.159s] [36mInstall the project...[0m
+[27.191s] -- Install configuration: "Release"
+[27.192s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/msg/DiagnosticStatus.msg
+[27.192s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/msg/DiagnosticStatusArray.msg
+[27.194s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/msg/HardwareStatus.msg
+[27.194s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/msg/NodeStatus.msg
+[27.196s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/msg/SystemStatus.msg
+[27.196s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/cmake/autoware_system_msgs-msg-paths.cmake
+[27.197s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs
+[27.197s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs/DiagnosticStatus.h
+[27.198s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs/SystemStatus.h
+[27.198s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs/HardwareStatus.h
+[27.198s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs/DiagnosticStatusArray.h
+[27.199s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs/NodeStatus.h
+[27.199s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs
+[27.200s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/manifest.l
+[27.200s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg
+[27.201s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg/SystemStatus.l
+[27.201s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg/DiagnosticStatus.l
+[27.201s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg/NodeStatus.l
+[27.201s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg/HardwareStatus.l
+[27.201s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg/DiagnosticStatusArray.l
+[27.202s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs
+[27.217s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg
+[27.218s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/NodeStatus.lisp
+[27.218s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/HardwareStatus.lisp
+[27.219s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package_HardwareStatus.lisp
+[27.220s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package_SystemStatus.lisp
+[27.220s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/SystemStatus.lisp
+[27.220s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package.lisp
+[27.220s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/DiagnosticStatus.lisp
+[27.221s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package_NodeStatus.lisp
+[27.221s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/autoware_system_msgs-msg.asd
+[27.221s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package_DiagnosticStatus.lisp
+[27.221s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package_DiagnosticStatusArray.lisp
+[27.222s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/DiagnosticStatusArray.lisp
+[27.222s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs
+[27.222s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/_index.js
+[27.222s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg
+[27.223s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/NodeStatus.js
+[27.223s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/_index.js
+[27.223s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/SystemStatus.js
+[27.223s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/HardwareStatus.js
+[27.223s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/DiagnosticStatus.js
+[27.223s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/DiagnosticStatusArray.js
+[27.338s] Listing /home/capstone/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs ...
+[27.338s] Compiling /home/capstone/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs/__init__.py ...
+[27.338s] Listing /home/capstone/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs/msg ...
+[27.338s] Compiling /home/capstone/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs/msg/_DiagnosticStatus.py ...
+[27.338s] Compiling /home/capstone/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs/msg/_DiagnosticStatusArray.py ...
+[27.339s] Compiling /home/capstone/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs/msg/_HardwareStatus.py ...
+[27.339s] Compiling /home/capstone/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs/msg/_NodeStatus.py ...
+[27.339s] Compiling /home/capstone/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs/msg/_SystemStatus.py ...
+[27.339s] Compiling /home/capstone/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs/msg/__init__.py ...
+[27.340s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs
+[27.341s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/__init__.pyc
+[27.341s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/__init__.py
+[27.341s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg
+[27.342s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_HardwareStatus.py
+[27.342s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_SystemStatus.py
+[27.342s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_DiagnosticStatus.pyc
+[27.343s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_DiagnosticStatus.py
+[27.343s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_DiagnosticStatusArray.py
+[27.344s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_HardwareStatus.pyc
+[27.344s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_NodeStatus.py
+[27.345s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_SystemStatus.pyc
+[27.347s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_NodeStatus.pyc
+[27.347s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/__init__.pyc
+[27.347s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_DiagnosticStatusArray.pyc
+[27.348s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/__init__.py
+[27.348s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/lib/pkgconfig/autoware_system_msgs.pc
+[27.349s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/cmake/autoware_system_msgs-msg-extras.cmake
+[27.350s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/cmake/autoware_system_msgsConfig.cmake
+[27.352s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/cmake/autoware_system_msgsConfig-version.cmake
+[27.352s] -- Installing: /home/capstone/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/package.xml
+[27.375s] Invoked command in '/home/capstone/autoware.ai/build/autoware_system_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_system_msgs --target install -- -j12 -l12

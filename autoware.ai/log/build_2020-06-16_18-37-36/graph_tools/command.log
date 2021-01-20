@@ -1,0 +1,6 @@
+[0.073s] Invoking command in '/home/capstone/autoware.ai/build/graph_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools -- -j12 -l12
+[0.382s] Invoked command in '/home/capstone/autoware.ai/build/graph_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools -- -j12 -l12
+[0.625s] Invoking command in '/home/capstone/autoware.ai/build/graph_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target tests -- -j12 -l12
+[1.109s] Invoked command in '/home/capstone/autoware.ai/build/graph_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target tests -- -j12 -l12
+[1.431s] Invoking command in '/home/capstone/autoware.ai/build/graph_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target install -- -j12 -l12
+[1.817s] Invoked command in '/home/capstone/autoware.ai/build/graph_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/graph_tools --target install -- -j12 -l12

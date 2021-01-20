@@ -1,0 +1,7 @@
+[1.043s] Built target tests
+[1.748s] [36mInstall the project...[0m
+[1.808s] -- Install configuration: "Release"
+[1.808s] -- Up-to-date: /home/capstone/autoware.ai/install/graph_tools/lib/pkgconfig/graph_tools.pc
+[1.808s] -- Up-to-date: /home/capstone/autoware.ai/install/graph_tools/share/graph_tools/cmake/graph_toolsConfig.cmake
+[1.809s] -- Up-to-date: /home/capstone/autoware.ai/install/graph_tools/share/graph_tools/cmake/graph_toolsConfig-version.cmake
+[1.809s] -- Up-to-date: /home/capstone/autoware.ai/install/graph_tools/share/graph_tools/package.xml

@@ -1,0 +1,191 @@
+[1.853s] [  0%] Built target tf_generate_messages_nodejs
+[1.882s] [  0%] Built target std_srvs_generate_messages_eus
+[1.882s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[1.970s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[1.989s] [  0%] Built target tf_generate_messages_cpp
+[1.989s] [  0%] Built target tf_generate_messages_lisp
+[2.038s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[2.038s] [  0%] Built target stereo_msgs_generate_messages_py
+[2.082s] [  0%] Built target actionlib_generate_messages_nodejs
+[2.085s] [  0%] Built target actionlib_generate_messages_cpp
+[2.124s] [  0%] Built target actionlib_msgs_generate_messages_py
+[2.131s] [  0%] Built target actionlib_generate_messages_py
+[2.446s] [  0%] Built target topic_tools_generate_messages_nodejs
+[2.636s] [  0%] Built target roscpp_generate_messages_eus
+[2.640s] [  0%] Built target geometry_msgs_generate_messages_eus
+[2.673s] [  0%] Built target topic_tools_generate_messages_lisp
+[2.694s] [  0%] Built target actionlib_generate_messages_eus
+[2.726s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[2.764s] [  0%] Built target pcl_ros_gencfg
+[2.826s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[2.850s] [  0%] Built target topic_tools_generate_messages_eus
+[2.852s] [  0%] Built target tf_generate_messages_eus
+[2.981s] [  0%] Built target std_msgs_generate_messages_cpp
+[3.031s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[3.113s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[3.284s] [  0%] Built target stereo_msgs_generate_messages_nodejs
+[3.306s] [  0%] Built target stereo_msgs_generate_messages_cpp
+[3.433s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[3.493s] [  0%] Built target std_srvs_generate_messages_py
+[3.523s] [  0%] Built target tf_generate_messages_py
+[3.526s] [  0%] Built target nodelet_generate_messages_lisp
+[3.531s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[3.545s] [  0%] Built target roscpp_generate_messages_nodejs
+[3.606s] [  0%] Built target std_msgs_generate_messages_nodejs
+[3.613s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[3.664s] [  0%] Built target std_msgs_generate_messages_eus
+[3.706s] [  0%] Built target actionlib_generate_messages_lisp
+[3.890s] [  0%] Built target topic_tools_generate_messages_py
+[3.915s] [  0%] Built target bond_generate_messages_eus
+[3.988s] [  0%] Built target roscpp_generate_messages_lisp
+[4.039s] [  0%] Built target geometry_msgs_generate_messages_py
+[4.052s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[4.245s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[4.245s] [  0%] Built target roscpp_generate_messages_cpp
+[4.265s] [  0%] Built target sensor_msgs_generate_messages_py
+[4.330s] [  0%] Built target bond_generate_messages_lisp
+[4.331s] [  0%] Built target tf2_msgs_generate_messages_eus
+[4.370s] [  0%] Built target std_msgs_generate_messages_lisp
+[4.526s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[4.537s] [  0%] Built target std_msgs_generate_messages_py
+[4.541s] [  0%] Built target tf2_msgs_generate_messages_py
+[4.563s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[4.721s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[4.745s] [  0%] Built target std_srvs_generate_messages_cpp
+[4.768s] [  0%] Built target stereo_msgs_generate_messages_lisp
+[4.809s] [  0%] Built target nodelet_topic_tools_gencfg
+[4.868s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[4.946s] [  0%] Built target bond_generate_messages_cpp
+[5.043s] [  0%] Built target sensor_msgs_generate_messages_eus
+[5.109s] [  0%] Built target roscpp_generate_messages_py
+[5.128s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[5.166s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[5.246s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[5.265s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[5.362s] [  0%] Built target nodelet_generate_messages_cpp
+[5.505s] [  0%] Built target dynamic_reconfigure_gencfg
+[5.523s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[5.541s] [  0%] Built target nodelet_generate_messages_eus
+[5.543s] [  0%] Built target stereo_msgs_generate_messages_eus
+[5.579s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[5.593s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[5.627s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[5.662s] [  0%] Built target std_srvs_generate_messages_lisp
+[5.890s] [  0%] Built target bond_generate_messages_nodejs
+[5.893s] [  0%] Built target nodelet_generate_messages_nodejs
+[5.895s] [  0%] Built target std_srvs_generate_messages_nodejs
+[5.948s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[6.050s] [  0%] Built target pcl_msgs_generate_messages_eus
+[6.085s] [  0%] Built target nodelet_generate_messages_py
+[6.125s] [  0%] Built target topic_tools_generate_messages_cpp
+[6.146s] [  0%] Built target bond_generate_messages_py
+[6.218s] [  0%] Built target pcl_msgs_generate_messages_py
+[6.250s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[6.274s] [ 33%] Built target kitti_player_gencfg
+[6.647s] [100%] Built target kitti_player
+[9.767s] Built target tests
+[12.731s] [  0%] Built target stereo_msgs_generate_messages_py
+[12.736s] [  0%] Built target std_srvs_generate_messages_eus
+[12.901s] [  0%] Built target tf_generate_messages_cpp
+[12.947s] [  0%] Built target topic_tools_generate_messages_nodejs
+[13.120s] [  0%] Built target topic_tools_generate_messages_lisp
+[13.271s] [  0%] Built target topic_tools_generate_messages_eus
+[13.319s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[13.462s] [  0%] Built target tf_generate_messages_eus
+[13.518s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[13.677s] [  0%] Built target pcl_ros_gencfg
+[13.706s] [  0%] Built target roscpp_generate_messages_eus
+[13.922s] [  0%] Built target geometry_msgs_generate_messages_eus
+[13.964s] [  0%] Built target std_msgs_generate_messages_cpp
+[14.194s] [  0%] Built target actionlib_generate_messages_eus
+[14.303s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[14.450s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[14.568s] [  0%] Built target std_srvs_generate_messages_py
+[14.643s] [  0%] Built target stereo_msgs_generate_messages_nodejs
+[14.804s] [  0%] Built target roscpp_generate_messages_nodejs
+[15.031s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[15.033s] [  0%] Built target stereo_msgs_generate_messages_cpp
+[15.111s] [  0%] Built target tf_generate_messages_lisp
+[15.372s] [  0%] Built target std_msgs_generate_messages_eus
+[15.423s] [  0%] Built target tf_generate_messages_py
+[15.454s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[15.698s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[15.716s] [  0%] Built target std_msgs_generate_messages_nodejs
+[15.718s] [  0%] Built target nodelet_generate_messages_lisp
+[16.105s] [  0%] Built target topic_tools_generate_messages_py
+[16.107s] [  0%] Built target roscpp_generate_messages_lisp
+[16.143s] [  0%] Built target actionlib_generate_messages_lisp
+[16.334s] [  0%] Built target roscpp_generate_messages_cpp
+[16.482s] [  0%] Built target tf2_msgs_generate_messages_eus
+[16.489s] [  0%] Built target geometry_msgs_generate_messages_py
+[16.622s] [  0%] Built target sensor_msgs_generate_messages_py
+[16.728s] [  0%] Built target bond_generate_messages_eus
+[16.756s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[16.967s] [  0%] Built target bond_generate_messages_lisp
+[17.052s] [  0%] Built target std_msgs_generate_messages_lisp
+[17.139s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[17.283s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[17.427s] [  0%] Built target std_msgs_generate_messages_py
+[17.572s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[17.723s] [  0%] Built target tf2_msgs_generate_messages_py
+[17.868s] [  0%] Built target bond_generate_messages_cpp
+[18.059s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[18.210s] [  0%] Built target sensor_msgs_generate_messages_eus
+[18.361s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[18.511s] [  0%] Built target nodelet_topic_tools_gencfg
+[18.661s] [  0%] Built target stereo_msgs_generate_messages_lisp
+[18.808s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[18.971s] [  0%] Built target roscpp_generate_messages_py
+[19.158s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[19.306s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[19.474s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[19.617s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[19.765s] [  0%] Built target stereo_msgs_generate_messages_eus
+[19.911s] [  0%] Built target dynamic_reconfigure_gencfg
+[20.124s] [  0%] Built target nodelet_generate_messages_cpp
+[20.279s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[20.423s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[20.568s] [  0%] Built target std_srvs_generate_messages_lisp
+[20.712s] [  0%] Built target nodelet_generate_messages_eus
+[20.859s] [  0%] Built target nodelet_generate_messages_nodejs
+[21.057s] [  0%] Built target bond_generate_messages_nodejs
+[21.217s] [  0%] Built target std_srvs_generate_messages_nodejs
+[21.363s] [  0%] Built target nodelet_generate_messages_py
+[21.509s] [  0%] Built target bond_generate_messages_py
+[21.659s] [  0%] Built target pcl_msgs_generate_messages_eus
+[21.807s] [  0%] Built target topic_tools_generate_messages_cpp
+[21.965s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[22.143s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[22.287s] [  0%] Built target pcl_msgs_generate_messages_py
+[22.433s] [ 33%] Built target kitti_player_gencfg
+[22.576s] [ 33%] Built target std_srvs_generate_messages_cpp
+[22.720s] [ 33%] Built target dynamic_reconfigure_generate_messages_py
+[22.865s] [ 33%] Built target tf_generate_messages_nodejs
+[23.060s] [ 33%] Built target actionlib_generate_messages_cpp
+[23.211s] [ 33%] Built target actionlib_generate_messages_nodejs
+[23.355s] [ 33%] Built target actionlib_generate_messages_py
+[23.500s] [ 33%] Built target actionlib_msgs_generate_messages_cpp
+[23.644s] [ 33%] Built target actionlib_msgs_generate_messages_py
+[23.791s] [ 33%] Built target tf2_msgs_generate_messages_lisp
+[23.943s] [ 33%] Built target tf2_msgs_generate_messages_nodejs
+[24.180s] [100%] Built target kitti_player
+[24.316s] [36mInstall the project...[0m
+[24.372s] -- Install configuration: "Release"
+[24.372s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/include/kitti_player/kitti_playerConfig.h
+[24.373s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/__init__.py
+[24.459s] Listing /home/capstone/autoware.ai/build/kitti_player/devel/lib/python2.7/dist-packages/kitti_player/cfg ...
+[24.462s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/cfg
+[24.462s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/cfg/kitti_playerConfig.py
+[24.462s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/cfg/__init__.pyc
+[24.463s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/cfg/kitti_playerConfig.pyc
+[24.463s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/cfg/__init__.py
+[24.464s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/lib/pkgconfig/kitti_player.pc
+[24.465s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/share/kitti_player/cmake/kitti_playerConfig.cmake
+[24.465s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/share/kitti_player/cmake/kitti_playerConfig-version.cmake
+[24.465s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/share/kitti_player/package.xml
+[24.466s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/lib/kitti_player/kitti_player
+[24.466s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/share/kitti_player/launch
+[24.467s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/share/kitti_player/launch/kittiplayer_libviso2.launch
+[24.467s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/share/kitti_player/cfg
+[24.469s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/share/kitti_player/cfg/rviz_kitti_player.rviz
+[24.470s] -- Up-to-date: /home/capstone/autoware.ai/install/kitti_player/share/kitti_player/cfg/kitti_player.cfg

@@ -1,0 +1,86 @@
+[0.398s] -- The C compiler identification is GNU 7.5.0
+[0.594s] -- The CXX compiler identification is GNU 7.5.0
+[0.609s] -- Check for working C compiler: /usr/bin/cc
+[1.019s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.021s] -- Detecting C compiler ABI info
+[1.460s] -- Detecting C compiler ABI info - done
+[1.482s] -- Detecting C compile features
+[2.714s] -- Detecting C compile features - done
+[2.721s] -- Check for working CXX compiler: /usr/bin/c++
+[3.155s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.158s] -- Detecting CXX compiler ABI info
+[3.617s] -- Detecting CXX compiler ABI info - done
+[3.653s] -- Detecting CXX compile features
+[5.539s] -- Detecting CXX compile features - done
+[5.556s] -- Using CATKIN_DEVEL_PREFIX: /home/capstone/autoware.ai/build/microstrain_driver/devel
+[5.558s] -- Using CMAKE_PREFIX_PATH: /home/capstone/autoware.ai/install/wf_simulator;/home/capstone/autoware.ai/install/vision_ssd_detect;/home/capstone/autoware.ai/install/vision_segment_enet_detect;/home/capstone/autoware.ai/install/vision_lane_detect;/home/capstone/autoware.ai/install/vision_darknet_detect;/home/capstone/autoware.ai/install/vision_beyond_track;/home/capstone/autoware.ai/install/vel_pose_diff_checker;/home/capstone/autoware.ai/install/vehicle_socket;/home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vehicle_model;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_launcher;/home/capstone/autoware.ai/install/vehicle_gazebo_simulation_interface;/home/capstone/autoware.ai/install/vehicle_engage_panel;/home/capstone/autoware.ai/install/vehicle_description;/home/capstone/autoware.ai/install/op_ros_helpers;/home/capstone/autoware.ai/install/op_simu;/home/capstone/autoware.ai/install/op_planner;/home/capstone/autoware.ai/install/op_utility;/home/capstone/autoware.ai/install/vector_map_server;/home/capstone/autoware.ai/install/object_map;/home/capstone/autoware.ai/install/lanelet_aisan_converter;/home/capstone/autoware.ai/install/map_file;/home/capstone/autoware.ai/install/libvectormap;/home/capstone/autoware.ai/install/vector_map;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/twist_generator;/home/capstone/autoware.ai/install/twist2odom;/home/capstone/autoware.ai/install/runtime_manager;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/sound_player;/home/capstone/autoware.ai/install/points2image;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/rosbag_controller;/home/capstone/autoware.ai/install/points_preprocessor;/home/capstone/autoware.ai/install/lidar_localizer;/home/capstone/autoware.ai/install/emergency_handler;/home/capstone/autoware.ai/install/autoware_health_checker;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/range_vision_fusion;/home/capstone/autoware.ai/install/pos_db;/home/capstone/autoware.ai/install/points_downsampler;/home/capstone/autoware.ai/install/pixel_cloud_fusion;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/pc2_downsampler;/home/capstone/autoware.ai/install/obj_db;/home/capstone/autoware.ai/install/nmea_navsat;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_gpu;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/multi_lidar_calibrator;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/marker_downsampler;/home/capstone/autoware.ai/install/map_tools;/home/capstone/autoware.ai/install/map_tf_generator;/home/capstone/autoware.ai/install/log_tools;/home/capstone/autoware.ai/install/libwaypoint_follower;/home/capstone/autoware.ai/install/lgsvl_simulator_bridge;/home/capstone/autoware.ai/install/lanelet2_extension;/home/capstone/autoware.ai/install/lanelet2_validation;/home/capstone/autoware.ai/install/lanelet2_examples;/home/capstone/autoware.ai/install/lanelet2_python;/home/capstone/autoware.ai/install/lanelet2_routing;/home/capstone/autoware.ai/install/lanelet2_traffic_rules;/home/capstone/autoware.ai/install/lanelet2_projection;/home/capstone/autoware.ai/install/lanelet2_maps;/home/capstone/autoware.ai/install/lanelet2_io;/home/capstone/autoware.ai/install/lanelet2_core;/home/capstone/autoware.ai/install/integrated_viewer;/home/capstone/autoware.ai/install/image_processor;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss_localizer;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/glviewer;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/ekf_localizer;/home/capstone/autoware.ai/install/detected_objects_visualizer;/home/capstone/autoware.ai/install/decision_maker_panel;/home/capstone/autoware.ai/install/data_preprocessor;/home/capstone/autoware.ai/install/carla_autoware_bridge;/home/capstone/autoware.ai/install/calibration_publisher;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_rviz_plugins;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_pointgrey_drivers;/home/capstone/autoware.ai/install/autoware_driveworks_interface;/home/capstone/autoware.ai/install/autoware_connector;/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator;/home/capstone/autoware.ai/install/amathutils_lib;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_map_msgs;/home/capstone/autoware.ai/install/autoware_launcher_rviz;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_driveworks_gmsl_interface;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[5.562s] -- This workspace overlays: /home/capstone/autoware.ai/install/vehicle_sim_model;/home/capstone/autoware.ai/install/vector_map_msgs;/home/capstone/autoware.ai/install/tablet_socket_msgs;/home/capstone/autoware.ai/install/rosinterface;/home/capstone/autoware.ai/install/ros_observer;/home/capstone/autoware.ai/install/pcl_omp_registration;/home/capstone/autoware.ai/install/ndt_tku;/home/capstone/autoware.ai/install/ndt_cpu;/home/capstone/autoware.ai/install/mrt_cmake_modules;/home/capstone/autoware.ai/install/graph_tools;/home/capstone/autoware.ai/install/gnss;/home/capstone/autoware.ai/install/gazebo_world_description;/home/capstone/autoware.ai/install/gazebo_imu_description;/home/capstone/autoware.ai/install/gazebo_camera_description;/home/capstone/autoware.ai/install/fastvirtualscan;/home/capstone/autoware.ai/install/autoware_system_msgs;/home/capstone/autoware.ai/install/autoware_quickstart_examples;/home/capstone/autoware.ai/install/autoware_msgs;/home/capstone/autoware.ai/install/autoware_launcher;/home/capstone/autoware.ai/install/autoware_lanelet2_msgs;/home/capstone/autoware.ai/install/autoware_external_msgs;/home/capstone/autoware.ai/install/autoware_config_msgs;/home/capstone/autoware.ai/install/autoware_can_msgs;/home/capstone/autoware.ai/install/autoware_build_flags;/home/capstone/autoware.ai/install/autoware_bag_tools;/opt/carla-ros-bridge/melodic;/opt/ros/melodic
+[5.647s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[5.650s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[5.650s] -- Using Debian Python package layout
+[5.651s] -- Using empy: /usr/bin/empy
+[6.031s] -- Using CATKIN_ENABLE_TESTING: ON
+[6.031s] -- Call enable_testing()
+[6.048s] -- Using CATKIN_TEST_RESULTS_DIR: /home/capstone/autoware.ai/build/microstrain_driver/test_results
+[6.147s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[6.148s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[6.246s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[6.249s] -- Looking for pthread.h
+[6.690s] -- Looking for pthread.h - found
+[6.690s] -- Looking for pthread_create
+[7.131s] -- Looking for pthread_create - not found
+[7.131s] -- Looking for pthread_create in pthreads
+[7.560s] -- Looking for pthread_create in pthreads - not found
+[7.561s] -- Looking for pthread_create in pthread
+[7.970s] -- Looking for pthread_create in pthread - found
+[7.972s] -- Found Threads: TRUE  
+[7.995s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[8.173s] -- catkin 0.7.23
+[8.173s] -- BUILD_SHARED_LIBS is on
+[9.214s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[10.619s] -- Configuring done
+[10.821s] -- Generating done
+[10.862s] -- Build files have been written to: /home/capstone/autoware.ai/build/microstrain_driver
+[11.191s] [35m[1mScanning dependencies of target microstrain_driver[0m
+[11.344s] [  5%] [32mBuilding CXX object CMakeFiles/microstrain_driver.dir/src/microstrain.cpp.o[0m
+[17.285s] [ 11%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Utilities/Source/byteswap_utilities.c.o[0m
+[17.416s] [ 17%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/ring_buffer.c.o[0m
+[17.730s] [ 23%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_gps.c.o[0m
+[17.946s] [ 29%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_ahrs.c.o[0m
+[18.210s] [ 35%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_system.c.o[0m
+[18.405s] [ 41%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_filter.c.o[0m
+[19.015s] [ 47%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_3dm.c.o[0m
+[19.527s] [ 52%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_inteface.c.o[0m
+[19.894s] [ 58%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip_sdk_base.c.o[0m
+[20.125s] [ 64%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/MIPSDK/C/Library/Source/mip.c.o[0m
+[20.354s] [ 70%] [32mBuilding C object CMakeFiles/microstrain_driver.dir/src/mip_sdk_user_functions.c.o[0m
+[20.633s] [ 76%] [32m[1mLinking CXX shared library devel/lib/libmicrostrain_driver.so[0m
+[20.947s] [ 76%] Built target microstrain_driver
+[21.028s] [35m[1mScanning dependencies of target 3dm_gx5_45_node[0m
+[21.130s] [ 82%] [32mBuilding CXX object CMakeFiles/3dm_gx5_45_node.dir/src/3dm_gx5_45_node.cpp.o[0m
+[24.084s] [ 88%] [32m[1mLinking CXX executable devel/lib/microstrain_driver/3dm_gx5_45_node[0m
+[24.469s] [ 88%] Built target 3dm_gx5_45_node
+[24.536s] [35m[1mScanning dependencies of target 3dm_gx5_15_node[0m
+[24.640s] [ 94%] [32mBuilding CXX object CMakeFiles/3dm_gx5_15_node.dir/src/3dm_gx5_15_node.cpp.o[0m
+[27.847s] [100%] [32m[1mLinking CXX executable devel/lib/microstrain_driver/3dm_gx5_15_node[0m
+[28.240s] [100%] Built target 3dm_gx5_15_node
+[30.852s] [35m[1mScanning dependencies of target tests[0m
+[30.915s] Built target tests
+[33.653s] [ 76%] Built target microstrain_driver
+[33.798s] [ 88%] Built target 3dm_gx5_45_node
+[33.958s] [100%] Built target 3dm_gx5_15_node
+[34.088s] [36mInstall the project...[0m
+[34.140s] -- Install configuration: "Release"
+[34.140s] -- Installing: /home/capstone/autoware.ai/install/microstrain_driver/lib/pkgconfig/microstrain_driver.pc
+[34.141s] -- Installing: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/cmake/microstrain_driverConfig.cmake
+[34.141s] -- Installing: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/cmake/microstrain_driverConfig-version.cmake
+[34.141s] -- Installing: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/package.xml
+[34.141s] -- Installing: /home/capstone/autoware.ai/install/microstrain_driver/lib/libmicrostrain_driver.so
+[34.142s] -- Set runtime path of "/home/capstone/autoware.ai/install/microstrain_driver/lib/libmicrostrain_driver.so" to ""
+[34.142s] -- Installing: /home/capstone/autoware.ai/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_15_node
+[34.142s] -- Set runtime path of "/home/capstone/autoware.ai/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_15_node" to ""
+[34.142s] -- Installing: /home/capstone/autoware.ai/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_45_node
+[34.142s] -- Set runtime path of "/home/capstone/autoware.ai/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_45_node" to ""
+[34.143s] -- Installing: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch
+[34.143s] -- Installing: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch/3dm_gx5_15.launch
+[34.143s] -- Installing: /home/capstone/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch/microstrain.launch

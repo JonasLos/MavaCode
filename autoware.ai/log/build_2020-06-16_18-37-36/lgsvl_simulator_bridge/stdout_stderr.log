@@ -1,0 +1,33 @@
+[1.446s] Built target tests
+[2.389s] [36mInstall the project...[0m
+[2.445s] -- Install configuration: "Release"
+[2.454s] + cd /home/capstone/autoware.ai/src/autoware/simulation/lgsvl_simulator_bridge
+[2.454s] + mkdir -p /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/python2.7/dist-packages
+[2.464s] + /usr/bin/env PYTHONPATH=/home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/build/lgsvl_simulator_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/tablet_socket_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/sick_ldmrs_driver/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/sick_ldmrs_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/lanelet2_python/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/kitti_player/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/ds4_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_camera_lidar_calibrator/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_map_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_config_msgs/lib/python2.7/dist-packages:/home/capstone/autoware.ai/install/autoware_can_msgs/lib/python2.7/dist-packages:/opt/carla-ros-bridge/melodic/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/capstone/autoware.ai/build/lgsvl_simulator_bridge /usr/bin/python2 /home/capstone/autoware.ai/src/autoware/simulation/lgsvl_simulator_bridge/setup.py build --build-base /home/capstone/autoware.ai/build/lgsvl_simulator_bridge install --root=/ --install-layout=deb --prefix=/home/capstone/autoware.ai/install/lgsvl_simulator_bridge --install-scripts=/home/capstone/autoware.ai/install/lgsvl_simulator_bridge/bin
+[2.675s] running build
+[2.675s] running build_py
+[2.678s] running install
+[2.678s] running install_lib
+[2.681s] running install_egg_info
+[2.682s] Removing /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/python2.7/dist-packages/lgsvl_simulator_bridge-1.12.0.egg-info
+[2.683s] Writing /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/python2.7/dist-packages/lgsvl_simulator_bridge-1.12.0.egg-info
+[2.690s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/pkgconfig/lgsvl_simulator_bridge.pc
+[2.691s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/cmake/lgsvl_simulator_bridgeConfig.cmake
+[2.691s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/cmake/lgsvl_simulator_bridgeConfig-version.cmake
+[2.691s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/package.xml
+[2.692s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/launch
+[2.692s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/launch/lgsvl_simulator.launch
+[2.693s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/launch/bridge.launch
+[2.693s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/rviz
+[2.693s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/rviz/lgsvl_simulator.rviz
+[2.693s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/config
+[2.695s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/config/sample.json
+[2.695s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/media
+[2.695s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/media/autoware.png
+[2.695s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/media/lgsvl_simulator_bridge.png
+[2.695s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/resource
+[2.695s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/resource/LgsvlSimulatorConfigratorPlugin.ui
+[2.698s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/lgsvl_simulator_bridge/launch_sim.bash
+[2.698s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/lgsvl_simulator_bridge/__init__.py
+[2.698s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/lib/lgsvl_simulator_bridge/configurator.py
+[2.698s] -- Up-to-date: /home/capstone/autoware.ai/install/lgsvl_simulator_bridge/share/lgsvl_simulator_bridge/plugin.xml

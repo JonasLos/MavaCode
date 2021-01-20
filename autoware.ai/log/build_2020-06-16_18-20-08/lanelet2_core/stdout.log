@@ -1,0 +1,92 @@
+[0.597s] [  0%] Built target _catkin_empty_exported_target
+[0.983s] [100%] Built target lanelet2_core
+[4.986s] [  5%] Built target gtest
+[5.085s] [  5%] Built target _catkin_empty_exported_target
+[5.311s] [ 11%] Built target gtest_main
+[5.465s] [ 37%] Built target lanelet2_core
+[5.799s] [ 42%] Built target lanelet2_core-test_attribute-test
+[5.913s] [ 48%] Built target lanelet2_core-test_lanelet_map_geometry-test
+[6.008s] [ 54%] Built target lanelet2_core-test_lanelet-test
+[6.019s] [ 60%] Built target lanelet2_core-test_area-test
+[6.420s] [ 65%] Built target lanelet2_core-test_linestring-test
+[6.434s] [ 71%] Built target lanelet2_core-test_lanelet_sequence-test
+[6.581s] [ 77%] Built target lanelet2_core-test_regulatory_element-test
+[6.590s] [ 82%] Built target lanelet2_core-test_point-test
+[6.640s] [ 88%] Built target lanelet2_core-test_lanelet_or_area-test
+[6.656s] [ 94%] Built target lanelet2_core-test_lanelet_map-test
+[6.704s] [100%] Built target lanelet2_core-test_polygon-test
+[7.003s] [100%] Built target tests
+[8.843s] [  0%] Built target _catkin_empty_exported_target
+[9.031s] [100%] Built target lanelet2_core
+[9.169s] [36mInstall the project...[0m
+[9.247s] -- Install configuration: "Release"
+[9.248s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/lib/pkgconfig/lanelet2_core.pc
+[9.248s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/cmake/lanelet2_coreConfig.cmake
+[9.249s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/cmake/lanelet2_coreConfig-version.cmake
+[9.249s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/package.xml
+[9.250s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/lib/liblanelet2_core.so
+[9.250s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core
+[9.250s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/Exceptions.h
+[9.251s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/Attribute.h
+[9.251s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility
+[9.251s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/TransformIterator.h
+[9.251s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/CompoundIterator.h
+[9.251s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/HybridMap.h
+[9.252s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/ReverseAndForwardIterator.h
+[9.252s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/Optional.h
+[9.252s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/Utilities.h
+[9.252s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/Units.h
+[9.253s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry
+[9.253s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/Point.h
+[9.253s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/Lanelet.h
+[9.253s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/Polygon.h
+[9.253s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/BoundingBox.h
+[9.254s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/GeometryHelper.h
+[9.254s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/RegulatoryElement.h
+[9.254s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl
+[9.254s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl/Lanelet.h
+[9.255s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl/Polygon.h
+[9.255s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl/LineString.h
+[9.255s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl/LaneletMap.h
+[9.267s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl/Area.h
+[9.268s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/LineString.h
+[9.268s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/LaneletMap.h
+[9.268s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/Area.h
+[9.268s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives
+[9.269s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/LaneletOrArea.h
+[9.269s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Point.h
+[9.269s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Lanelet.h
+[9.269s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/CompoundPolygon.h
+[9.269s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Polygon.h
+[9.269s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/CompoundLineString.h
+[9.270s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/LineStringOrPolygon.h
+[9.270s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/BoundingBox.h
+[9.270s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/GPSPoint.h
+[9.270s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/RegulatoryElement.h
+[9.270s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/BasicRegulatoryElements.h
+[9.270s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/LineString.h
+[9.271s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Primitive.h
+[9.271s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Area.h
+[9.271s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Traits.h
+[9.271s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/LaneletSequence.h
+[9.271s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/LaneletMap.h
+[9.271s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/include/lanelet2_core/Forward.h
+[9.271s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/res
+[9.272s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/res/lanelet_gdb.py
+[9.272s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/res/qtcreator_debugging_helpers.py
+[9.272s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc
+[9.272s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images
+[9.272s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/architecture.png
+[9.272s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/linestring.png
+[9.272s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/lanelet.png
+[9.273s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/lanelet2_example_image.png
+[9.273s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/area.png
+[9.273s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/regulatory_element.png
+[9.273s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/max_hose_problem_small.png
+[9.273s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/RegulatoryElementTagging.md
+[9.273s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/LaneletPrimitives.md
+[9.274s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/Lanelet1Compability.md
+[9.274s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/LaneletAndAreaTagging.md
+[9.274s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/Architecture.md
+[9.274s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/LinestringTagging.md
+[9.274s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/GeometryPrimer.md

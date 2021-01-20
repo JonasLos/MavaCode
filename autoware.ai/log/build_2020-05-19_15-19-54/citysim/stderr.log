@@ -1,0 +1,69 @@
+[9.034s] CMake Warning (dev) at /usr/share/cmake-3.10/Modules/FindBoost.cmake:911 (if):
+[9.034s]   Policy CMP0054 is not set: Only interpret if() arguments as variables or
+[9.035s]   keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+[9.035s]   details.  Use the cmake_policy command to set the policy and suppress this
+[9.035s]   warning.
+[9.035s] 
+[9.035s]   Quoted variables like "chrono" will no longer be dereferenced when the
+[9.035s]   policy is set to NEW.  Since the policy is not set the OLD behavior will be
+[9.035s]   used.
+[9.035s] Call Stack (most recent call first):
+[9.036s]   /usr/share/cmake-3.10/Modules/FindBoost.cmake:1558 (_Boost_MISSING_DEPENDENCIES)
+[9.036s]   /usr/share/OGRE/cmake/modules/FindOGRE.cmake:318 (find_package)
+[9.036s]   /usr/lib/x86_64-linux-gnu/cmake/gazebo/gazebo-config.cmake:175 (find_package)
+[9.036s]   CMakeLists.txt:27 (find_package)
+[9.036s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[9.036s] 
+[41.122s] [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:[m[K In member function ‘[01m[Kvoid gazebo::TrafficLightsGUIPlugin::OnKeyPress(ConstAnyPtr&)[m[K’:
+[41.122s] [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:83:39:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::common::Color::Color(const gazebo::common::Color&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[41.122s]    auto black = gazebo::common::Color::[01;35m[KBlack[m[K;
+[41.123s]                                        [01;35m[K^~~~~[m[K
+[41.123s] In file included from [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:38:0[m[K,
+[41.123s]                  from [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18[m[K:
+[41.124s] [01m[K/usr/include/gazebo-9/gazebo/common/Color.hh:95:15:[m[K [01;36m[Knote: [m[Kdeclared here
+[41.124s]        public: [01;36m[KColor[m[K(const Color &_clr) GAZEBO_DEPRECATED(9.0);
+[41.124s]                [01;36m[K^~~~~[m[K
+[41.124s] [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:83:39:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvirtual gazebo::common::Color::~Color()[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[41.124s]    auto black = gazebo::common::Color::[01;35m[KBlack[m[K;
+[41.125s]                                        [01;35m[K^~~~~[m[K
+[41.125s] In file included from [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:38:0[m[K,
+[41.125s]                  from [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18[m[K:
+[41.125s] [01m[K/usr/include/gazebo-9/gazebo/common/Color.hh:98:23:[m[K [01;36m[Knote: [m[Kdeclared here
+[41.125s]        public: virtual [01;36m[K~[m[KColor() GAZEBO_DEPRECATED(9.0);
+[41.126s]                        [01;36m[K^[m[K
+[41.126s] [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:83:39:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvirtual gazebo::common::Color::~Color()[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[41.126s]    auto black = gazebo::common::Color::[01;35m[KBlack[m[K;
+[41.126s]                                        [01;35m[K^~~~~[m[K
+[41.126s] In file included from [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:38:0[m[K,
+[41.126s]                  from [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18[m[K:
+[41.127s] [01m[K/usr/include/gazebo-9/gazebo/common/Color.hh:98:23:[m[K [01;36m[Knote: [m[Kdeclared here
+[41.127s]        public: virtual [01;36m[K~[m[KColor() GAZEBO_DEPRECATED(9.0);
+[41.127s]                        [01;36m[K^[m[K
+[41.132s] [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:105:66:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid gazebo::msgs::Set(gazebo::msgs::Color*, const gazebo::common::Color&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[41.132s]           gazebo::msgs::Set(matMsg->mutable_emissive(), c.first[01;35m[K)[m[K;
+[41.132s]                                                                [01;35m[K^[m[K
+[41.133s] In file included from [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18:0[m[K:
+[41.133s] [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:328:10:[m[K [01;36m[Knote: [m[Kdeclared here
+[41.133s]      void [01;36m[KSet[m[K(msgs::Color *_c, const common::Color &_v) GAZEBO_DEPRECATED(9.0);
+[41.134s]           [01;36m[K^~~[m[K
+[41.134s] [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:106:65:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid gazebo::msgs::Set(gazebo::msgs::Color*, const gazebo::common::Color&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[41.134s]            gazebo::msgs::Set(matMsg->mutable_ambient(), c.first[01;35m[K)[m[K;
+[41.134s]                                                                [01;35m[K^[m[K
+[41.134s] In file included from [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18:0[m[K:
+[41.135s] [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:328:10:[m[K [01;36m[Knote: [m[Kdeclared here
+[41.135s]      void [01;36m[KSet[m[K(msgs::Color *_c, const common::Color &_v) GAZEBO_DEPRECATED(9.0);
+[41.135s]           [01;36m[K^~~[m[K
+[41.135s] [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:110:64:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid gazebo::msgs::Set(gazebo::msgs::Color*, const gazebo::common::Color&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[41.135s]             gazebo::msgs::Set(matMsg->mutable_emissive(), black[01;35m[K)[m[K;
+[41.135s]                                                                [01;35m[K^[m[K
+[41.135s] In file included from [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18:0[m[K:
+[41.136s] [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:328:10:[m[K [01;36m[Knote: [m[Kdeclared here
+[41.136s]      void [01;36m[KSet[m[K(msgs::Color *_c, const common::Color &_v) GAZEBO_DEPRECATED(9.0);
+[41.136s]           [01;36m[K^~~[m[K
+[41.136s] [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:111:63:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid gazebo::msgs::Set(gazebo::msgs::Color*, const gazebo::common::Color&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[41.137s]              gazebo::msgs::Set(matMsg->mutable_ambient(), black[01;35m[K)[m[K;
+[41.137s]                                                                [01;35m[K^[m[K
+[41.137s] In file included from [01m[K/home/capstone/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18:0[m[K:
+[41.138s] [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:328:10:[m[K [01;36m[Knote: [m[Kdeclared here
+[41.138s]      void [01;36m[KSet[m[K(msgs::Color *_c, const common::Color &_v) GAZEBO_DEPRECATED(9.0);
+[41.138s]           [01;36m[K^~~[m[K

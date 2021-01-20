@@ -1,0 +1,8 @@
+[0.069s] Invoking command in '/home/capstone/autoware.ai/build/gnss': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/common/gnss -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/gnss
+[7.336s] Invoked command in '/home/capstone/autoware.ai/build/gnss' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/common/gnss -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/gnss
+[7.338s] Invoking command in '/home/capstone/autoware.ai/build/gnss': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss -- -j12 -l12
+[8.759s] Invoked command in '/home/capstone/autoware.ai/build/gnss' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss -- -j12 -l12
+[13.371s] Invoking command in '/home/capstone/autoware.ai/build/gnss': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss --target tests -- -j12 -l12
+[32.030s] Invoked command in '/home/capstone/autoware.ai/build/gnss' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss --target tests -- -j12 -l12
+[33.832s] Invoking command in '/home/capstone/autoware.ai/build/gnss': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss --target install -- -j12 -l12
+[34.599s] Invoked command in '/home/capstone/autoware.ai/build/gnss' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss --target install -- -j12 -l12

@@ -1,0 +1,33 @@
+[0.933s] [  0%] Built target _catkin_empty_exported_target
+[1.098s] [ 16%] Built target lanelet2_python-lanelet2-projection-pyapi
+[1.271s] [ 33%] Built target lanelet2_python-lanelet2-traffic_rules-pyapi
+[1.434s] [ 50%] Built target lanelet2_python-lanelet2-routing-pyapi
+[1.639s] [ 66%] Built target lanelet2_python-lanelet2-geometry-pyapi
+[1.821s] [ 83%] Built target lanelet2_python-lanelet2-io-pyapi
+[2.004s] [100%] Built target lanelet2_python-lanelet2-core-pyapi
+[3.129s] Built target tests
+[4.090s] [  0%] Built target _catkin_empty_exported_target
+[4.254s] [ 16%] Built target lanelet2_python-lanelet2-projection-pyapi
+[4.418s] [ 33%] Built target lanelet2_python-lanelet2-traffic_rules-pyapi
+[4.648s] [ 50%] Built target lanelet2_python-lanelet2-routing-pyapi
+[4.821s] [ 66%] Built target lanelet2_python-lanelet2-geometry-pyapi
+[4.985s] [ 83%] Built target lanelet2_python-lanelet2-io-pyapi
+[5.159s] [100%] Built target lanelet2_python-lanelet2-core-pyapi
+[5.297s] [36mInstall the project...[0m
+[5.356s] -- Install configuration: "Release"
+[5.644s] running build
+[5.645s] running build_py
+[5.649s] running install
+[5.650s] running install_lib
+[5.654s] running install_egg_info
+[5.656s] Removing /home/capstone/autoware.ai/install/lanelet2_python/lib/python2.7/dist-packages/lanelet2_python-0.8.0.egg-info
+[5.657s] Writing /home/capstone/autoware.ai/install/lanelet2_python/lib/python2.7/dist-packages/lanelet2_python-0.8.0.egg-info
+[5.665s] Creating $DESTDIR/home/capstone/autoware.ai/install/lanelet2_python/lib/python2.7/dist-packages
+[5.665s] /usr/bin/python2 /home/capstone/autoware.ai/build/lanelet2_python/setup.py build --build-base /home/capstone/autoware.ai/build/lanelet2_python install --install-layout=deb --prefix=/home/capstone/autoware.ai/install/lanelet2_python --install-scripts=/home/capstone/autoware.ai/install/lanelet2_python/bin
+[5.666s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_python/lib/pkgconfig/lanelet2_python.pc
+[5.668s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_python/share/lanelet2_python/cmake/lanelet2_pythonConfig.cmake
+[5.669s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_python/share/lanelet2_python/cmake/lanelet2_pythonConfig-version.cmake
+[5.669s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_python/share/lanelet2_python/package.xml
+[5.670s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_python/lib/lanelet2_python/create_debug_routing_graph.py
+[5.670s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_python/lib/lanelet2_python/make_ids_positive.py
+[5.670s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_python/lib/lanelet2_python/print_ids.py

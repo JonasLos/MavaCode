@@ -1,0 +1,6 @@
+/home/capstone/autoware.ai/install/way_planner/lib/pkgconfig/way_planner.pc
+/home/capstone/autoware.ai/install/way_planner/share/way_planner/cmake/way_plannerConfig.cmake
+/home/capstone/autoware.ai/install/way_planner/share/way_planner/cmake/way_plannerConfig-version.cmake
+/home/capstone/autoware.ai/install/way_planner/share/way_planner/package.xml
+/home/capstone/autoware.ai/install/way_planner/lib/way_planner/way_planner
+/home/capstone/autoware.ai/install/way_planner/share/way_planner/launch/way_planner.launch

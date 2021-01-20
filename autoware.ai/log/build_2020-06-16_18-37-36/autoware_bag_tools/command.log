@@ -1,0 +1,6 @@
+[0.060s] Invoking command in '/home/capstone/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools -- -j12 -l12
+[3.006s] Invoked command in '/home/capstone/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools -- -j12 -l12
+[4.674s] Invoking command in '/home/capstone/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target tests -- -j12 -l12
+[5.250s] Invoked command in '/home/capstone/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target tests -- -j12 -l12
+[5.813s] Invoking command in '/home/capstone/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target install -- -j12 -l12
+[11.088s] Invoked command in '/home/capstone/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target install -- -j12 -l12

@@ -1,0 +1,6 @@
+[0.078s] Invoking command in '/home/capstone/autoware.ai/build/vehicle_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_description -- -j12 -l12
+[0.492s] Invoked command in '/home/capstone/autoware.ai/build/vehicle_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_description -- -j12 -l12
+[0.744s] Invoking command in '/home/capstone/autoware.ai/build/vehicle_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_description --target tests -- -j12 -l12
+[1.253s] Invoked command in '/home/capstone/autoware.ai/build/vehicle_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_description --target tests -- -j12 -l12
+[1.495s] Invoking command in '/home/capstone/autoware.ai/build/vehicle_description': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_description --target install -- -j12 -l12
+[2.052s] Invoked command in '/home/capstone/autoware.ai/build/vehicle_description' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/vehicle_description --target install -- -j12 -l12

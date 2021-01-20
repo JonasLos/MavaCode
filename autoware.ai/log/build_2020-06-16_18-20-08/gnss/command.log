@@ -1,0 +1,6 @@
+[0.128s] Invoking command in '/home/capstone/autoware.ai/build/gnss': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss -- -j12 -l12
+[1.433s] Invoked command in '/home/capstone/autoware.ai/build/gnss' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss -- -j12 -l12
+[3.452s] Invoking command in '/home/capstone/autoware.ai/build/gnss': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss --target tests -- -j12 -l12
+[4.807s] Invoked command in '/home/capstone/autoware.ai/build/gnss' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss --target tests -- -j12 -l12
+[5.843s] Invoking command in '/home/capstone/autoware.ai/build/gnss': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss --target install -- -j12 -l12
+[6.645s] Invoked command in '/home/capstone/autoware.ai/build/gnss' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/gnss --target install -- -j12 -l12

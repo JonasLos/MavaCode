@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/capstone/autoware.ai/build/pcl_omp_registration/devel/setup.sh

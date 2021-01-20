@@ -1,0 +1,13 @@
+[0.100s] Invoking command in '/home/capstone/autoware.ai/build/autoware_external_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs -- -j12 -l12
+[0.491s] Invoked command in '/home/capstone/autoware.ai/build/autoware_external_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs -- -j12 -l12
+[1.170s] Invoking command in '/home/capstone/autoware.ai/build/autoware_external_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs --target tests -- -j12 -l12
+[1.879s] Built target tests
+[2.016s] Invoked command in '/home/capstone/autoware.ai/build/autoware_external_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs --target tests -- -j12 -l12
+[2.608s] Invoking command in '/home/capstone/autoware.ai/build/autoware_external_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs --target install -- -j12 -l12
+[3.330s] [36mInstall the project...[0m
+[3.438s] -- Install configuration: "Release"
+[3.438s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_external_msgs/lib/pkgconfig/autoware_external_msgs.pc
+[3.439s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_external_msgs/share/autoware_external_msgs/cmake/autoware_external_msgsConfig.cmake
+[3.439s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_external_msgs/share/autoware_external_msgs/cmake/autoware_external_msgsConfig-version.cmake
+[3.439s] -- Up-to-date: /home/capstone/autoware.ai/install/autoware_external_msgs/share/autoware_external_msgs/package.xml
+[3.447s] Invoked command in '/home/capstone/autoware.ai/build/autoware_external_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_external_msgs --target install -- -j12 -l12

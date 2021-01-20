@@ -1,0 +1,6 @@
+[0.249s] Invoking command in '/home/capstone/autoware.ai/build/ndt_cpu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu -- -j12 -l12
+[1.532s] Invoked command in '/home/capstone/autoware.ai/build/ndt_cpu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu -- -j12 -l12
+[2.611s] Invoking command in '/home/capstone/autoware.ai/build/ndt_cpu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu --target tests -- -j12 -l12
+[3.939s] Invoked command in '/home/capstone/autoware.ai/build/ndt_cpu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu --target tests -- -j12 -l12
+[4.826s] Invoking command in '/home/capstone/autoware.ai/build/ndt_cpu': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu --target install -- -j12 -l12
+[5.411s] Invoked command in '/home/capstone/autoware.ai/build/ndt_cpu' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ndt_cpu --target install -- -j12 -l12

@@ -1,0 +1,187 @@
+[0.155s] Invoking command in '/home/capstone/autoware.ai/build/custom_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/custom_msgs -- -j12 -l12
+[0.634s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.677s] [  0%] Built target std_msgs_generate_messages_py
+[0.682s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.787s] [  0%] Built target _custom_msgs_generate_messages_check_deps_gnssSample
+[0.828s] [  0%] Built target _custom_msgs_generate_messages_check_deps_Internal
+[0.885s] [  0%] Built target _custom_msgs_generate_messages_check_deps_GnssSensorSample
+[0.885s] [  0%] Built target _custom_msgs_generate_messages_check_deps_XsensQuaternion
+[0.887s] [  0%] Built target _custom_msgs_generate_messages_check_deps_positionEstimate
+[0.907s] [  0%] Built target _custom_msgs_generate_messages_check_deps_baroSample
+[0.910s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.927s] [  0%] Built target _custom_msgs_generate_messages_check_deps_velocityEstimate
+[0.998s] [  0%] Built target _custom_msgs_generate_messages_check_deps_BaroSensorSample
+[1.016s] [  0%] Built target _custom_msgs_generate_messages_check_deps_orientationEstimate
+[1.183s] [  0%] Built target _custom_msgs_generate_messages_check_deps_ImuSensorSample
+[1.185s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.191s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[1.210s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.227s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[1.240s] [  0%] Built target _custom_msgs_generate_messages_check_deps_sensorSample
+[1.262s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[1.326s] [  0%] Built target sensor_msgs_generate_messages_eus
+[1.344s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[1.345s] [  0%] Built target std_msgs_generate_messages_eus
+[1.391s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[1.391s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.421s] [  0%] Built target geometry_msgs_generate_messages_eus
+[1.513s] [ 19%] Built target custom_msgs_generate_messages_nodejs
+[1.562s] [ 38%] Built target custom_msgs_generate_messages_cpp
+[1.582s] [ 59%] Built target custom_msgs_generate_messages_py
+[1.675s] [ 78%] Built target custom_msgs_generate_messages_lisp
+[1.772s] [100%] Built target custom_msgs_generate_messages_eus
+[1.964s] [100%] Built target custom_msgs_generate_messages
+[2.086s] Invoked command in '/home/capstone/autoware.ai/build/custom_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/custom_msgs -- -j12 -l12
+[3.722s] Invoking command in '/home/capstone/autoware.ai/build/custom_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/custom_msgs --target tests -- -j12 -l12
+[5.090s] Built target tests
+[5.442s] Invoked command in '/home/capstone/autoware.ai/build/custom_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/custom_msgs --target tests -- -j12 -l12
+[8.517s] Invoking command in '/home/capstone/autoware.ai/build/custom_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/custom_msgs --target install -- -j12 -l12
+[9.895s] [  0%] Built target sensor_msgs_generate_messages_py
+[10.118s] [  0%] Built target std_msgs_generate_messages_py
+[10.150s] [  0%] Built target geometry_msgs_generate_messages_py
+[10.305s] [  0%] Built target _custom_msgs_generate_messages_check_deps_BaroSensorSample
+[10.313s] [  0%] Built target _custom_msgs_generate_messages_check_deps_XsensQuaternion
+[10.418s] [  0%] Built target _custom_msgs_generate_messages_check_deps_velocityEstimate
+[10.442s] [  0%] Built target _custom_msgs_generate_messages_check_deps_baroSample
+[10.491s] [  0%] Built target _custom_msgs_generate_messages_check_deps_GnssSensorSample
+[10.524s] [  0%] Built target _custom_msgs_generate_messages_check_deps_Internal
+[10.569s] [  0%] Built target _custom_msgs_generate_messages_check_deps_positionEstimate
+[10.625s] [  0%] Built target _custom_msgs_generate_messages_check_deps_gnssSample
+[10.625s] [  0%] Built target _custom_msgs_generate_messages_check_deps_orientationEstimate
+[10.912s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[10.962s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[10.962s] [  0%] Built target _custom_msgs_generate_messages_check_deps_sensorSample
+[10.988s] [  0%] Built target std_msgs_generate_messages_nodejs
+[11.030s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[11.098s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[11.112s] [  0%] Built target std_msgs_generate_messages_cpp
+[11.152s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[11.170s] [  0%] Built target _custom_msgs_generate_messages_check_deps_ImuSensorSample
+[11.236s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[11.253s] [  0%] Built target std_msgs_generate_messages_eus
+[11.304s] [  0%] Built target std_msgs_generate_messages_lisp
+[11.311s] [  0%] Built target sensor_msgs_generate_messages_eus
+[11.419s] [  0%] Built target geometry_msgs_generate_messages_eus
+[11.558s] [ 19%] Built target custom_msgs_generate_messages_nodejs
+[11.612s] [ 38%] Built target custom_msgs_generate_messages_lisp
+[11.618s] [ 59%] Built target custom_msgs_generate_messages_py
+[11.671s] [ 78%] Built target custom_msgs_generate_messages_cpp
+[11.773s] [100%] Built target custom_msgs_generate_messages_eus
+[11.966s] [100%] Built target custom_msgs_generate_messages
+[12.178s] [36mInstall the project...[0m
+[12.250s] -- Install configuration: "Release"
+[12.251s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/BaroSensorSample.msg
+[12.251s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/GnssSensorSample.msg
+[12.251s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/ImuSensorSample.msg
+[12.252s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/Internal.msg
+[12.252s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/XsensQuaternion.msg
+[12.252s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/baroSample.msg
+[12.252s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/gnssSample.msg
+[12.253s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/orientationEstimate.msg
+[12.253s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/positionEstimate.msg
+[12.253s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/sensorSample.msg
+[12.253s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/msg/velocityEstimate.msg
+[12.254s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/cmake/custom_msgs-msg-paths.cmake
+[12.254s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs
+[12.254s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/GnssSensorSample.h
+[12.254s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/gnssSample.h
+[12.254s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/XsensQuaternion.h
+[12.255s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/BaroSensorSample.h
+[12.255s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/orientationEstimate.h
+[12.255s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/sensorSample.h
+[12.255s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/positionEstimate.h
+[12.255s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/Internal.h
+[12.255s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/baroSample.h
+[12.256s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/ImuSensorSample.h
+[12.256s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/include/custom_msgs/velocityEstimate.h
+[12.256s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs
+[12.256s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/manifest.l
+[12.256s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg
+[12.256s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/positionEstimate.l
+[12.256s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/sensorSample.l
+[12.257s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/velocityEstimate.l
+[12.257s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/gnssSample.l
+[12.258s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/baroSample.l
+[12.258s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/ImuSensorSample.l
+[12.258s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/orientationEstimate.l
+[12.258s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/GnssSensorSample.l
+[12.258s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/Internal.l
+[12.258s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/XsensQuaternion.l
+[12.259s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/roseus/ros/custom_msgs/msg/BaroSensorSample.l
+[12.259s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs
+[12.259s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg
+[12.259s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_gnssSample.lisp
+[12.259s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/sensorSample.lisp
+[12.259s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/ImuSensorSample.lisp
+[12.259s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/custom_msgs-msg.asd
+[12.260s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/gnssSample.lisp
+[12.260s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_velocityEstimate.lisp
+[12.260s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_GnssSensorSample.lisp
+[12.260s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/orientationEstimate.lisp
+[12.260s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/velocityEstimate.lisp
+[12.260s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_XsensQuaternion.lisp
+[12.261s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_ImuSensorSample.lisp
+[12.261s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/XsensQuaternion.lisp
+[12.261s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_Internal.lisp
+[12.261s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/positionEstimate.lisp
+[12.262s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package.lisp
+[12.262s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_sensorSample.lisp
+[12.262s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_positionEstimate.lisp
+[12.262s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/Internal.lisp
+[12.262s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/baroSample.lisp
+[12.262s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/BaroSensorSample.lisp
+[12.262s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_orientationEstimate.lisp
+[12.263s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_baroSample.lisp
+[12.263s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/_package_BaroSensorSample.lisp
+[12.263s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/common-lisp/ros/custom_msgs/msg/GnssSensorSample.lisp
+[12.269s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs
+[12.269s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/_index.js
+[12.269s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg
+[12.269s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/BaroSensorSample.js
+[12.270s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/XsensQuaternion.js
+[12.270s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/_index.js
+[12.270s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/orientationEstimate.js
+[12.271s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/ImuSensorSample.js
+[12.271s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/baroSample.js
+[12.271s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/GnssSensorSample.js
+[12.271s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/gnssSample.js
+[12.271s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/sensorSample.js
+[12.271s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/velocityEstimate.js
+[12.272s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/Internal.js
+[12.272s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/gennodejs/ros/custom_msgs/msg/positionEstimate.js
+[12.351s] Listing /home/capstone/autoware.ai/build/custom_msgs/devel/lib/python2.7/dist-packages/custom_msgs ...
+[12.351s] Listing /home/capstone/autoware.ai/build/custom_msgs/devel/lib/python2.7/dist-packages/custom_msgs/msg ...
+[12.354s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs
+[12.354s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/__init__.pyc
+[12.354s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/__init__.py
+[12.354s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg
+[12.355s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_velocityEstimate.pyc
+[12.355s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_gnssSample.py
+[12.355s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_GnssSensorSample.py
+[12.355s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_velocityEstimate.py
+[12.355s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_XsensQuaternion.pyc
+[12.366s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_ImuSensorSample.py
+[12.366s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_Internal.py
+[12.367s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_sensorSample.pyc
+[12.367s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_gnssSample.pyc
+[12.367s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_orientationEstimate.py
+[12.367s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_BaroSensorSample.pyc
+[12.367s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_XsensQuaternion.py
+[12.367s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_Internal.pyc
+[12.368s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_positionEstimate.py
+[12.368s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_GnssSensorSample.pyc
+[12.368s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_ImuSensorSample.pyc
+[12.368s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_baroSample.pyc
+[12.368s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_sensorSample.py
+[12.368s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_BaroSensorSample.py
+[12.369s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/__init__.pyc
+[12.369s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_orientationEstimate.pyc
+[12.369s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_positionEstimate.pyc
+[12.369s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/_baroSample.py
+[12.369s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages/custom_msgs/msg/__init__.py
+[12.369s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/lib/pkgconfig/custom_msgs.pc
+[12.369s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/cmake/custom_msgs-msg-extras.cmake
+[12.370s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/cmake/custom_msgsConfig.cmake
+[12.370s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/cmake/custom_msgsConfig-version.cmake
+[12.370s] -- Up-to-date: /home/capstone/autoware.ai/install/custom_msgs/share/custom_msgs/package.xml
+[12.370s] Invoked command in '/home/capstone/autoware.ai/build/custom_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/custom_msgs --target install -- -j12 -l12

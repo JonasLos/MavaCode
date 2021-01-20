@@ -1,0 +1,6 @@
+[0.174s] Invoking command in '/home/capstone/autoware.ai/build/ros_observer': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer -- -j12 -l12
+[3.014s] Invoked command in '/home/capstone/autoware.ai/build/ros_observer' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer -- -j12 -l12
+[5.002s] Invoking command in '/home/capstone/autoware.ai/build/ros_observer': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer --target tests -- -j12 -l12
+[6.638s] Invoked command in '/home/capstone/autoware.ai/build/ros_observer' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer --target tests -- -j12 -l12
+[7.883s] Invoking command in '/home/capstone/autoware.ai/build/ros_observer': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer --target install -- -j12 -l12
+[9.358s] Invoked command in '/home/capstone/autoware.ai/build/ros_observer' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/ros_observer --target install -- -j12 -l12

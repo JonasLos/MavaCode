@@ -1,0 +1,6 @@
+[0.064s] Invoking command in '/home/capstone/autoware.ai/build/citysim': /usr/bin/cmake /home/capstone/autoware.ai/src/citysim -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/citysim
+[18.483s] Invoked command in '/home/capstone/autoware.ai/build/citysim' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/citysim -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/citysim
+[18.486s] Invoking command in '/home/capstone/autoware.ai/build/citysim': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim -- -j12 -l12
+[109.296s] Invoked command in '/home/capstone/autoware.ai/build/citysim' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim -- -j12 -l12
+[109.733s] Invoking command in '/home/capstone/autoware.ai/build/citysim': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim --target install -- -j12 -l12
+[111.987s] Invoked command in '/home/capstone/autoware.ai/build/citysim' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/citysim --target install -- -j12 -l12

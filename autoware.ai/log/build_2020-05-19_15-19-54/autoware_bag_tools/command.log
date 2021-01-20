@@ -1,0 +1,8 @@
+[0.047s] Invoking command in '/home/capstone/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/utilities/autoware_bag_tools -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/autoware_bag_tools
+[11.749s] Invoked command in '/home/capstone/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/utilities/autoware_bag_tools -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/autoware_bag_tools
+[11.752s] Invoking command in '/home/capstone/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools -- -j12 -l12
+[28.346s] Invoked command in '/home/capstone/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools -- -j12 -l12
+[29.247s] Invoking command in '/home/capstone/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target tests -- -j12 -l12
+[29.671s] Invoked command in '/home/capstone/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target tests -- -j12 -l12
+[30.670s] Invoking command in '/home/capstone/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target install -- -j12 -l12
+[36.005s] Invoked command in '/home/capstone/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_bag_tools --target install -- -j12 -l12

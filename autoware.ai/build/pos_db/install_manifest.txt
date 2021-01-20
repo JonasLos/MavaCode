@@ -1,0 +1,9 @@
+/home/capstone/autoware.ai/install/pos_db/lib/pkgconfig/pos_db.pc
+/home/capstone/autoware.ai/install/pos_db/share/pos_db/cmake/pos_dbConfig.cmake
+/home/capstone/autoware.ai/install/pos_db/share/pos_db/cmake/pos_dbConfig-version.cmake
+/home/capstone/autoware.ai/install/pos_db/share/pos_db/package.xml
+/home/capstone/autoware.ai/install/pos_db/lib/pos_db/pos_downloader
+/home/capstone/autoware.ai/install/pos_db/lib/libpos_db.so
+/home/capstone/autoware.ai/install/pos_db/lib/pos_db/pos_uploader
+/home/capstone/autoware.ai/install/pos_db/include/pos_db/include/pos_db.h
+/home/capstone/autoware.ai/install/pos_db/share/pos_db/model/prius_model.dae

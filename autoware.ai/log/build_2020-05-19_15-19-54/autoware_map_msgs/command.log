@@ -1,0 +1,8 @@
+[0.083s] Invoking command in '/home/capstone/autoware.ai/build/autoware_map_msgs': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/messages/autoware_map_msgs -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/autoware_map_msgs
+[10.498s] Invoked command in '/home/capstone/autoware.ai/build/autoware_map_msgs' returned '0': /usr/bin/cmake /home/capstone/autoware.ai/src/autoware/messages/autoware_map_msgs -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/capstone/autoware.ai/install/autoware_map_msgs
+[10.500s] Invoking command in '/home/capstone/autoware.ai/build/autoware_map_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs -- -j12 -l12
+[74.623s] Invoked command in '/home/capstone/autoware.ai/build/autoware_map_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs -- -j12 -l12
+[75.853s] Invoking command in '/home/capstone/autoware.ai/build/autoware_map_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs --target tests -- -j12 -l12
+[76.361s] Invoked command in '/home/capstone/autoware.ai/build/autoware_map_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs --target tests -- -j12 -l12
+[77.872s] Invoking command in '/home/capstone/autoware.ai/build/autoware_map_msgs': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs --target install -- -j12 -l12
+[90.259s] Invoked command in '/home/capstone/autoware.ai/build/autoware_map_msgs' returned '0': /usr/bin/cmake --build /home/capstone/autoware.ai/build/autoware_map_msgs --target install -- -j12 -l12

@@ -1,0 +1,17 @@
+[1.981s] Built target tests
+[3.782s] [36mInstall the project...[0m
+[3.855s] -- Install configuration: "Release"
+[3.856s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/lib/pkgconfig/lanelet2_maps.pc
+[3.857s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/cmake/lanelet2_mapsConfig.cmake
+[3.858s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/cmake/lanelet2_mapsConfig-version.cmake
+[3.858s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/package.xml
+[3.859s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/include/lanelet2_maps
+[3.859s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/include/lanelet2_maps/internal
+[3.859s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/res
+[3.860s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/res/mapping_example.osm
+[3.860s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm
+[3.861s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/lines.mapcss
+[3.861s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/.gitignore
+[3.861s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/lanelets.mapcss
+[3.862s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/laneletpresets.xml
+[3.862s] -- Up-to-date: /home/capstone/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/style_images.zip

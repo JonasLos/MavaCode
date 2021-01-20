@@ -1,0 +1,10 @@
+/home/capstone/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig/lanelet2_traffic_rules.pc
+/home/capstone/autoware.ai/install/lanelet2_traffic_rules/share/lanelet2_traffic_rules/cmake/lanelet2_traffic_rulesConfig.cmake
+/home/capstone/autoware.ai/install/lanelet2_traffic_rules/share/lanelet2_traffic_rules/cmake/lanelet2_traffic_rulesConfig-version.cmake
+/home/capstone/autoware.ai/install/lanelet2_traffic_rules/share/lanelet2_traffic_rules/package.xml
+/home/capstone/autoware.ai/install/lanelet2_traffic_rules/lib/liblanelet2_traffic_rules.so
+/home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/GermanTrafficRules.h
+/home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/GenericTrafficRules.h
+/home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/Exceptions.h
+/home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/TrafficRulesFactory.h
+/home/capstone/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/TrafficRules.h
